@@ -1,0 +1,201 @@
+Disease	CircRNA	Probability
+bladder cancer	hsa_circ_0067531	0.86
+bladder cancer	hsa_circ_0000497	0.83
+bladder cancer	hsa_circ_0068669	0.83
+bladder cancer	hsa_circ_0008450	0.83
+bladder cancer	hsa_circ_0007874	0.81
+bladder cancer	hsa_circ_0004018	0.81
+bladder cancer	hsa_circ_0085154	0.8
+bladder cancer	hsa_circ_0075736	0.8
+bladder cancer	hsa_circ_0002133	0.8
+bladder cancer	hsa_circ_0005986	0.79
+bladder cancer	hsa_circ_0021093	0.79
+bladder cancer	hsa_circ_0000839	0.79
+bladder cancer	hsa_circ_0067934	0.78
+bladder cancer	hsa_circ_0091894	0.75
+bladder cancer	hsa_circ_0000615	0.72
+bladder cancer	hsa_circ_0013958	0.72
+bladder cancer	hsa_circ_0008345	0.72
+bladder cancer	hsa_circ_0000130	0.72
+bladder cancer	hsa_circ_0054155	0.71
+bladder cancer	hsa_circ_0000118	0.71
+breast cancer	hsa_circ_0000627	0.95
+breast cancer	hsa_circ_0000130	0.95
+breast cancer	hsa_circ_0001370	0.95
+breast cancer	hsa_circ_0001417	0.93
+breast cancer	hsa_circ_0005556	0.93
+breast cancer	hsa_circ_0000069	0.92
+breast cancer	hsa_circ_0008394	0.91
+breast cancer	hsa_circ_0071589	0.91
+breast cancer	hsa_circ_0000175	0.91
+breast cancer	hsa_circ_0058766	0.9
+breast cancer	hsa_circ_0001546	0.9
+breast cancer	hsa_circ_0002138	0.9
+breast cancer	hsa_circ_0000026	0.89
+breast cancer	hsa_circ_0001895	0.89
+breast cancer	hsa_circ_0000915	0.89
+breast cancer	hsa_circ_0001819	0.89
+breast cancer	hsa_circ_0000345	0.89
+breast cancer	hsa_circ_0001633	0.88
+breast cancer	hsa_circ_0003570	0.88
+breast cancer	hsa_circ_0001017	0.88
+cardiovascular disease	hsa_circ_0052372	0.78
+cardiovascular disease	hsa_circ_0021001	0.66
+cardiovascular disease	hsa_circ_0033299	0.33
+cardiovascular disease	hsa_circ_0020159	0.33
+cardiovascular disease	hsa_circ_0038383	0.32
+cardiovascular disease	hsa_circ_0080210	0.31
+cardiovascular disease	hsa_circ_0054345	0.3
+cardiovascular disease	hsa_circ_0072765	0.3
+cardiovascular disease	hsa_circ_0091702	0.3
+cardiovascular disease	hsa_circ_0070963	0.3
+cardiovascular disease	hsa_circ_0043497	0.29
+cardiovascular disease	hsa_circ_0061893	0.28
+cardiovascular disease	hsa_circ_0001204	0.28
+cardiovascular disease	hsa_circ_0012673	0.28
+cardiovascular disease	hsa_circ_0030569	0.27
+cardiovascular disease	hsa_circ_0041946	0.27
+cardiovascular disease	hsa_circ_0018168	0.26
+cardiovascular disease	hsa_circ_0013255	0.26
+cardiovascular disease	hsa_circ_0071410	0.26
+cardiovascular disease	hsa_circ_0008305	0.26
+cervical cancer	hsa_circ_0001895	0.77
+cervical cancer	hsa_circ_0001791	0.68
+cervical cancer	hsa_circ_0092276	0.64
+cervical cancer	hsa_circ_0043138	0.64
+cervical cancer	hsa_circ_0000144	0.6
+cervical cancer	hsa_circ_0001283	0.6
+cervical cancer	hsa_circ_0004771	0.59
+cervical cancer	hsa_circ_0001577	0.58
+cervical cancer	hsa_circ_0001821	0.57
+cervical cancer	hsa_circ_0001445	0.56
+cervical cancer	hsa_circ_0001819	0.54
+cervical cancer	hsa_circ_0089310	0.54
+cervical cancer	hsa_circ_0005620	0.53
+cervical cancer	hsa_circ_0001946	0.52
+cervical cancer	hsa_circ_0001566	0.52
+cervical cancer	hsa_circ_0001410	0.52
+cervical cancer	hsa_circ_0032683	0.51
+cervical cancer	hsa_circ_0001417	0.51
+cervical cancer	hsa_circ_0001564	0.5
+cervical cancer	hsa_circ_0056048	0.5
+colorectal cancer	hsa_circ_0003570	0.95
+colorectal cancer	hsa_circ_0043256	0.94
+colorectal cancer	hsa_circ_0005239	0.92
+colorectal cancer	hsa_circ_0005684	0.89
+colorectal cancer	hsa_circ_0005075	0.89
+colorectal cancer	hsa_circ_0000144	0.89
+colorectal cancer	hsa_circ_0004018	0.88
+colorectal cancer	hsa_circ_0007874	0.87
+colorectal cancer	hsa_circ_0001135	0.87
+colorectal cancer	hsa_circ_0000615	0.86
+colorectal cancer	hsa_circ_0085154	0.86
+colorectal cancer	hsa_circ_0054155	0.85
+colorectal cancer	hsa_circ_0001727	0.85
+colorectal cancer	hsa_circ_0023404	0.85
+colorectal cancer	hsa_circ_0000497	0.85
+colorectal cancer	hsa_circ_0000893	0.85
+colorectal cancer	hsa_circ_0075736	0.85
+colorectal cancer	hsa_circ_0002007	0.85
+colorectal cancer	hsa_circ_0000118	0.85
+colorectal cancer	hsa_circ_0059044	0.85
+gastric cancer	hsa_circ_0092276	1
+gastric cancer	hsa_circ_0017841	1
+gastric cancer	hsa_circ_0001135	0.99
+gastric cancer	hsa_circ_0001283	0.99
+gastric cancer	hsa_circ_0003222	0.98
+gastric cancer	hsa_circ_0001417	0.98
+gastric cancer	hsa_circ_0000522	0.98
+gastric cancer	hsa_circ_0004771	0.98
+gastric cancer	hsa_circ_0001875	0.97
+gastric cancer	hsa_circ_0001313	0.96
+gastric cancer	hsa_circ_0000981	0.96
+gastric cancer	hsa_circ_0000638	0.96
+gastric cancer	hsa_circ_0006903	0.96
+gastric cancer	hsa_circ_0086241	0.96
+gastric cancer	hsa_circ_0003570	0.95
+gastric cancer	hsa_circ_0002168	0.95
+gastric cancer	hsa_circ_0004214	0.94
+gastric cancer	hsa_circ_0000523	0.94
+gastric cancer	hsa_circ_0001824	0.94
+gastric cancer	hsa_circ_0085567	0.94
+glioma	hsa_circ_0080121	0.81
+glioma	hsa_circ_0032876	0.74
+glioma	hsa_circ_0000638	0.73
+glioma	hsa_circ_0005603	0.73
+glioma	hsa_circ_0006460	0.72
+glioma	hsa_circ_0001445	0.71
+glioma	hsa_circ_0004872	0.71
+glioma	hsa_circ_0028899	0.71
+glioma	hsa_circ_0000177	0.71
+glioma	hsa_circ_0000199	0.7
+glioma	hsa_circ_0000831	0.7
+glioma	hsa_circ_0003586	0.7
+glioma	hsa_circ_0067735	0.69
+glioma	hsa_circ_0012129	0.67
+glioma	hsa_circ_0006411	0.67
+glioma	hsa_circ_0003838	0.64
+glioma	hsa_circ_0001070	0.64
+glioma	hsa_circ_0003575	0.62
+glioma	hsa_circ_0007031	0.62
+glioma	hsa_circ_0001727	0.61
+leukemia	hsa_circ_0017446	0.74
+leukemia	hsa_circ_0008078	0.49
+leukemia	hsa_circ_0000118	0.43
+leukemia	hsa_circ_0001187	0.42
+leukemia	hsa_circ_0049657	0.42
+leukemia	hsa_circ_0004136	0.41
+leukemia	hsa_circ_0058058	0.4
+leukemia	hsa_circ_0000254	0.38
+leukemia	hsa_circ_0000488	0.38
+leukemia	hsa_circ_0064996	0.37
+leukemia	hsa_circ_0001947	0.36
+leukemia	hsa_circ_0001577	0.36
+leukemia	hsa_circ_0035381	0.35
+leukemia	hsa_circ_0000615	0.33
+leukemia	hsa_circ_0008345	0.33
+leukemia	hsa_circ_0001821	0.33
+leukemia	hsa_circ_0001445	0.32
+leukemia	hsa_circ_0092024	0.32
+leukemia	hsa_circ_0023903	0.32
+leukemia	hsa_circ_0046449	0.32
+lung cancer	hsa_circ_0001819	0.88
+lung cancer	hsa_circ_0007385	0.84
+lung cancer	hsa_circ_0021093	0.79
+lung cancer	hsa_circ_0014130	0.79
+lung cancer	hsa_circ_0067531	0.79
+lung cancer	hsa_circ_0005075	0.78
+lung cancer	hsa_circ_0006411	0.78
+lung cancer	hsa_circ_0000130	0.78
+lung cancer	hsa_circ_0007534	0.77
+lung cancer	hsa_circ_0024997	0.77
+lung cancer	hsa_circ_0079530	0.76
+lung cancer	hsa_circ_0000497	0.76
+lung cancer	hsa_circ_0001445	0.76
+lung cancer	hsa_circ_0002133	0.75
+lung cancer	hsa_circ_0068669	0.75
+lung cancer	hsa_circ_0075736	0.75
+lung cancer	hsa_circ_0000839	0.75
+lung cancer	hsa_circ_0001577	0.74
+lung cancer	hsa_circ_0003570	0.74
+lung cancer	hsa_circ_0004018	0.74
+prostate cancer	hsa_circ_0000615	0.51
+prostate cancer	hsa_circ_0001821	0.5
+prostate cancer	hsa_circ_0058058	0.46
+prostate cancer	hsa_circ_0043138	0.45
+prostate cancer	hsa_circ_0000284	0.43
+prostate cancer	hsa_circ_0000144	0.43
+prostate cancer	hsa_circ_0006988	0.41
+prostate cancer	hsa_circ_0001577	0.4
+prostate cancer	hsa_circ_0001649	0.4
+prostate cancer	hsa_circ_0007534	0.39
+prostate cancer	hsa_circ_0001946	0.39
+prostate cancer	hsa_circ_0091894	0.39
+prostate cancer	hsa_circ_0075736	0.39
+prostate cancer	hsa_circ_0001141	0.39
+prostate cancer	hsa_circ_0001727	0.38
+prostate cancer	hsa_circ_0085154	0.38
+prostate cancer	hsa_circ_0006411	0.38
+prostate cancer	hsa_circ_0092024	0.38
+prostate cancer	hsa_circ_0001313	0.38
+prostate cancer	hsa_circ_0000118	0.37

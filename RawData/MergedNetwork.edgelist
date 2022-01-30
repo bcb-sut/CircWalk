@@ -1,0 +1,6225 @@
+hsa-let-7f-2	hepatocellular carcinoma
+hsa-let-7f-2	breast cancer
+hsa-let-7f-1	pancreatic cancer
+hsa-let-7f-1	lung cancer
+hsa-let-7f-1	colorectal cancer
+hsa-let-7f-1	breast cancer
+hsa-mir-15a-2	prostate cancer
+hsa-mir-367	acute myeloid leukemia
+hsa-mir-361	duchenne muscular dystrophy
+hsa-mir-23b	pancreatic cancer
+hsa-mir-23b	glioblastoma
+hsa-mir-23b	cervical cancer
+hsa-mir-23b	bladder cancer
+hsa-mir-23b	acute myeloid leukemia
+hsa-mir-23b	acute lymphoblastic leukemia
+hsa-mir-181c	papillary thyroid carcinoma
+hsa-mir-181c	lung cancer
+hsa-mir-181c	glioblastoma
+hsa-mir-181c	acute myeloid leukemia
+hsa-mir-106b-1	hepatocellular carcinoma
+hsa-mir-99b	prostate cancer
+hsa-mir-594	hepatocellular carcinoma
+hsa-mir-520c	breast cancer
+hsa-mir-199a-2-5p	hepatocellular carcinoma
+hsa-mir-199a-2	pancreatic cancer
+hsa-mir-199a-1-5p	hepatocellular carcinoma
+hsa-mir-219-1	papillary thyroid carcinoma
+hsa-mir-219-1	lung cancer
+hsa-mir-218-2	lung cancer
+hsa-mir-301	pancreatic cancer
+hsa-mir-301	hepatocellular carcinoma
+hsa-mir-124a-1	lung cancer
+hsa-mir-106a-1	hepatocellular carcinoma
+hsa-let-7a-3	hepatocellular carcinoma
+hsa-let-7a-3	breast cancer
+hsa-let-7a-3	lung cancer
+hsa-let-7a-2	hepatocellular carcinoma
+hsa-let-7a-2	lung cancer
+hsa-let-7a-1	hepatocellular carcinoma
+hsa-let-7a-1	colorectal cancer
+hsa-mir-191	pancreatic cancer
+hsa-mir-191	glioblastoma
+hsa-mir-191	gastric cancer
+hsa-mir-191	breast cancer
+hsa-mir-199a-1	prostate cancer
+hsa-mir-199a-1	lung cancer
+hsa-mir-29b-2	prostate cancer
+hsa-mir-29b-2	pancreatic cancer
+hsa-mir-29b-2	lung cancer
+hsa-mir-29b-2	colorectal cancer
+hsa-mir-29b-2	breast cancer
+hsa-let-7c	hepatocellular carcinoma
+hsa-let-7c	cervical cancer
+hsa-let-7c	acute myeloid leukemia
+hsa-let-7c	acute lymphoblastic leukemia
+hsa-mir-130a	glioblastoma
+hsa-mir-130a	duchenne muscular dystrophy
+hsa-mir-130a	acute myeloid leukemia
+hsa-mir-130a	acute lymphoblastic leukemia
+hsa-mir-708	acute lymphoblastic leukemia
+hsa-mir-196b	cervical cancer
+hsa-mir-196b	acute lymphoblastic leukemia
+hsa-mir-518a-2*	duchenne muscular dystrophy
+hsa-mir-503	prostate cancer
+hsa-mir-5	acute myeloid leukemia
+hsa-mir-5	acute lymphoblastic leukemia
+hsa-mir-498	prostate cancer
+hsa-mir-495	duchenne muscular dystrophy
+hsa-mir-128	glioma
+hsa-mir-216	hepatocellular carcinoma
+hsa-mir-216	lung cancer
+hsa-mir-181d	pancreatic cancer
+hsa-mir-181d	duchenne muscular dystrophy
+hsa-mir-181d	breast cancer
+hsa-mir-199a	prostate cancer
+hsa-mir-199a	heart failure
+hsa-mir-199a	duchenne muscular dystrophy
+hsa-mir-199a	acute myeloid leukemia
+hsa-mir-138-1	papillary thyroid carcinoma
+hsa-mir-92b	lupus nephritis
+hsa-mir-769-3p	lupus nephritis
+hsa-mir-663	lupus nephritis
+hsa-mir-662	lupus nephritis
+hsa-mir-658	lupus nephritis
+hsa-mir-657	lupus nephritis
+hsa-mir-654	lupus nephritis
+hsa-mir-642	lupus nephritis
+hsa-mir-637	lupus nephritis
+hsa-mir-629	lupus nephritis
+hsa-mir-622	lupus nephritis
+hsa-mir-615	lupus nephritis
+hsa-mir-612	lupus nephritis
+hsa-mir-611	lupus nephritis
+hsa-mir-608	lupus nephritis
+hsa-mir-602	lupus nephritis
+hsa-mir-601	lupus nephritis
+hsa-mir-600	lupus nephritis
+hsa-mir-596	lupus nephritis
+hsa-mir-208	lupus nephritis
+hsa-mir-583	lupus nephritis
+hsa-mir-197	glioblastoma
+hsa-mir-197	duchenne muscular dystrophy
+hsa-mir-197	lupus nephritis
+hsa-let-7a	prostate cancer
+hsa-let-7a	colorectal cancer
+hsa-let-7a	acute myeloid leukemia
+hsa-let-7a	acute lymphoblastic leukemia
+hsa-let-7a	breast cancer
+hsa-let-7a	cholangiocarcinoma
+hsa-let-7a	lupus nephritis
+hsa-mir-16a	hepatocellular carcinoma
+hsa-mir-220	papillary thyroid carcinoma
+hsa-mir-220	pancreatic cancer
+hsa-mir-220	lung cancer
+hsa-mir-220	glioblastoma
+hsa-mir-342	colorectal cancer
+hsa-mir-340	acute myeloid leukemia
+hsa-mir-425	glioblastoma
+hsa-mir-510	breast cancer
+hsa-mir-516-3p	breast cancer
+hsa-mir-355	breast cancer
+hsa-mir-128a	breast cancer
+hsa-mir-128a	glioblastoma multiforme
+hsa-mir-128a	glioblastoma
+hsa-mir-128a	acute myeloid leukemia
+hsa-mir-128a	acute lymphoblastic leukemia
+hsa-mir-92-2	prostate cancer
+hsa-mir-92-2	pancreatic cancer
+hsa-mir-92-2	gastric cancer
+hsa-mir-92-1	pancreatic cancer
+hsa-mir-493-3p	duchenne muscular dystrophy
+hsa-mir-491	prostate cancer
+hsa-mir-487b	duchenne muscular dystrophy
+hsa-mir-29a-2	papillary thyroid carcinoma
+hsa-mir-299-5p	duchenne muscular dystrophy
+hsa-mir-302b*	acute myeloid leukemia
+hsa-mir-138-2	papillary thyroid carcinoma
+hsa-mir-575	lupus nephritis
+hsa-mir-557	lupus nephritis
+hsa-mir-518c*	lupus nephritis
+hsa-mir-518b	lupus nephritis
+hsa-mir-516-5p	lupus nephritis
+hsa-mir-513	prostate cancer
+hsa-mir-513	lupus nephritis
+hsa-mir-494	lupus nephritis
+hsa-mir-486	glioblastoma
+hsa-mir-486	duchenne muscular dystrophy
+hsa-mir-486	lupus nephritis
+hsa-mir-484	lupus nephritis
+hsa-mir-433	lupus nephritis
+hsa-mir-381	duchenne muscular dystrophy
+hsa-mir-381	lupus nephritis
+hsa-mir-365	breast cancer
+hsa-mir-365	lupus nephritis
+hsa-mir-213	papillary thyroid carcinoma
+hsa-mir-213	pancreatic cancer
+hsa-mir-213	breast cancer
+hsa-mir-212	pancreatic cancer
+hsa-mir-212	lung cancer
+hsa-mir-212	hepatocellular carcinoma
+hsa-mir-215	hepatocellular carcinoma
+hsa-mir-215	colorectal cancer
+hsa-mir-142-5p	lupus nephritis
+hsa-mir-142-5p	hepatocellular carcinoma
+hsa-mir-142-5p	acute myeloid leukemia
+hsa-mir-148b	pancreatic cancer
+hsa-mir-148b	hepatocellular carcinoma
+hsa-mir-17-92	colorectal cancer
+hsa-mir-15b	non-small cell lung cancer
+hsa-mir-15b	acute myeloid leukemia
+hsa-mir-15b	gastric cancer
+hsa-mir-15b	pancreatic cancer
+hsa-mir-15b	lupus nephritis
+hsa-mir-15b	glioma
+hsa-mir-331	duchenne muscular dystrophy
+hsa-mir-331	acute myeloid leukemia
+hsa-mir-33	lung cancer
+hsa-mir-328-1	hepatocellular carcinoma
+hsa-mir-27b	lung cancer
+hsa-mir-27b	colorectal cancer
+hsa-mir-27b	acute myeloid leukemia
+hsa-mir-27b	acute lymphoblastic leukemia
+hsa-mir-7	bladder cancer
+hsa-mir-452*	bladder cancer
+hsa-mir-452	duchenne muscular dystrophy
+hsa-mir-452	bladder cancer
+hsa-mir-296	glioma
+hsa-mir-296	lupus nephritis
+hsa-mir-296	prostate cancer
+hsa-mir-296	colorectal cancer
+hsa-mir-181a-1	prostate cancer
+hsa-mir-124a-3	lung cancer
+hsa-mir-9-2	glioblastoma
+hsa-mir-9-2	hepatocellular carcinoma
+hsa-mir-92	prostate cancer
+hsa-mir-92	duchenne muscular dystrophy
+hsa-mir-127	hepatocellular carcinoma
+hsa-mir-127	prostate cancer
+hsa-mir-127	colorectal cancer
+hsa-mir-127	bladder cancer
+hsa-mir-127	duchenne muscular dystrophy
+hsa-mir-126*	acute myeloid leukemia
+hsa-mir-126*	prostate cancer
+hsa-mir-123	hepatocellular carcinoma
+hsa-mir-123	glioblastoma
+hsa-mir-432	duchenne muscular dystrophy
+hsa-mir-106a	prostate cancer
+hsa-mir-106a	pancreatic cancer
+hsa-mir-106a	gastric cancer
+hsa-mir-106a	lung cancer
+hsa-mir-103-2	pancreatic cancer
+hsa-mir-103-2	hepatocellular carcinoma
+hsa-mir-103-1	bladder cancer
+hsa-mir-103	prostate cancer
+hsa-mir-103	pancreatic cancer
+hsa-mir-103	acute myeloid leukemia
+hsa-mir-103	esophageal cancer
+hsa-mir-102	papillary thyroid carcinoma
+hsa-mir-101b-2	hepatocellular carcinoma
+hsa-mir-192-1	hepatocellular carcinoma
+hsa-mir-148a	prostate cancer
+hsa-mir-148a	pancreatic cancer
+hsa-mir-148a	duchenne muscular dystrophy
+hsa-mir-148a	hepatocellular carcinoma
+hsa-mir-147	acute myeloid leukemia
+hsa-mir-205	pancreatic cancer
+hsa-mir-205	lung cancer
+hsa-mir-205	esophageal cancer
+hsa-mir-205	non-small cell lung cancer
+hsa-mir-205	hepatocellular carcinoma
+hsa-mir-199a*	prostate cancer
+hsa-mir-199a*	hepatocellular carcinoma
+hsa-mir-199a*	duchenne muscular dystrophy
+hsa-mir-199a*	bladder cancer
+hsa-mir-129-2	colorectal cancer
+hsa-mir-210 	lung cancer
+hsa-mir-101-1	lung cancer
+hsa-mir-101-1	breast cancer
+hsa-mir-100-2	pancreatic cancer
+hsa-mir-100-1	pancreatic cancer
+hsa-mir-379	duchenne muscular dystrophy
+hsa-mir-129	colorectal cancer
+hsa-mir-129	hepatocellular carcinoma
+hsa-mir-129	bladder cancer
+hsa-mir-128b	pancreatic cancer
+hsa-mir-128b	colorectal cancer
+hsa-mir-128b	breast cancer
+hsa-mir-128b	acute myeloid leukemia
+hsa-mir-128b	acute lymphoblastic leukemia
+hsa-mir-128b	hepatocellular carcinoma
+hsa-mir-124a	lupus nephritis
+hsa-mir-124a	lung cancer
+hsa-mir-124a	glioblastoma multiforme
+hsa-mir-124a	breast cancer
+hsa-mir-124a	acute lymphoblastic leukemia
+hsa-mir-124a	hepatocellular carcinoma
+hsa-mir-126	acute myeloid leukemia
+hsa-mir-126	colorectal cancer
+hsa-mir-126	prostate cancer
+hsa-mir-126	non-small cell lung cancer
+hsa-mir-125b-2	lung cancer
+hsa-mir-125b-2	glioblastoma
+hsa-mir-125b-1	hepatocellular carcinoma
+hsa-mir-125b-1	glioblastoma
+hsa-mir-325	lupus nephritis
+hsa-mir-325	acute myeloid leukemia
+hsa-mir-323	glioblastoma multiforme
+hsa-mir-320-2	hepatocellular carcinoma
+hsa-mir-320	breast cancer
+hsa-mir-320	lupus nephritis
+hsa-mir-320	acute myeloid leukemia
+hsa-mir-320	cholangiocarcinoma
+hsa-mir-320	prostate cancer
+hsa-mir-27a	colorectal cancer
+hsa-mir-27a	gastric cancer
+hsa-mir-27a	acute lymphoblastic leukemia
+hsa-mir-26a-2	hepatocellular carcinoma
+hsa-mir-26a-1	papillary thyroid carcinoma
+hsa-mir-26a-1	lung cancer
+hsa-mir-26a-1	hepatocellular carcinoma
+hsa-mir-202	prostate cancer
+hsa-mir-202	breast cancer
+hsa-mir-143	prostate cancer
+hsa-mir-143	pancreatic cancer
+hsa-mir-143	cervical cancer
+hsa-mir-143	breast cancer
+hsa-mir-143	bladder cancer
+hsa-mir-143	gastric cancer
+hsa-mir-181b-2	pancreatic cancer
+hsa-mir-181b-2	hepatocellular carcinoma
+hsa-mir-181b-1	prostate cancer
+hsa-mir-181b-1	breast cancer
+hsa-mir-181b-1	hepatocellular carcinoma
+hsa-mir-181b	glioblastoma
+hsa-mir-181b	acute myeloid leukemia
+hsa-mir-181b	glioma
+hsa-mir-181b	breast cancer
+hsa-mir-181b	prostate cancer
+hsa-mir-98	breast cancer
+hsa-mir-98	lung cancer
+hsa-mir-96	non-small cell lung cancer
+hsa-mir-96	prostate cancer
+hsa-mir-96	multiple sclerosis
+hsa-mir-96	breast cancer
+hsa-mir-9*	hepatocellular carcinoma
+hsa-mir-9*	acute myeloid leukemia
+hsa-mir-9*	lung cancer
+hsa-mir-18b	multiple sclerosis
+hsa-mir-18a	lung cancer
+hsa-mir-18a	hepatocellular carcinoma
+hsa-mir-18a	breast cancer
+hsa-mir-153	glioblastoma multiforme
+hsa-mir-153	glioblastoma
+hsa-mir-149	glioblastoma multiforme
+hsa-mir-149	breast cancer
+hsa-mir-149	prostate cancer
+hsa-mir-9-3	papillary thyroid carcinoma
+hsa-mir-9-3	breast cancer
+hsa-mir-92a	hepatocellular carcinoma
+hsa-mir-92a	acute myeloid leukemia
+hsa-mir-9-1	colorectal cancer
+hsa-mir-30-3p	bladder cancer
+hsa-mir-29c	papillary thyroid carcinoma
+hsa-mir-29c	duchenne muscular dystrophy
+hsa-mir-29c	lung cancer
+hsa-mir-29c	breast cancer
+hsa-mir-29c	bladder cancer
+hsa-mir-221	glioblastoma multiforme
+hsa-mir-221	duchenne muscular dystrophy
+hsa-mir-221	colorectal cancer
+hsa-mir-221	acute lymphoblastic leukemia
+hsa-mir-221	glioma
+hsa-mir-221	coronary artery disease
+hsa-mir-345	prostate cancer
+hsa-mir-345	papillary thyroid carcinoma
+hsa-mir-345	pancreatic cancer
+hsa-mir-345	lupus nephritis
+hsa-mir-345	lung cancer
+hsa-mir-339	colorectal cancer
+hsa-mir-339	lung cancer
+hsa-mir-338	lung cancer
+hsa-mir-335	duchenne muscular dystrophy
+hsa-mir-335	acute myeloid leukemia
+hsa-mir-335	acute lymphoblastic leukemia
+hsa-mir-335	breast cancer
+hsa-mir-335	lung cancer
+hsa-mir-324-3p	lupus nephritis
+hsa-mir-324-3p	lung cancer
+hsa-mir-30e-3p	lung cancer
+hsa-mir-196a	colorectal cancer
+hsa-mir-196a	breast cancer
+hsa-mir-193b	breast cancer
+hsa-mir-193b	duchenne muscular dystrophy
+hsa-mir-222	acute lymphoblastic leukemia
+hsa-mir-222	non-small cell lung cancer
+hsa-mir-222	bladder cancer
+hsa-mir-222	gastric cancer
+hsa-mir-222	glioma
+hsa-mir-222	coronary artery disease
+hsa-mir-222	duchenne muscular dystrophy
+hsa-mir-155	papillary thyroid carcinoma
+hsa-mir-155	hypertension
+hsa-mir-155	glioblastoma multiforme
+hsa-mir-155	duchenne muscular dystrophy
+hsa-mir-155	colorectal cancer
+hsa-mir-155	acute lymphoblastic leukemia
+hsa-mir-154*	glioblastoma multiforme
+hsa-mir-376a	pancreatic cancer
+hsa-mir-376a	duchenne muscular dystrophy
+hsa-mir-374	hepatocellular carcinoma
+hsa-mir-374	acute myeloid leukemia
+hsa-mir-373*	prostate cancer
+hsa-mir-18a*	colorectal cancer
+hsa-mir-101	bladder cancer
+hsa-mir-101	duchenne muscular dystrophy
+hsa-mir-101	lung cancer
+hsa-mir-101	glioblastoma multiforme
+hsa-mir-30d	lupus nephritis
+hsa-mir-30d	duchenne muscular dystrophy
+hsa-mir-30d	acute myeloid leukemia
+hsa-mir-30c-1	hepatocellular carcinoma
+hsa-mir-30c	bladder cancer
+hsa-mir-30c	pancreatic cancer
+hsa-mir-30c	duchenne muscular dystrophy
+hsa-mir-30b	prostate cancer
+hsa-mir-30b	duchenne muscular dystrophy
+hsa-mir-152	hepatocellular carcinoma
+hsa-mir-23a	prostate cancer
+hsa-mir-23a	pancreatic cancer
+hsa-mir-23a	heart failure
+hsa-mir-23a	glioblastoma
+hsa-mir-23a	bladder cancer
+hsa-mir-23a	acute myeloid leukemia
+hsa-mir-23a	acute lymphoblastic leukemia
+hsa-mir-23a	colorectal cancer
+hsa-mir-23a	lupus nephritis
+hsa-mir-192-2	hepatocellular carcinoma
+hsa-mir-154	duchenne muscular dystrophy
+hsa-mir-424	pancreatic cancer
+hsa-mir-424	acute myeloid leukemia
+hsa-mir-424	acute lymphoblastic leukemia
+hsa-mir-24-2	papillary thyroid carcinoma
+hsa-mir-24-2	lung cancer
+hsa-mir-24-2	glioblastoma
+hsa-mir-24-2	gastric cancer
+hsa-mir-24-2	colorectal cancer
+hsa-mir-24-2	hepatocellular carcinoma
+hsa-mir-24-1	papillary thyroid carcinoma
+hsa-mir-24-1	glioblastoma
+hsa-mir-24-1	gastric cancer
+hsa-mir-24-1	colorectal cancer
+hsa-mir-32	prostate cancer
+hsa-mir-32	pancreatic cancer
+hsa-mir-32	lung cancer
+hsa-mir-32	colorectal cancer
+hsa-mir-30e	hepatocellular carcinoma
+hsa-mir-30a-3p	breast cancer
+hsa-mir-30a-3p	lung cancer
+hsa-mir-30a-3p	duchenne muscular dystrophy
+hsa-mir-30a-3p	acute myeloid leukemia
+hsa-mir-30a	hepatocellular carcinoma
+hsa-mir-302d	acute myeloid leukemia
+hsa-mir-302c*	prostate cancer
+hsa-mir-132	hepatocellular carcinoma
+hsa-mir-132	glioblastoma multiforme
+hsa-mir-132	colorectal cancer
+hsa-mir-130b-1	hepatocellular carcinoma
+hsa-mir-130a-1	hepatocellular carcinoma
+hsa-mir-185	lupus nephritis
+hsa-mir-185	non-small cell lung cancer
+hsa-mir-185	glioblastoma multiforme
+hsa-mir-185	bladder cancer
+hsa-mir-1-2	hepatocellular carcinoma
+hsa-mir-10a	bladder cancer
+hsa-mir-10a	prostate cancer
+hsa-mir-7-3	colorectal cancer
+hsa-mir-409-3p	duchenne muscular dystrophy
+hsa-mir-17-3p	hepatocellular carcinoma
+hsa-mir-172a-2	hepatocellular carcinoma
+hsa-mir-170	breast cancer
+hsa-mir-16-1	prostate cancer
+hsa-mir-16-1	pancreatic cancer
+hsa-mir-31a	breast cancer
+hsa-mir-500	lupus nephritis
+hsa-mir-500	hepatocellular carcinoma
+hsa-mir-214	prostate cancer
+hsa-mir-214	pancreatic cancer
+hsa-mir-214	lung cancer
+hsa-mir-214	heart failure
+hsa-mir-214	gastric cancer
+hsa-mir-214	duchenne muscular dystrophy
+hsa-mir-214	cervical cancer
+hsa-mir-193	papillary thyroid carcinoma
+hsa-mir-106	papillary thyroid carcinoma
+hsa-let-7b	prostate cancer
+hsa-let-7b	hepatocellular carcinoma
+hsa-let-7b	colorectal cancer
+hsa-let-7b	cervical cancer
+hsa-let-7b	acute myeloid leukemia
+hsa-let-7b	acute lymphoblastic leukemia
+hsa-let-7b	non-small cell lung cancer
+hsa-let-7b	papillary thyroid carcinoma
+hsa-mir-34	papillary thyroid carcinoma
+hsa-mir-29	papillary thyroid carcinoma
+hsa-mir-199b	lung cancer
+hsa-mir-199b	hepatocellular carcinoma
+hsa-mir-199b	duchenne muscular dystrophy
+hsa-mir-199b	acute myeloid leukemia
+hsa-mir-199b	acute lymphoblastic leukemia
+hsa-mir-199b	prostate cancer
+hsa-mir-199b	papillary thyroid carcinoma
+hsa-mir-99a	pancreatic cancer
+hsa-mir-99a	lupus nephritis
+hsa-mir-99a	prostate cancer
+hsa-mir-99a	lung cancer
+hsa-mir-99a	hepatocellular carcinoma
+hsa-mir-99a	bladder cancer
+hsa-mir-100	pancreatic cancer
+hsa-mir-100	non-small cell lung cancer
+hsa-mir-100	bladder cancer
+hsa-mir-203	lung cancer
+hsa-mir-203	breast cancer
+hsa-mir-203	bladder cancer
+hsa-mir-203	acute lymphoblastic leukemia
+hsa-mir-203	pancreatic cancer
+hsa-mir-203	hepatocellular carcinoma
+hsa-mir-124	hepatocellular carcinoma
+hsa-mir-93	lung cancer
+hsa-mir-93	colorectal cancer
+hsa-mir-29b	prostate cancer
+hsa-mir-29b	papillary thyroid carcinoma
+hsa-mir-29b	glioblastoma multiforme
+hsa-mir-29b	duchenne muscular dystrophy
+hsa-mir-29b	breast cancer
+hsa-mir-29b	lung cancer
+hsa-mir-29b	cholangiocarcinoma
+hsa-mir-29b	acute myeloid leukemia
+hsa-mir-29b	colorectal cancer
+hsa-mir-29a	prostate cancer
+hsa-mir-29a	duchenne muscular dystrophy
+hsa-mir-29a	colorectal cancer
+hsa-mir-224	prostate cancer
+hsa-mir-224	lung cancer
+hsa-mir-224	colorectal cancer
+hsa-mir-19b	hepatocellular carcinoma
+hsa-mir-19b	prostate cancer
+hsa-mir-19b	colorectal cancer
+hsa-mir-95	lung cancer
+hsa-mir-95	duchenne muscular dystrophy
+hsa-mir-95	colorectal cancer
+hsa-mir-422b	colorectal cancer
+hsa-mir-378*	colorectal cancer
+hsa-mir-195	lupus nephritis
+hsa-mir-195	lung cancer
+hsa-mir-195	breast cancer
+hsa-mir-195	heart failure
+hsa-mir-195	acute myeloid leukemia
+hsa-mir-195	bladder cancer
+hsa-mir-195	colorectal cancer
+hsa-mir-10b	glioma
+hsa-mir-10b	prostate cancer
+hsa-mir-10b	pancreatic cancer
+hsa-mir-10b	glioblastoma
+hsa-mir-10b	colorectal cancer
+hsa-mir--196a-2	gastric cancer
+hsa-mir-141	gastric cancer
+hsa-mir-141	prostate cancer
+hsa-mir-141	hepatocellular carcinoma
+hsa-mir-141	cholangiocarcinoma
+hsa-mir-141	breast cancer
+hsa-mir-141	colorectal cancer
+hsa-mir-26a	duchenne muscular dystrophy
+hsa-mir-26a	colorectal cancer
+hsa-mir-26a	glioma
+hsa-mir-26a	bladder cancer
+hsa-mir-26a	acute lymphoblastic leukemia
+hsa-mir-26a	papillary thyroid carcinoma
+hsa-mir-26a	breast cancer
+hsa-mir-181a	glioma
+hsa-mir-181a	papillary thyroid carcinoma
+hsa-mir-181a	glioblastoma
+hsa-mir-181a	colorectal cancer
+hsa-mir-181a	breast cancer
+hsa-mir-664	multiple sclerosis
+hsa-mir-584	multiple sclerosis
+hsa-mir-491-5p	multiple sclerosis
+hsa-mir-186	hepatocellular carcinoma
+hsa-mir-186	multiple sclerosis
+hsa-mir-145	gastric cancer
+hsa-mir-145	multiple sclerosis
+hsa-mir-1275	multiple sclerosis
+hsa-mir-20b	multiple sclerosis
+hsa-mir-106b	hepatocellular carcinoma
+hsa-mir-106b	colorectal cancer
+hsa-mir-26b	prostate cancer
+hsa-mir-26b	bladder cancer
+hsa-mir-26b	hepatocellular carcinoma
+hsa-mir-223	prostate cancer
+hsa-mir-223	gastric cancer
+hsa-mir-223	colorectal cancer
+hsa-mir-223	bladder cancer
+hsa-mir-223	acute myeloid leukemia
+hsa-mir-223	acute lymphoblastic leukemia
+hsa-mir-223	lupus nephritis
+hsa-mir-223	multiple sclerosis
+hsa-mir-223	esophageal cancer
+hsa-mir-194	colorectal cancer
+hsa-mir-194	esophageal cancer
+hsa-mir-192	lung cancer
+hsa-mir-192	colorectal cancer
+hsa-mir-192	esophageal cancer
+hsa-mir-17	glioma
+hsa-mir-9	non-small cell lung cancer
+hsa-mir-9	glioma
+hsa-mir-328	glioblastoma multiforme
+hsa-mir-328	colorectal cancer
+hsa-mir-328	acute myeloid leukemia
+hsa-mir-328	breast cancer
+hsa-mir-328	glioma
+hsa-mir-28	glioma
+hsa-mir-25	prostate cancer
+hsa-mir-25	pancreatic cancer
+hsa-mir-25	glioblastoma
+hsa-mir-25	glioma
+hsa-mir-20a	prostate cancer
+hsa-mir-20a	pancreatic cancer
+hsa-mir-20a	breast cancer
+hsa-mir-20a	glioma
+hsa-mir-19a	lung cancer
+hsa-mir-19a	glioma
+hsa-mir-16	gastric cancer
+hsa-mir-16	lung cancer
+hsa-mir-16	non-small cell lung cancer
+hsa-mir-16	papillary thyroid carcinoma
+hsa-mir-16	glioma
+hsa-mir-15a	prostate cancer
+hsa-mir-15a	non-small cell lung cancer
+hsa-mir-15a	papillary thyroid carcinoma
+hsa-mir-15a	glioma
+hsa-mir-130b	lupus nephritis
+hsa-mir-130b	acute myeloid leukemia
+hsa-mir-130b	acute lymphoblastic leukemia
+hsa-mir-130b	colorectal cancer
+hsa-mir-130b	glioma
+hsa-mir-1	heart failure
+hsa-mir-1	hepatocellular carcinoma
+hsa-mir-1	coronary artery disease
+hsa-mir-1	colorectal cancer
+hsa-mir-1	myocardial infarction
+hsa-mir-34a	papillary thyroid carcinoma
+hsa-mir-34a	duchenne muscular dystrophy
+hsa-mir-34a	non-small cell lung cancer
+hsa-mir-34a	prostate cancer
+hsa-mir-34a	glioma
+hsa-mir-34a	glioblastoma
+hsa-mir-200b	cholangiocarcinoma
+hsa-mir-200b	lung cancer
+hsa-mir-200a	breast cancer
+hsa-mir-200a	papillary thyroid carcinoma
+hsa-mir-200a	lung cancer
+hsa-mir-377	lung cancer
+hsa-mir-31	bladder cancer
+hsa-mir-31	prostate cancer
+hsa-mir-31	hepatocellular carcinoma
+hsa-mir-31	lung cancer
+hsa-mir-140	lung cancer
+hsa-mir-140	glioma
+hsa-mir-140	osteosarcoma
+hsa-mir-140	colorectal cancer
+hsa-mir-200c	lupus nephritis
+hsa-mir-200c	endometrial cancer
+hsa-mir-200c	lung cancer
+hsa-mir-139	pancreatic cancer
+hsa-mir-139	hepatocellular carcinoma
+hsa-mir-139	colorectal cancer
+hsa-mir-139	lung cancer
+hsa-mir-122a	breast cancer
+hsa-mir-122a	gastric cancer
+hsa-mir-511	lung cancer
+hsa-mir-497	prostate cancer
+hsa-mir-497	breast cancer
+hsa-mir-497	colorectal cancer
+hsa-mir-497	lung cancer
+hsa-mir-451	glioblastoma
+hsa-mir-451	acute myeloid leukemia
+hsa-mir-451	acute lymphoblastic leukemia
+hsa-mir-451	breast cancer
+hsa-mir-451	colorectal cancer
+hsa-mir-451	gastric cancer
+hsa-mir-451	lung cancer
+hsa-mir-423	lupus nephritis
+hsa-mir-423	duchenne muscular dystrophy
+hsa-mir-423	lung cancer
+hsa-mir-34c	acute myeloid leukemia
+hsa-mir-34c	colorectal cancer
+hsa-mir-34c	non-small cell lung cancer
+hsa-mir-34c	pancreatic cancer
+hsa-mir-34b	non-small cell lung cancer
+hsa-mir-34b	colorectal cancer
+hsa-mir-34b	acute myeloid leukemia
+hsa-mir-34b	pancreatic cancer
+hsa-mir-22	duchenne muscular dystrophy
+hsa-mir-22	acute myeloid leukemia
+hsa-mir-22	prostate cancer
+hsa-mir-22	breast cancer
+hsa-mir-22	lung cancer
+hsa-mir-218	cervical cancer
+hsa-mir-218	prostate cancer
+hsa-mir-218	lung cancer
+hsa-mir-183	hepatocellular carcinoma
+hsa-mir-183	prostate cancer
+hsa-mir-182*	hepatocellular carcinoma
+hsa-mir-182*	non-small cell lung cancer
+hsa-mir-182*	lung cancer
+hsa-mir-182*	prostate cancer
+hsa-mir-182	hepatocellular carcinoma
+hsa-mir-182	acute myeloid leukemia
+hsa-mir-182	breast cancer
+hsa-mir-182	lung cancer
+hsa-mir-182	colorectal cancer
+hsa-mir-182	prostate cancer
+hsa-mir-373	esophageal cancer
+hsa-mir-373	breast cancer
+hsa-mir-372	colorectal cancer
+hsa-mir-372	acute myeloid leukemia
+hsa-mir-372	non-small cell lung cancer
+hsa-mir-370	prostate cancer
+hsa-mir-370	cholangiocarcinoma
+hsa-mir-369-5p	duchenne muscular dystrophy
+hsa-mir-21	duchenne muscular dystrophy
+hsa-mir-21	acute myeloid leukemia
+hsa-mir-21	acute lymphoblastic leukemia
+hsa-mir-21	cholangiocarcinoma
+hsa-mir-21	heart failure
+hsa-mir-21	hepatocellular carcinoma
+hsa-mir-21	myocardial infarction
+hsa-mir-21	papillary thyroid carcinoma
+hsa-mir-136	hepatocellular carcinoma
+hsa-mir-136	breast cancer
+hsa-mir-134	lupus nephritis
+hsa-mir-134	duchenne muscular dystrophy
+hsa-mir-133a	lupus nephritis
+hsa-mir-133a	hepatocellular carcinoma
+hsa-mir-133a	bladder cancer
+hsa-mir-133a	colorectal cancer
+hsa-mir-133a	glioblastoma multiforme
+hsa-mir-151*	acute myeloid leukemia
+hsa-mir-151*	acute lymphoblastic leukemia
+hsa-mir-151	prostate cancer
+hsa-mir-151	hepatocellular carcinoma
+hsa-mir-151	acute myeloid leukemia
+hsa-mir-135b	colorectal cancer
+hsa-mir-125b	hepatocellular carcinoma
+hsa-mir-125b	non-small cell lung cancer
+hsa-mir-125b	heart failure
+hsa-mir-125a	prostate cancer
+hsa-mir-125a	pancreatic cancer
+hsa-mir-125a	lung cancer
+hsa-mir-125a	acute myeloid leukemia
+hsa-mir-125a	acute lymphoblastic leukemia
+hsa-mir-210	lupus nephritis
+hsa-mir-210	prostate cancer
+hsa-mir-210	glioma
+hsa-mir-210	duchenne muscular dystrophy
+hsa-mir-210	acute myeloid leukemia
+hsa-mir-210	acute lymphoblastic leukemia
+hsa-mir-210	glioblastoma multiforme
+hsa-let-7f	prostate cancer
+hsa-let-7f	breast cancer
+hsa-let-7f	lung cancer
+hsa-let-7e	lupus nephritis
+hsa-let-7e	hepatocellular carcinoma
+hsa-let-7e	acute lymphoblastic leukemia
+hsa-let-7e	lung cancer
+hsa-let-7d	non-small cell lung cancer
+hsa-let-7d	prostate cancer
+hsa-let-7d	pancreatic cancer
+hsa-let-7d	hepatocellular carcinoma
+hsa-let-7d	breast cancer
+hsa-let-7d	lung cancer
+hsa-mir-146b	glioma
+hsa-mir-146b	papillary thyroid carcinoma
+hsa-mir-146b	duchenne muscular dystrophy
+hsa-mir-146b	lung cancer
+hsa-mir-146b	breast cancer
+hsa-mir-146a	lung cancer
+hsa-mir-150	hepatocellular carcinoma
+hsa-mir-150	lupus nephritis
+hsa-mir-150	lung cancer
+hsa-mir-368	duchenne muscular dystrophy
+hsa-mir-24	heart failure
+hsa-mir-24	acute myeloid leukemia
+hsa-mir-24	acute lymphoblastic leukemia
+hsa-mir-24	prostate cancer
+hsa-mir-382	duchenne muscular dystrophy
+hsa-mir-204	cholangiocarcinoma
+hsa-mir-204	lung cancer
+hsa-mir-204	acute myeloid leukemia
+hsa-let-7i	breast cancer
+hsa-let-7g	colorectal cancer
+hsa-let-7g	lung cancer
+rnu6-456p	prostate cancer
+rn7skp114	prostate cancer
+rnu6-491p	prostate cancer
+rnu6-148p	prostate cancer
+mir6803	diabetes mellitus
+mir6741	diabetes mellitus
+mir8061	diabetes mellitus
+mir7704	diabetes mellitus
+ptcsc3	papillary thyroid carcinoma
+mir4482	diabetes mellitus
+mir4516	diabetes mellitus
+lct-as1	hirschsprung disease
+theg5	prostate cancer
+mir1260b	diabetes mellitus
+mir3173	diabetes mellitus
+mir1193	papillary thyroid carcinoma
+mir761	myocardial infarction
+mir2116	diabetes mellitus
+tsnax-disc1	major depressive disorder
+mir1908	diabetes mellitus
+mir1202	major depressive disorder
+mir1197	papillary thyroid carcinoma
+mir1301	diabetes mellitus
+mir1260a	diabetes mellitus
+mir1226	diabetes mellitus
+mir1228	diabetes mellitus
+mir1306	diabetes mellitus
+mir1307	diabetes mellitus
+mir1296	diabetes mellitus
+mir1249	diabetes mellitus
+mir1247	papillary thyroid carcinoma
+klln	breast cancer
+znf667-as1	cervical cancer
+mir939	diabetes mellitus
+mir889	papillary thyroid carcinoma
+mir543	cervical cancer
+mir543	papillary thyroid carcinoma
+mir885	diabetes mellitus
+mir744	diabetes mellitus
+mir300	papillary thyroid carcinoma
+mir770	papillary thyroid carcinoma
+mir758	papillary thyroid carcinoma
+meis1-as3	prostate cancer
+dirc3	papillary thyroid carcinoma
+linc00977	leukemia
+mir656	papillary thyroid carcinoma
+mir655	papillary thyroid carcinoma
+mir654	papillary thyroid carcinoma
+mir92b	diabetes mellitus
+mir628	diabetes mellitus
+mir532	diabetes mellitus
+mir411	papillary thyroid carcinoma
+mir33b	diabetes mellitus
+mir487b	papillary thyroid carcinoma
+mir487b	diabetes mellitus
+mir376a2	papillary thyroid carcinoma
+mir539	papillary thyroid carcinoma
+ncf1	rheumatoid arthritis
+acot1	diabetes mellitus
+mir487a	papillary thyroid carcinoma
+mir483	diabetes mellitus
+mir501	cervical cancer
+mir496	papillary thyroid carcinoma
+mir495	papillary thyroid carcinoma
+mir494	papillary thyroid carcinoma
+mir432	papillary thyroid carcinoma
+mir432	diabetes mellitus
+mir493	papillary thyroid carcinoma
+mir146b	coronary artery disease
+mir485	papillary thyroid carcinoma
+mir485	diabetes mellitus
+mir376b	papillary thyroid carcinoma
+mir410	papillary thyroid carcinoma
+mir412	papillary thyroid carcinoma
+mir409	papillary thyroid carcinoma
+mir409	diabetes mellitus
+mir323b	papillary thyroid carcinoma
+mir329-1	papillary thyroid carcinoma
+mir431	papillary thyroid carcinoma
+mir433	papillary thyroid carcinoma
+mir423	myocardial infarction
+mir423	diabetes mellitus
+mir382	papillary thyroid carcinoma
+mir381	papillary thyroid carcinoma
+mir380	papillary thyroid carcinoma
+mir379	papillary thyroid carcinoma
+mir377	papillary thyroid carcinoma
+mir377	diabetes mellitus
+mir376a1	papillary thyroid carcinoma
+mir375	diabetes mellitus
+cisd2	diabetes mellitus
+mir370	papillary thyroid carcinoma
+mir369	papillary thyroid carcinoma
+mir369	hirschsprung disease
+mir376c	papillary thyroid carcinoma
+mir339	diabetes mellitus
+mir337	papillary thyroid carcinoma
+mir335	diabetes mellitus
+mir328	osteosarcoma
+mir323a	papillary thyroid carcinoma
+mir302b	osteosarcoma
+mir151a	diabetes mellitus
+miat	myocardial infarction
+mir17hg	diabetes mellitus
+mir98	diabetes mellitus
+mir93	osteosarcoma
+mir30e	major depressive disorder
+mir30a	diabetes mellitus
+mir299	papillary thyroid carcinoma
+mir27a	diabetes mellitus
+mir222	diabetes mellitus
+mir221	diabetes mellitus
+mir218-1	hirschsprung disease
+mir215	diabetes mellitus
+mir214	diabetes mellitus
+mir206	hirschsprung disease
+mir205	diabetes mellitus
+mir204	diabetes mellitus
+mir203a	diabetes mellitus
+mir200a	diabetes mellitus
+mir195	hirschsprung disease
+mir195	diabetes mellitus
+mir192	diabetes mellitus
+mir181c	diabetes mellitus
+mir154	papillary thyroid carcinoma
+mir146a	coronary artery disease
+mir145	myocardial infarction
+mir144	diabetes mellitus
+mir142	diabetes mellitus
+mir141	diabetes mellitus
+mir140	diabetes mellitus
+mir136	papillary thyroid carcinoma
+mir134	papillary thyroid carcinoma
+mir130b	osteosarcoma
+mir130b	diabetes mellitus
+mir128-1	hirschsprung disease
+mir127	papillary thyroid carcinoma
+mir127	diabetes mellitus
+mir126	diabetes mellitus
+mir125b2	myocardial infarction
+mir125b1	diabetes mellitus
+mir10b	diabetes mellitus
+mir106b	osteosarcoma
+oacylp	prostate cancer
+c2cd4b	diabetes mellitus
+slc22a10	glioblastoma multiforme
+slc22a10	glioblastoma
+fibin	heart failure
+sumo4	diabetes mellitus
+agrn	acute myeloid leukemia
+agrn	leukemia
+mia3	coronary artery disease
+mia3	myocardial infarction
+gen1	breast cancer
+septin14	glioblastoma multiforme
+septin14	glioblastoma
+dubr	prostate cancer
+gcom2	leukemia
+rgmb	rheumatoid arthritis
+kansl1	leukemia
+ksr2	diabetes mellitus
+hectd4	coronary artery disease
+rassf3	prostate cancer
+daoa	major depressive disorder
+pcsk9	coronary artery disease
+sema3d	hirschsprung disease
+phactr1	coronary artery disease
+phactr1	myocardial infarction
+kif6	myocardial infarction
+stox1	pre-eclampsia
+cmya5	major depressive disorder
+ankrd23	heart failure
+stkld1	glioblastoma multiforme
+slc30a8	diabetes mellitus
+frem3	major depressive disorder
+clec12a	rheumatoid arthritis
+deup1	glioblastoma multiforme
+deup1	glioblastoma
+kcnu1	diabetes mellitus
+plb1	rheumatoid arthritis
+sik1	glioblastoma multiforme
+c2cd4a	diabetes mellitus
+prima1	major depressive disorder
+lacc1	rheumatoid arthritis
+dcanp1	major depressive disorder
+nrsn1	hirschsprung disease
+taf1l	glioblastoma multiforme
+ccdc26	glioma
+klf14	diabetes mellitus
+tmem155	diabetes mellitus
+tmem18	diabetes mellitus
+pld4	rheumatoid arthritis
+tph2	major depressive disorder
+tagap	rheumatoid arthritis
+acsm1	major depressive disorder
+nus1	diabetes mellitus
+tirap	tuberculosis
+ucn3	major depressive disorder
+znf257	diabetes mellitus
+pik3ip1	heart failure
+wdr20	papillary thyroid carcinoma
+col23a1	prostate cancer
+macir	glioblastoma multiforme
+macir	glioblastoma
+ucn2	heart failure
+ccnb3	osteosarcoma
+adtrp	coronary artery disease
+b3gnt9	rheumatoid arthritis
+afap1-as1	hirschsprung disease
+mgarp	rheumatoid arthritis
+slx4	breast cancer
+slx4	leukemia
+hhipl1	coronary artery disease
+usp48	diabetes mellitus
+arid5b	rheumatoid arthritis
+kat8	heart failure
+dtnbp1	major depressive disorder
+brip1	leukemia
+fam234a	diabetes mellitus
+cdca7	prostate cancer
+kcnk16	diabetes mellitus
+st6galnac5	rheumatoid arthritis
+fip1l1	heart failure
+txndc5	rheumatoid arthritis
+vopp1	acute myeloid leukemia
+vopp1	leukemia
+mob2	prostate cancer
+clptm1l	cervical cancer
+slc2a10	moyamoya disease
+cmip	diabetes mellitus
+pdgfd	coronary artery disease
+alpk1	diabetes mellitus
+ccdc92	diabetes mellitus
+ctc1	leukemia
+baalc	acute myeloid leukemia
+baalc	leukemia
+sugct	prostate cancer
+palb2	pancreatic cancer
+palb2	colorectal cancer
+palb2	breast cancer
+palb2	leukemia
+ankrd55	rheumatoid arthritis
+galnt12	colorectal cancer
+mcph1	breast cancer
+hmgn5	glioma
+mmel1	rheumatoid arthritis
+brcc3	moyamoya disease
+fto	diabetes mellitus
+tmem135	glioblastoma multiforme
+tmem135	glioblastoma
+mrps6	coronary artery disease
+usp46	major depressive disorder
+p2ry12	myocardial infarction
+nsd1	acute myeloid leukemia
+nsd1	leukemia
+abcg8	coronary artery disease
+abcg5	coronary artery disease
+abcg5	atherosclerosis
+ms4a6a	heart failure
+sema4a	colorectal cancer
+dio3os	papillary thyroid carcinoma
+lhpp	major depressive disorder
+npas3	major depressive disorder
+thada	diabetes mellitus
+pknox2	prostate cancer
+cela2a	atherosclerosis
+zfand3	diabetes mellitus
+prok2	major depressive disorder
+rint1	breast cancer
+elac2	prostate cancer
+trmt11	glioblastoma multiforme
+trmt11	glioblastoma
+slc5a7	major depressive disorder
+bach2	acute myeloid leukemia
+bach2	leukemia
+plekha1	diabetes mellitus
+kmt2c	cholangiocarcinoma
+kmt2c	acute myeloid leukemia
+kmt2c	leukemia
+hamp	heart failure
+gpam	diabetes mellitus
+rnf213	moyamoya disease
+fbrsl1	prostate cancer
+jcad	coronary artery disease
+begain	papillary thyroid carcinoma
+arid1b	hirschsprung disease
+slc17a6	major depressive disorder
+knl1	prostate cancer
+hymai	diabetes mellitus
+tbx20	heart failure
+ackr3	rheumatoid arthritis
+ndufa4l2	rheumatoid arthritis
+retn	heart failure
+retn	diabetes mellitus
+akip1	heart failure
+kyat3	major depressive disorder
+baiap2l1	rheumatoid arthritis
+kmt2e	leukemia
+glt8d1	major depressive disorder
+mctp2	major depressive disorder
+wdr12	coronary artery disease
+wdr12	myocardial infarction
+enah	acute myeloid leukemia
+enah	leukemia
+itln1	diabetes mellitus
+cdc42bpg	glioblastoma multiforme
+smpd3	leukemia
+etnk1	leukemia
+lrrc59	glioblastoma multiforme
+lrrc59	glioblastoma
+styk1	glioblastoma multiforme
+rnls	prostate cancer
+asxl2	acute myeloid leukemia
+asxl2	leukemia
+fanci	leukemia
+sbno1	osteoarthritis
+pbrm1	cholangiocarcinoma
+fancl	leukemia
+slc6a15	major depressive disorder
+epn3	heart failure
+cdkal1	diabetes mellitus
+pxk	rheumatoid arthritis
+rnf43	prostate cancer
+rnf43	cholangiocarcinoma
+uhrf1bp1	prostate cancer
+bcor	osteosarcoma
+bcor	leukemia
+cc2d1a	major depressive disorder
+gin1	rheumatoid arthritis
+haus6	prostate cancer
+xaf1	glioma
+fxyd6	acute myeloid leukemia
+fxyd6	leukemia
+s1pr5	diabetes mellitus
+tm6sf2	myocardial infarction
+rtel1	glioma
+cd244	rheumatoid arthritis
+ghrl	heart failure
+srrt	glioblastoma multiforme
+srrt	major depressive disorder
+srrt	glioblastoma
+trim33	glioblastoma multiforme
+trim33	papillary thyroid carcinoma
+gde1	major depressive disorder
+cyrib	heart failure
+il23a	rheumatoid arthritis
+zc3hc1	coronary artery disease
+zc3hc1	diabetes mellitus
+gskip	leukemia
+chmp5	acute myeloid leukemia
+chmp5	leukemia
+polk	glioblastoma multiforme
+polk	glioblastoma
+zbtb7a	glioblastoma multiforme
+zbtb7a	acute myeloid leukemia
+zbtb7a	leukemia
+zbtb7a	glioblastoma
+tnfrsf12a	myocardial infarction
+gmip	major depressive disorder
+sbds	leukemia
+gal	major depressive disorder
+gal	hirschsprung disease
+ndufa13	papillary thyroid carcinoma
+mymy1	moyamoya disease
+pde11a	major depressive disorder
+ntm	major depressive disorder
+caly	essential hypertension
+il20	major depressive disorder
+ehd3	major depressive disorder
+ehd3	acute myeloid leukemia
+ehd3	leukemia
+cd209	tuberculosis
+ube2t	leukemia
+pclo	major depressive disorder
+coq2	multiple system atrophy
+disc1	major depressive disorder
+morc1	major depressive disorder
+b3gat1	prostate cancer
+utp25	hirschsprung disease
+nox1	heart failure
+mlh3	colorectal cancer
+foxd3	major depressive disorder
+chic2	acute myeloid leukemia
+chic2	leukemia
+nupr1	heart failure
+hspb8	glioblastoma multiforme
+tes	glioblastoma multiforme
+tes	glioblastoma
+epc2	diabetes mellitus
+appl1	diabetes mellitus
+auts2	diabetes mellitus
+cntnap2	major depressive disorder
+sipa1l1	heart failure
+kank2	heart failure
+pot1	glioma
+abi3bp	major depressive disorder
+bace2	hirschsprung disease
+bambi	heart failure
+lmod1	coronary artery disease
+prkd3	glioblastoma multiforme
+ly96	rheumatoid arthritis
+cblc	leukemia
+padi4	rheumatoid arthritis
+ddah2	coronary artery disease
+ddah2	pre-eclampsia
+prame	leukemia
+arhgap45	pre-eclampsia
+hey1	glioblastoma multiforme
+hey1	glioblastoma
+sf3b1	leukemia
+psd3	glioma
+jade2	diabetes mellitus
+ttc28	prostate cancer
+acsl6	leukemia
+ehbp1	prostate cancer
+anks1a	coronary artery disease
+plcb1	major depressive disorder
+phldb1	glioma
+larp4b	prostate cancer
+cic	glioma
+plxnd1	heart failure
+arhgap26	leukemia
+erc1	papillary thyroid carcinoma
+myt1l	major depressive disorder
+fan1	colorectal cancer
+cnksr2	diabetes mellitus
+mras	coronary artery disease
+mras	diabetes mellitus
+vsig4	acute myeloid leukemia
+vsig4	leukemia
+chek2	colorectal cancer
+chek2	prostate cancer
+chek2	breast cancer
+chek2	osteosarcoma
+adamts7	coronary artery disease
+fam107a	glioma
+psip1	acute myeloid leukemia
+psip1	leukemia
+wdr45	heart failure
+capn10	diabetes mellitus
+wwp2	osteoarthritis
+pim2	acute myeloid leukemia
+pim2	leukemia
+dstn	heart failure
+ifi44l	major depressive disorder
+ehmt2	acute myeloid leukemia
+ehmt2	leukemia
+hpse	major depressive disorder
+ppp1r13l	leukemia
+aldh1l1	hypoxia
+septin9	acute myeloid leukemia
+septin9	leukemia
+stag2	glioblastoma multiforme
+stag2	leukemia
+stag2	glioma
+corin	pre-eclampsia
+b3gnt2	rheumatoid arthritis
+ctcf	leukemia
+gas2l1	acute myeloid leukemia
+gas2l1	leukemia
+mab21l2	rheumatoid arthritis
+procr	coronary artery disease
+deaf1	major depressive disorder
+fbln5	heart failure
+sema3c	hirschsprung disease
+hoxb13	prostate cancer
+mad2l2	leukemia
+tomm40	major depressive disorder
+ifi30	acute myeloid leukemia
+ifi30	leukemia
+ndrg1	glioblastoma multiforme
+ndrg1	glioblastoma
+hmg20a	diabetes mellitus
+trdn	heart failure
+tfg	papillary thyroid carcinoma
+maea	diabetes mellitus
+akap8	major depressive disorder
+abcc4	rheumatoid arthritis
+ap3s2	diabetes mellitus
+dcaf7	leukemia
+msln	cholangiocarcinoma
+topors	osteosarcoma
+tshz1	prostate cancer
+rnf41	major depressive disorder
+trim28	atherosclerosis
+rad50	breast cancer
+abcc5	rheumatoid arthritis
+sh2b3	coronary artery disease
+sh2b3	myocardial infarction
+sh2b3	leukemia
+hdac5	major depressive disorder
+nr1h4	atherosclerosis
+nr1i3	diabetes mellitus
+med12	major depressive disorder
+med12	hirschsprung disease
+golga5	papillary thyroid carcinoma
+dennd4b	prostate cancer
+tbc1d4	diabetes mellitus
+psmd6	diabetes mellitus
+rapgef5	major depressive disorder
+edem1	major depressive disorder
+ikbke	major depressive disorder
+isg15	major depressive disorder
+sec24c	major depressive disorder
+ncor1	glioblastoma multiforme
+ncor1	glioblastoma
+apobec3b	cervical cancer
+gabbr2	major depressive disorder
+vps26a	diabetes mellitus
+gdf15	coronary artery disease
+gdf15	heart failure
+mapk8ip1	diabetes mellitus
+homer1	major depressive disorder
+gsto1	leukemia
+recql4	osteosarcoma
+adipoq	heart failure
+adipoq	atherosclerosis
+adipoq	rheumatoid arthritis
+kl	coronary artery disease
+kl	diabetes mellitus
+lhx2	rheumatoid arthritis
+trip11	hypertension
+cd83	rheumatoid arthritis
+s1pr2	diabetes mellitus
+adgrg1	prostate cancer
+zw10	osteosarcoma
+htr3b	major depressive disorder
+exo1	colorectal cancer
+syngr1	acute myeloid leukemia
+syngr1	leukemia
+smc3	leukemia
+gprc5a	rheumatoid arthritis
+pstpip1	acne
+kalrn	major depressive disorder
+fubp1	glioma
+sqstm1	osteosarcoma
+dleu2	acute myeloid leukemia
+dleu2	leukemia
+prom1	glioblastoma multiforme
+prom1	major depressive disorder
+prom1	glioblastoma
+cflar	leukemia
+ggh	rheumatoid arthritis
+galr2	major depressive disorder
+trim24	papillary thyroid carcinoma
+tnfrsf11a	osteosarcoma
+tnfrsf14	rheumatoid arthritis
+tnfsf14	rheumatoid arthritis
+abcc3	rheumatoid arthritis
+s1pr4	diabetes mellitus
+ptch2	basal cell carcinoma
+asmtl	acute myeloid leukemia
+asmtl	leukemia
+plpp3	coronary artery disease
+slc25a12	rheumatoid arthritis
+kmo	major depressive disorder
+bhlhe40	glioblastoma multiforme
+bhlhe40	glioblastoma
+bcas1	prostate cancer
+dgkd	diabetes mellitus
+dgkz	myocardial infarction
+ppfibp2	prostate cancer
+galr3	major depressive disorder
+rad54l	breast cancer
+cavin2	hirschsprung disease
+ltbp4	glioblastoma multiforme
+ltbp4	glioblastoma
+mad1l1	prostate cancer
+h3c2	glioblastoma multiforme
+h3c2	glioma
+h3c2	glioblastoma
+brap	myocardial infarction
+axin1	hepatoblastoma
+picalm	acute myeloid leukemia
+picalm	leukemia
+lztr1	glioblastoma multiforme
+lztr1	glioblastoma
+nrip1	myocardial infarction
+nrip1	heart failure
+taf15	osteosarcoma
+ptp4a2	heart failure
+ncoa4	papillary thyroid carcinoma
+mllt10	acute myeloid leukemia
+mllt10	leukemia
+nup214	acute myeloid leukemia
+nup214	leukemia
+nr4a3	rheumatoid arthritis
+tfpi2	rheumatoid arthritis
+reep5	major depressive disorder
+mapkapk3	glioblastoma multiforme
+pax8	papillary thyroid carcinoma
+lrp8	major depressive disorder
+lrp8	myocardial infarction
+zbtb16	major depressive disorder
+ywhah	diabetes mellitus
+xrcc4	colorectal cancer
+xrcc2	breast cancer
+xrcc2	leukemia
+xrcc1	glioma
+xpc	basal cell carcinoma
+xdh	major depressive disorder
+xdh	heart failure
+wt1	glioblastoma multiforme
+wt1	osteosarcoma
+wt1	acute myeloid leukemia
+wt1	leukemia
+wt1	glioblastoma
+wrn	osteosarcoma
+wnt2	cervical cancer
+wfs1	diabetes mellitus
+wars1	papillary thyroid carcinoma
+vwf	heart failure
+trpv1	atherosclerosis
+vcam1	atherosclerosis
+kdm6a	leukemia
+ube2e2	diabetes mellitus
+u2af1	leukemia
+tyk2	major depressive disorder
+tyk2	rheumatoid arthritis
+tnfsf4	myocardial infarction
+tubb2a	acute myeloid leukemia
+tubb2a	leukemia
+ttpa	atherosclerosis
+phlda2	osteosarcoma
+tsc2	acute myeloid leukemia
+tsc2	leukemia
+trio	acute myeloid leukemia
+trio	leukemia
+trh	acute myeloid leukemia
+trh	leukemia
+traf6	coronary artery disease
+traf6	rheumatoid arthritis
+traf1	rheumatoid arthritis
+tpr	papillary thyroid carcinoma
+tph1	major depressive disorder
+tp53bp1	glioblastoma multiforme
+tp53bp1	glioblastoma
+top2b	leukemia
+top2a	leukemia
+top2a	glioma
+tnnt2	heart failure
+tnni3	myocardial infarction
+tnfrsf1b	diabetes mellitus
+tnfrsf1a	heart failure
+tnfaip2	rheumatoid arthritis
+tmpo	rheumatoid arthritis
+tle3	rheumatoid arthritis
+nkx2-1	papillary thyroid carcinoma
+nkx2-1	hirschsprung disease
+thbd	myocardial infarction
+tgm2	glioblastoma multiforme
+tgm2	glioblastoma
+tfcp2	major depressive disorder
+tef	major depressive disorder
+tdo2	major depressive disorder
+tcf21	coronary artery disease
+tcf7l2	prostate cancer
+tcf7l2	diabetes mellitus
+tcea2	acute myeloid leukemia
+tcea2	leukemia
+vamp2	major depressive disorder
+svil	acute myeloid leukemia
+svil	leukemia
+stat4	systemic lupus erythematosus
+stat4	rheumatoid arthritis
+sstr5	major depressive disorder
+sst	major depressive disorder
+srpk2	glioblastoma multiforme
+srd5a2	prostate cancer
+spi1	acute myeloid leukemia
+sox10	hirschsprung disease
+sod3	heart failure
+sod1	myocardial infarction
+sod1	heart failure
+sod1	glioma
+sod1	diabetic retinopathy
+sod1	atherosclerosis
+sms	rheumatoid arthritis
+smarcd2	leukemia
+smarca4	colorectal cancer
+slit3	major depressive disorder
+slc22a4	rheumatoid arthritis
+slc22a3	diabetes mellitus
+slc11a1	tuberculosis
+slc11a1	rheumatoid arthritis
+slc9a3	diabetes mellitus
+slc6a13	major depressive disorder
+slc6a2	major depressive disorder
+slc5a5	cholangiocarcinoma
+slc5a5	glioma
+slc1a6	major depressive disorder
+st6gal1	diabetes mellitus
+shbg	diabetes mellitus
+sgk1	major depressive disorder
+sgk1	acute myeloid leukemia
+sgk1	leukemia
+sfrp4	diabetes mellitus
+sell	myocardial infarction
+cxcl6	rheumatoid arthritis
+ccl24	major depressive disorder
+ccl21	rheumatoid arthritis
+ccl8	rheumatoid arthritis
+ccl4	atherosclerosis
+sctr	diabetes mellitus
+sat1	major depressive disorder
+s100a10	major depressive disorder
+s100a10	acute myeloid leukemia
+s100a10	leukemia
+sort1	coronary artery disease
+rps20	colorectal cancer
+rps14	hypoxia
+rps2	hypoxia
+robo2	cholangiocarcinoma
+rnf6	diabetes mellitus
+brd2	glioblastoma multiforme
+brd2	glioblastoma
+rgs2	acute myeloid leukemia
+rgs2	leukemia
+rgs1	osteosarcoma
+trim27	papillary thyroid carcinoma
+rfc1	osteosarcoma
+ren	myocardial infarction
+ren	heart failure
+ren	diabetes mellitus
+rel	rheumatoid arthritis
+recql	breast cancer
+rbp4	heart failure
+rad51d	breast cancer
+mok	diabetes mellitus
+rad51c	breast cancer
+rad51c	leukemia
+nectin2	acute myeloid leukemia
+nectin2	leukemia
+nectin2	atherosclerosis
+pvr	acute myeloid leukemia
+pvr	leukemia
+ptprr	major depressive disorder
+ptprc	rheumatoid arthritis
+ptpn3	heart failure
+ptpn3	cholangiocarcinoma
+ptgs1	heart failure
+ptgs1	rheumatoid arthritis
+pth	heart failure
+ptgis	essential hypertension
+ptch1	basal cell carcinoma
+psmb4	major depressive disorder
+psma6	myocardial infarction
+psg5	rheumatoid arthritis
+htra1	intervertebral disc degeneration
+htra1	moyamoya disease
+prox1	diabetes mellitus
+prl	heart failure
+map2k7	heart failure
+prkcz	leukemia
+prkcq	rheumatoid arthritis
+prkar2b	heart failure
+prkacb	cholangiocarcinoma
+prkaca	cholangiocarcinoma
+prf1	leukemia
+ppp1r3a	diabetes mellitus
+ppp1r1a	heart failure
+pparg	papillary thyroid carcinoma
+pparg	heart failure
+pparg	atherosclerosis
+pou4f1	cervical cancer
+pou4f1	acute myeloid leukemia
+pou4f1	leukemia
+pou3f1	rheumatoid arthritis
+pon1	coronary artery disease
+pon1	heart failure
+pon1	diabetic retinopathy
+pon1	diabetes mellitus
+pon1	atherosclerosis
+pon1	rheumatoid arthritis
+pole	colorectal cancer
+pms2	colorectal cancer
+pms2	breast cancer
+pms2	glioma
+pml	glioblastoma multiforme
+pml	glioblastoma
+pln	myocardial infarction
+fxyd3	heart failure
+plek	rheumatoid arthritis
+plg	major depressive disorder
+plau	myocardial infarction
+plat	hypoxia
+plat	myocardial infarction
+plat	heart failure
+plat	atherosclerosis
+plagl1	diabetes mellitus
+pla2g2a	atherosclerosis
+pklr	diabetes mellitus
+pfkm	diabetes mellitus
+pfkfb3	major depressive disorder
+pepd	diabetes mellitus
+peg3	cholangiocarcinoma
+pecam1	coronary artery disease
+pdyn	major depressive disorder
+pdyn	hypoxia
+pdpk1	heart failure
+enpp1	diabetes mellitus
+pdk2	glioblastoma multiforme
+pcnt	major depressive disorder
+pcnt	moyamoya disease
+pcm1	papillary thyroid carcinoma
+pck2	hypoxia
+pax9	prostate cancer
+pawr	major depressive disorder
+pam	diabetes mellitus
+pebp1	heart failure
+oxtr	major depressive disorder
+oxt	major depressive disorder
+slc22a18	breast cancer
+tnfrsf11b	rheumatoid arthritis
+olr1	myocardial infarction
+olr1	heart failure
+ogg1	diabetes mellitus
+oas2	major depressive disorder
+nup98	acute myeloid leukemia
+nup98	leukemia
+ntrk1	papillary thyroid carcinoma
+ntrk1	glioma
+ntf3	major depressive disorder
+npr1	heart failure
+nppb	coronary artery disease
+nppb	heart failure
+nppa	hypoxia
+nppa	myocardial infarction
+nppa	heart failure
+npm1	acute myeloid leukemia
+npm1	leukemia
+npc1	atherosclerosis
+npy	major depressive disorder
+nos2	cholangiocarcinoma
+nos2	essential hypertension
+nos2	myocardial infarction
+nos2	heart failure
+nos2	atherosclerosis
+nme1	hypoxia
+nfkbil1	rheumatoid arthritis
+nfkbie	rheumatoid arthritis
+nfe2l2	heart failure
+nfatc2	diabetes mellitus
+nefl	major depressive disorder
+nell1	major depressive disorder
+ndufv2	major depressive disorder
+ndufv1	major depressive disorder
+ncf2	rheumatoid arthritis
+nbn	prostate cancer
+nbn	breast cancer
+nbn	glioma
+myo9b	prostate cancer
+mylk	glioma
+myh11	acute myeloid leukemia
+myh11	leukemia
+myh7	heart failure
+myh7	myocardial infarction
+myh6	heart failure
+mybl1	glioma
+mutyh	breast cancer
+mtnr1b	diabetes mellitus
+atp6	diabetes mellitus
+mst1r	osteosarcoma
+msr1	prostate cancer
+msmb	prostate cancer
+msh5	prostate cancer
+msh3	colorectal cancer
+msh2	colorectal cancer
+msh2	breast cancer
+msh2	glioma
+mpo	major depressive disorder
+mpo	hypoxia
+mpo	diabetes mellitus
+mpo	rheumatoid arthritis
+mmp12	rheumatoid arthritis
+mmp1	atherosclerosis
+kmt2a	acute myeloid leukemia
+kmt2a	leukemia
+mlf1	acute myeloid leukemia
+mlf1	leukemia
+ciita	rheumatoid arthritis
+mfge8	diabetes mellitus
+rab8a	rheumatoid arthritis
+mefv	acne
+mdm4	glioblastoma multiforme
+mdm4	major depressive disorder
+mdm4	glioblastoma
+mdk	glioma
+map2	major depressive disorder
+maob	major depressive disorder
+epcam	colorectal cancer
+epcam	breast cancer
+lyl1	acute myeloid leukemia
+lyl1	leukemia
+ltbp1	osteoarthritis
+lta	coronary artery disease
+lta	myocardial infarction
+lta4h	atherosclerosis
+lsamp	major depressive disorder
+lrp1	major depressive disorder
+lpa	coronary artery disease
+lpa	atherosclerosis
+lmo2	leukemia
+lmo1	leukemia
+lipc	diabetes mellitus
+lig4	leukemia
+lgals2	myocardial infarction
+lep	major depressive disorder
+aff3	rheumatoid arthritis
+kpna3	major depressive disorder
+klk1	myocardial infarction
+kif5a	rheumatoid arthritis
+kcnmb1	hypertension
+jag2	glioblastoma multiforme
+jag2	glioblastoma
+itih1	major depressive disorder
+itga1	diabetes mellitus
+irak1	coronary artery disease
+irak1	glioblastoma multiforme
+irak1	rheumatoid arthritis
+pdx1	diabetes mellitus
+insrr	glioblastoma multiforme
+inppl1	diabetes mellitus
+ins	heart failure
+inhba	pre-eclampsia
+incenp	prostate cancer
+il13ra1	diabetes mellitus
+il12a	glioma
+il6st	rheumatoid arthritis
+il2rb	rheumatoid arthritis
+il2ra	diabetes mellitus
+il2ra	major depressive disorder
+il2ra	rheumatoid arthritis
+il1rn	myocardial infarction
+il1rn	rheumatoid arthritis
+il1b	glioblastoma multiforme
+il1b	major depressive disorder
+il1b	myocardial infarction
+il1b	heart failure
+il1b	glioblastoma
+il1b	diabetes mellitus
+il1b	rheumatoid arthritis
+ccn1	rheumatoid arthritis
+ifna2	glioblastoma multiforme
+ifna2	myocardial infarction
+ifna2	glioblastoma
+ifna1	major depressive disorder
+idh2	glioblastoma multiforme
+idh2	cholangiocarcinoma
+idh2	acute myeloid leukemia
+idh2	leukemia
+irf8	rheumatoid arthritis
+htr3a	major depressive disorder
+htr2b	heart failure
+htr2a	major depressive disorder
+hspb1	acute myeloid leukemia
+hspb1	leukemia
+hspb1	heart failure
+hspa1l	major depressive disorder
+hspa1a	major depressive disorder
+hsd11b2	myocardial infarction
+hsd11b1	diabetes mellitus
+hsd11b1	rheumatoid arthritis
+hpx	diabetes mellitus
+hp	major depressive disorder
+hp	tuberculosis
+hp	myocardial infarction
+hp	leukemia
+hp	atherosclerosis
+hoxd13	rheumatoid arthritis
+hoxd11	rheumatoid arthritis
+nr4a1	major depressive disorder
+hlf	major depressive disorder
+hla-drb5	diabetes mellitus
+hla-drb1	moyamoya disease
+hla-drb1	rheumatoid arthritis
+hla-dqb1	moyamoya disease
+hla-dqa2	rheumatoid arthritis
+hla-dpb2	cervical cancer
+hla-dpb1	cervical cancer
+hla-dpb1	rheumatoid arthritis
+hla-doa	prostate cancer
+hla-c	glioma
+hla-b	moyamoya disease
+hla-b	glioma
+hla-a	glioma
+hhex	diabetes mellitus
+nrg1	hirschsprung disease
+nrg1	heart failure
+hdac2	leukemia
+hcls1	rheumatoid arthritis
+hba1	diabetes mellitus
+h3-3a	glioblastoma multiforme
+h3-3a	glioma
+h3-3a	glioblastoma
+h2ax	glioblastoma multiforme
+h2ax	glioblastoma
+h1-2	acute myeloid leukemia
+h1-2	leukemia
+h1-0	acute myeloid leukemia
+h1-0	leukemia
+gucy2f	glioblastoma multiforme
+gucy1a1	coronary artery disease
+gtf2i	acute myeloid leukemia
+gtf2i	leukemia
+msh6	colorectal cancer
+msh6	breast cancer
+msh6	leukemia
+gstt1	glioblastoma multiforme
+gstt1	glioblastoma
+gstm1	leukemia
+gstm1	diabetes mellitus
+gstm1	atherosclerosis
+cxcl3	heart failure
+grm7	major depressive disorder
+grm5	major depressive disorder
+grm4	osteosarcoma
+grik4	major depressive disorder
+grik2	glioblastoma multiforme
+grik2	glioblastoma
+gria2	major depressive disorder
+grb14	diabetes mellitus
+gpx4	heart failure
+grk6	rheumatoid arthritis
+lpar4	papillary thyroid carcinoma
+gp2	diabetes mellitus
+gnb3	coronary artery disease
+gnb3	major depressive disorder
+gnb3	essential hypertension
+gnb3	diabetes mellitus
+gnas	hypoxia
+gnas	cholangiocarcinoma
+glp1r	diabetes mellitus
+gclm	myocardial infarction
+gclc	myocardial infarction
+gla	moyamoya disease
+ggt1	myocardial infarction
+gfi1	acute myeloid leukemia
+gfi1	leukemia
+gfap	major depressive disorder
+mstn	heart failure
+gckr	diabetes mellitus
+gck	diabetes mellitus
+gcgr	diabetes mellitus
+gcg	heart failure
+gcg	diabetes mellitus
+gc	rheumatoid arthritis
+gatm	heart failure
+gata2	acute myeloid leukemia
+gata2	leukemia
+gart	rheumatoid arthritis
+galr1	major depressive disorder
+gad2	major depressive disorder
+gad2	diabetic retinopathy
+gad1	major depressive disorder
+ifi6	major depressive disorder
+fth1	glioma
+fpgs	rheumatoid arthritis
+folr1	osteosarcoma
+flt1	pre-eclampsia
+foxe1	papillary thyroid carcinoma
+fkbp5	major depressive disorder
+fkbp5	rheumatoid arthritis
+fkbp4	major depressive disorder
+fhl2	acute myeloid leukemia
+fhl2	leukemia
+fhl1	heart failure
+fgf1	leukemia
+fcgr3b	lupus nephritis
+fcgr2a	rheumatoid arthritis
+fat1	glioblastoma multiforme
+fat1	glioblastoma
+fancf	leukemia
+fancb	leukemia
+acsl1	diabetes mellitus
+fance	leukemia
+fancd2	leukemia
+fancc	leukemia
+fanca	leukemia
+f13a1	myocardial infarction
+f7	myocardial infarction
+f5	myocardial infarction
+f2	myocardial infarction
+f2	rheumatoid arthritis
+ext2	osteosarcoma
+ext1	osteosarcoma
+esr2	coronary artery disease
+esr2	major depressive disorder
+esd	hypoxia
+ern1	glioblastoma multiforme
+ercc5	basal cell carcinoma
+ercc3	basal cell carcinoma
+ercc2	basal cell carcinoma
+ephx2	heart failure
+ephx1	colorectal cancer
+ephx1	pre-eclampsia
+ephx1	acute myeloid leukemia
+ephx1	leukemia
+ephb6	glioblastoma multiforme
+ep300	leukemia
+eno2	acute myeloid leukemia
+eno2	leukemia
+eno1	rheumatoid arthritis
+emp1	major depressive disorder
+eif4ebp1	acute myeloid leukemia
+eif4ebp1	leukemia
+eif4b	major depressive disorder
+eif1ax	papillary thyroid carcinoma
+celsr3	hirschsprung disease
+egf	glioblastoma multiforme
+egf	major depressive disorder
+egf	glioblastoma
+ednrb	hirschsprung disease
+ednrb	heart failure
+ednrb	diabetes mellitus
+edn3	hirschsprung disease
+ece1	essential hypertension
+ece1	diabetes mellitus
+gpr183	leukemia
+tor1a	prostate cancer
+rcan1	rheumatoid arthritis
+drd4	major depressive disorder
+drd3	major depressive disorder
+dock2	prostate cancer
+dync1h1	papillary thyroid carcinoma
+dnase1l3	rheumatoid arthritis
+sardh	hypoxia
+dmbt1	glioma
+dlg4	major depressive disorder
+dlg3	major depressive disorder
+dlg2	major depressive disorder
+dio3	papillary thyroid carcinoma
+nqo1	leukemia
+nqo1	diabetes mellitus
+gsdme	rheumatoid arthritis
+cfd	heart failure
+dhx15	acute myeloid leukemia
+dhx15	leukemia
+dmxl1	glioma
+ddc	major depressive disorder
+ddb2	basal cell carcinoma
+ace	coronary artery disease
+ace	major depressive disorder
+ace	pre-eclampsia
+ace	myocardial infarction
+ace	heart failure
+ace	diabetes mellitus
+dbh	major depressive disorder
+daxx	glioblastoma
+dapk1	acute myeloid leukemia
+dapk1	leukemia
+cyp27a1	atherosclerosis
+cyp3a5	essential hypertension
+cyp2d6	major depressive disorder
+cyp1a2	diabetes mellitus
+cyp1a1	diabetes mellitus
+cyba	atherosclerosis
+cux1	major depressive disorder
+cux1	leukemia
+ctsz	acute myeloid leukemia
+ctsz	leukemia
+ctsk	glioblastoma multiforme
+ctsk	glioblastoma
+ctsh	acute myeloid leukemia
+ctsh	leukemia
+ctsd	rheumatoid arthritis
+ctsb	glioblastoma multiforme
+ctsb	glioblastoma
+ctrb1	hypoxia
+ctnnd2	glioblastoma multiforme
+ctnnd2	major depressive disorder
+ctnnd2	glioblastoma
+ctnna1	colorectal cancer
+ctnna1	acute myeloid leukemia
+ctnna1	leukemia
+ctla4	diabetes mellitus
+ctla4	major depressive disorder
+ctla4	rheumatoid arthritis
+ccn2	heart failure
+ccn2	rheumatoid arthritis
+cstb	glioblastoma multiforme
+cstb	glioblastoma
+csta	glioblastoma multiforme
+csta	glioblastoma
+cst3	acute myeloid leukemia
+cst3	leukemia
+csf3r	leukemia
+csf3	acute myeloid leukemia
+csf3	leukemia
+csf3	heart failure
+csf2rb	major depressive disorder
+csf2	acute myeloid leukemia
+csf2	leukemia
+csf2	heart failure
+csf2	rheumatoid arthritis
+cs	hypoxia
+cs	heart failure
+hapln1	rheumatoid arthritis
+crp	coronary artery disease
+crp	major depressive disorder
+crp	heart failure
+crp	diabetic retinopathy
+crp	atherosclerosis
+crp	rheumatoid arthritis
+crhr1	major depressive disorder
+crhbp	major depressive disorder
+crh	major depressive disorder
+crem	myocardial infarction
+crebbp	leukemia
+cpt1b	diabetes mellitus
+cpa2	hypoxia
+cp	pre-eclampsia
+cp	rheumatoid arthritis
+comt	hirschsprung disease
+comt	major depressive disorder
+col8a1	heart failure
+col6a1	heart failure
+col4a1	heart failure
+col2a1	rheumatoid arthritis
+cnr2	acute myeloid leukemia
+cnr2	leukemia
+cnr2	atherosclerosis
+cnp	major depressive disorder
+abcc2	rheumatoid arthritis
+ccr5	diabetes mellitus
+ccr4	glioma
+clcn5	glioma
+clcn2	glioma
+ckm	myocardial infarction
+ckb	myocardial infarction
+cidea	heart failure
+chi3l1	glioblastoma multiforme
+chi3l1	glioma
+chi3l1	glioblastoma
+chd3	prostate cancer
+cetp	atherosclerosis
+cdo1	diabetes mellitus
+cdkn2c	glioma
+cdh7	major depressive disorder
+cd68	diabetes mellitus
+cd40	rheumatoid arthritis
+cd33	acute myeloid leukemia
+cd33	leukemia
+cd28	rheumatoid arthritis
+cd9	glioblastoma multiforme
+cd9	acute myeloid leukemia
+cd9	leukemia
+cd9	glioblastoma
+cd5	rheumatoid arthritis
+cd3e	rheumatoid arthritis
+cd2	rheumatoid arthritis
+ccnh	glioblastoma multiforme
+ccnh	glioblastoma
+cckar	major depressive disorder
+cbs	diabetes mellitus
+cblb	leukemia
+cbfb	acute myeloid leukemia
+cbfb	leukemia
+runx1t1	acute myeloid leukemia
+runx1t1	leukemia
+cav3	diabetes mellitus
+cav2	rheumatoid arthritis
+capn2	acute myeloid leukemia
+capn2	leukemia
+capg	acute myeloid leukemia
+capg	leukemia
+camk2a	major depressive disorder
+cald1	rheumatoid arthritis
+ca9	hypoxia
+gas8-as1	papillary thyroid carcinoma
+c3	diabetes mellitus
+serping1	lupus nephritis
+klf9	heart failure
+bmp7	major depressive disorder
+blm	leukemia
+blk	rheumatoid arthritis
+bhmt	diabetes mellitus
+bgn	rheumatoid arthritis
+bdkrb2	major depressive disorder
+bdkrb2	rheumatoid arthritis
+bdkrb1	diabetes mellitus
+bcr	major depressive disorder
+bcl2a1	rheumatoid arthritis
+bche	glioblastoma multiforme
+bche	glioblastoma
+bard1	colorectal cancer
+bard1	breast cancer
+bak1	myocardial infarction
+bad	leukemia
+avpr2	heart failure
+avp	major depressive disorder
+avp	heart failure
+kif1a	diabetes mellitus
+atrx	glioblastoma multiforme
+atrx	glioma
+atp7b	major depressive disorder
+atp5f1b	hypoxia
+atp2b1	coronary artery disease
+atp2a1	heart failure
+atp1b2	glioma
+atp1a3	heart failure
+atp1a1	myocardial infarction
+atic	rheumatoid arthritis
+arvcf	hirschsprung disease
+sts	diabetes mellitus
+sts	rheumatoid arthritis
+arsa	major depressive disorder
+arrb1	major depressive disorder
+arhgap6	prostate cancer
+abcc6	moyamoya disease
+aqp9	acute myeloid leukemia
+aqp9	leukemia
+aprt	major depressive disorder
+apoe	myocardial infarction
+apoe	atherosclerosis
+apod	glioma
+apoc3	coronary artery disease
+apoc1	heart failure
+apoa4	atherosclerosis
+apoa1	coronary artery disease
+apoa1	hypoxia
+birc3	leukemia
+birc2	leukemia
+apcs	coronary artery disease
+apcs	heart failure
+apaf1	major depressive disorder
+anxa6	acute myeloid leukemia
+anxa6	leukemia
+anxa5	pre-eclampsia
+anxa5	acute myeloid leukemia
+anxa5	leukemia
+anxa4	acute myeloid leukemia
+anxa4	leukemia
+anxa3	rheumatoid arthritis
+anpep	major depressive disorder
+alox15	heart failure
+alox15	atherosclerosis
+alox5ap	atherosclerosis
+aldob	hypoxia
+alb	heart failure
+ahcy	hypoxia
+agtr1	essential hypertension
+agtr1	heart failure
+agtr1	diabetic retinopathy
+agt	essential hypertension
+agt	pre-eclampsia
+agt	myocardial infarction
+agt	heart failure
+agt	diabetic retinopathy
+agt	diabetes mellitus
+agt	atherosclerosis
+ager	atherosclerosis
+ager	rheumatoid arthritis
+acan	rheumatoid arthritis
+grk2	heart failure
+grk2	rheumatoid arthritis
+adrb3	heart failure
+adrb3	diabetes mellitus
+adrb1	heart failure
+adrb1	diabetes mellitus
+adra2c	heart failure
+adra1a	major depressive disorder
+adra1a	diabetes mellitus
+adra1d	heart failure
+adora3	myocardial infarction
+adora1	myocardial infarction
+adk	hypoxia
+add1	essential hypertension
+adcy7	major depressive disorder
+adcy7	acute myeloid leukemia
+adcy7	leukemia
+adcy5	major depressive disorder
+adcy5	diabetes mellitus
+acta2	myocardial infarction
+acta2	moyamoya disease
+acp1	major depressive disorder
+acox1	diabetes mellitus
+acadvl	hypoxia
+acads	heart failure
+acaca	heart failure
+abo	coronary artery disease
+nat2	coronary artery disease
+acne vulgaris	breast neoplasms
+acne vulgaris	triple negative breast neoplasms
+breast neoplasms	carcinoma, hepatocellular
+breast neoplasms	carcinoma, non-small-cell lung
+breast neoplasms	digestive system neoplasms
+breast neoplasms	endometrial neoplasms
+breast neoplasms	esophageal neoplasms
+breast neoplasms	liver neoplasms
+breast neoplasms	lung neoplasms
+breast neoplasms	pancreatic neoplasms
+breast neoplasms	prostatic neoplasms
+breast neoplasms	stomach neoplasms
+breast neoplasms	triple negative breast neoplasms
+breast neoplasms	urinary bladder neoplasms
+arthritis, rheumatoid	lupus erythematosus, systemic
+arthritis, rheumatoid	lupus nephritis
+arthritis, rheumatoid	multiple sclerosis
+arthritis, rheumatoid	osteoarthritis
+lupus erythematosus, systemic	lupus nephritis
+lupus erythematosus, systemic	multiple sclerosis
+lupus erythematosus, systemic	osteoarthritis
+lupus erythematosus, systemic	osteosarcoma
+cardiovascular diseases	coronary artery disease
+cardiovascular diseases	diabetic retinopathy
+cardiovascular diseases	essential hypertension
+cardiovascular diseases	heart diseases
+cardiovascular diseases	heart failure
+cardiovascular diseases	hypertension
+cardiovascular diseases	intracranial aneurysm
+cardiovascular diseases	moyamoya disease
+cardiovascular diseases	moyamoya disease 1
+cardiovascular diseases	myocardial infarction
+cardiovascular diseases	pre-eclampsia
+heart diseases	heart failure
+heart diseases	hypertension
+heart diseases	myocardial infarction
+carcinoma, hepatocellular	carcinoma, renal cell
+carcinoma, hepatocellular	cholangiocarcinoma
+carcinoma, hepatocellular	colonic neoplasms
+carcinoma, hepatocellular	colorectal neoplasms
+carcinoma, hepatocellular	digestive system neoplasms
+carcinoma, hepatocellular	esophageal neoplasms
+carcinoma, hepatocellular	glioma
+carcinoma, hepatocellular	leukemia
+carcinoma, hepatocellular	liver cirrhosis
+carcinoma, hepatocellular	liver neoplasms
+carcinoma, hepatocellular	pancreatic neoplasms
+carcinoma, hepatocellular	stomach neoplasms
+carcinoma, non-small-cell lung	digestive system neoplasms
+carcinoma, non-small-cell lung	lung neoplasms
+digestive system neoplasms	endometrial neoplasms
+digestive system neoplasms	esophageal neoplasms
+digestive system neoplasms	leukemia
+digestive system neoplasms	liver cirrhosis
+digestive system neoplasms	liver neoplasms
+digestive system neoplasms	lung neoplasms
+digestive system neoplasms	pancreatic neoplasms
+digestive system neoplasms	prostatic neoplasms
+digestive system neoplasms	stomach neoplasms
+digestive system neoplasms	triple negative breast neoplasms
+digestive system neoplasms	urinary bladder neoplasms
+digestive system neoplasms	uterine cervical neoplasms
+endometrial neoplasms	prostatic neoplasms
+endometrial neoplasms	urinary bladder neoplasms
+endometrial neoplasms	uterine cervical neoplasms
+esophageal neoplasms	liver neoplasms
+esophageal neoplasms	pancreatic neoplasms
+esophageal neoplasms	stomach neoplasms
+liver neoplasms	lung neoplasms
+liver neoplasms	pancreatic neoplasms
+liver neoplasms	stomach neoplasms
+liver neoplasms	triple negative breast neoplasms
+lung neoplasms	triple negative breast neoplasms
+lung neoplasms	tuberculosis, pulmonary
+pancreatic neoplasms	stomach neoplasms
+pancreatic neoplasms	triple negative breast neoplasms
+prostatic neoplasms	urinary bladder neoplasms
+prostatic neoplasms	uterine cervical neoplasms
+urinary bladder neoplasms	uterine cervical neoplasms
+carcinoma, basal cell	carcinoma, hepatocellular
+carcinoma, basal cell	carcinoma, renal cell
+carcinoma, basal cell	cholangiocarcinoma
+carcinoma, basal cell	glioblastoma
+carcinoma, basal cell	glioma
+carcinoma, basal cell	hepatoblastoma
+carcinoma, basal cell	leukemia
+carcinoma, basal cell	leukemia, myeloid, acute
+carcinoma, renal cell	cholangiocarcinoma
+carcinoma, renal cell	endometrial neoplasms
+carcinoma, renal cell	leukemia
+carcinoma, renal cell	lupus nephritis
+carcinoma, renal cell	prostatic neoplasms
+carcinoma, renal cell	urinary bladder neoplasms
+carcinoma, renal cell	uterine cervical neoplasms
+leukemia, myeloid, acute	precursor cell lymphoblastic leukemia-lymphoma
+colonic neoplasms	colorectal neoplasms
+colonic neoplasms	digestive system neoplasms
+colonic neoplasms	esophageal neoplasms
+colonic neoplasms	hirschsprung disease
+colonic neoplasms	liver neoplasms
+colonic neoplasms	pancreatic neoplasms
+colonic neoplasms	stomach neoplasms
+colorectal neoplasms	digestive system neoplasms
+colorectal neoplasms	esophageal neoplasms
+colorectal neoplasms	hirschsprung disease
+colorectal neoplasms	liver neoplasms
+colorectal neoplasms	pancreatic neoplasms
+colorectal neoplasms	stomach neoplasms
+liver cirrhosis	liver cirrhosis, biliary
+liver cirrhosis	liver neoplasms
+intracranial aneurysm	moyamoya disease
+intracranial aneurysm	moyamoya disease 1
+intracranial aneurysm	multiple system atrophy
+intracranial aneurysm	myocardial infarction
+diabetes, gestational	diabetes mellitus
+diabetes, gestational	diabetes mellitus, type 2
+diabetes, gestational	diabetic retinopathy
+diabetes, gestational	pre-eclampsia
+diabetes mellitus, type 2	diabetic retinopathy
+liver cirrhosis, biliary	liver neoplasms
+multiple system atrophy	hsa_circ_0005540
+multiple system atrophy	hsa_circ_0032891
+multiple system atrophy	hsa_circ_0054211
+multiple system atrophy	hsa_circ_0038374
+hirschsprung disease	hsa_circ_0000615
+moyamoya disease	moyamoya disease 1
+moyamoya disease	hsa_circ_0067209
+moyamoya disease	hsa_circ_0002078
+moyamoya disease	hsa_circ_0050898
+moyamoya disease	hsa_circ_0002569
+moyamoya disease	hsa_circ_0023903
+intracranial aneurysms	hsa_circ_0021001
+cardiovascular disease	hsa_circ_0013509
+hepatoblastoma	leukemia
+hepatoblastoma	leukemia, myeloid, acute
+hepatoblastoma	osteosarcoma
+hepatoblastoma	precursor cell lymphoblastic leukemia-lymphoma
+hepatoblastoma	hsa_circ_0072359
+hepatoblastoma	hsa_circ_0057336
+hepatoblastoma	hsa_circ_0023117
+hepatoblastoma	hsa_circ_0066077
+hepatoblastoma	hsa_circ_0023114
+hepatoblastoma	hsa_circ_0023110
+hepatoblastoma	hsa_circ_0043534
+hepatoblastoma	hsa_circ_0041731
+hepatoblastoma	hsa_circ_0078710
+hepatoblastoma	hsa_circ_0005931
+hepatoblastoma	hsa_circ_0045510
+hepatoblastoma	hsa_circ_0017515
+hepatoblastoma	hsa_circ_0079549
+hepatoblastoma	hsa_circ_0062163
+hepatoblastoma	hsa_circ_0067745
+hepatoblastoma	hsa_circ_0040081
+hepatoblastoma	hsa_circ_0015756
+cholangiocarcinoma	glioblastoma
+cholangiocarcinoma	glioma
+cholangiocarcinoma	hepatoblastoma
+cholangiocarcinoma	leukemia
+cholangiocarcinoma	hsa_circ_0001649
+endometrial cancer	hsa_circ_0002577
+lupus nephritis	urinary bladder neoplasms
+lupus nephritis	hsa_circ_0003922
+lupus nephritis	hsa_circ_0008433
+lupus nephritis	hsa_circ_0001819
+lupus nephritis	hsa_circ_0000219
+lupus nephritis	hsa_circ_0000175
+lupus nephritis	hsa_circ_0000615
+acne	hsa_circ_0018168
+acne	hsa_circ_0086376
+acne	hsa_circ_0005941
+acne	hsa_circ_0001073
+acne	hsa_circ_0084927
+systemic lupus erythematosus	hsa_circ_0040705
+systemic lupus erythematosus	hsa_circ_0021549
+systemic lupus erythematosus	hsa_circ_0046599
+systemic lupus erythematosus	hsa_circ_0008615
+systemic lupus erythematosus	hsa_circ_0001866
+systemic lupus erythematosus	hsa_circ_0034398
+systemic lupus erythematosus	hsa_circ_0003146
+systemic lupus erythematosus	hsa_circ_0092374
+essential hypertension	heart diseases
+essential hypertension	hypertension
+essential hypertension	intracranial aneurysm
+essential hypertension	myocardial infarction
+essential hypertension	pre-eclampsia
+essential hypertension	hsa_circ_0002161
+essential hypertension	hsa_circ_0037911
+heart failure	hypertension
+heart failure	myocardial infarction
+heart failure	hsa_circ_0000615
+acute lymphoblastic leukemia	hsa_circ_0001821
+colon cancer	hsa_circ_0000118
+major depressive disorder	hsa_circ_0089310
+major depressive disorder	hsa_circ_0056048
+major depressive disorder	hsa_circ_0001907
+major depressive disorder	hsa_circ_0001410
+major depressive disorder	hsa_circ_0005620
+pancreatic cancer	hsa_circ_0001313
+pancreatic cancer	hsa_circ_0006988
+pancreatic cancer	hsa_circ_0043138
+pancreatic cancer	hsa_circ_0000518
+primary biliary cholangitis	hsa_circ_0052372
+digestive system neoplasm	hsa_circ_0001649
+postmenopausal osteoporosis	hsa_circ_0007788
+postmenopausal osteoporosis	hsa_circ_0006801
+postmenopausal osteoporosis	hsa_circ_0003391
+postmenopausal osteoporosis	hsa_circ_0028882
+postmenopausal osteoporosis	hsa_circ_0006766
+postmenopausal osteoporosis	hsa_circ_0001275
+heart disease	hsa_circ_0068087
+pulmonary tuberculosis	hsa_circ_0002908
+pulmonary tuberculosis	hsa_circ_0063179
+pulmonary tuberculosis	hsa_circ_0000414
+pulmonary tuberculosis	hsa_circ_0002362
+pulmonary tuberculosis	hsa_circ_0002113
+pulmonary tuberculosis	hsa_circ_0008797
+pulmonary tuberculosis	hsa_circ_0000681
+pulmonary tuberculosis	hsa_circ_0005538
+pulmonary tuberculosis	hsa_circ_0000074
+gestational diabetes mellitus	hsa_circ_0082569
+gestational diabetes mellitus	hsa_circ_0033299
+gestational diabetes mellitus	hsa_circ_0020159
+gestational diabetes mellitus	hsa_circ_0038383
+non-small cell lung cancer	hsa_circ_0023404
+non-small cell lung cancer	hsa_circ_0000284
+non-small cell lung cancer	hsa_circ_0043256
+non-small cell lung cancer	hsa_circ_0016760
+non-small cell lung cancer	hsa_circ_0014130
+non-small cell lung cancer	hsa_circ_0007385
+non-small cell lung cancer	hsa_circ_0001819
+non-small cell lung cancer	hsa_circ_0079530
+non-small cell lung cancer	hsa_circ_0006404
+tuberculosis	tuberculosis, pulmonary
+tuberculosis	hsa_circ_0030569
+tuberculosis	hsa_circ_0001417
+tuberculosis	hsa_circ_0030045
+tuberculosis	hsa_circ_0043497
+tuberculosis	hsa_circ_0001204
+tuberculosis	hsa_circ_0000700
+tuberculosis	hsa_circ_0028899
+glioblastoma	glioma
+glioblastoma	leukemia
+glioblastoma	hsa_circ_0001946
+glioblastoma	hsa_circ_0001566
+glioblastoma	hsa_circ_0000199
+glioblastoma	hsa_circ_0002968
+glioblastoma	hsa_circ_0003586
+glioblastoma	hsa_circ_0006411
+glioblastoma	hsa_circ_0004872
+glioblastoma	hsa_circ_0008345
+glioblastoma	hsa_circ_0005603
+glioblastoma	hsa_circ_0006460
+glioblastoma	hsa_circ_0046701
+glioblastoma	hsa_circ_0012129
+glioblastoma	hsa_circ_0007534
+glioblastoma	hsa_circ_0004383
+glioblastoma	hsa_circ_0000831
+glioblastoma	hsa_circ_0000284
+glioblastoma	hsa_circ_0000594
+glioblastoma	hsa_circ_0001445
+glioblastoma	hsa_circ_0004214
+glioblastoma	hsa_circ_0001649
+glioblastoma	hsa_circ_0000177
+glioblastoma	hsa_circ_0028899
+glioblastoma	hsa_circ_0001070
+glioblastoma	hsa_circ_0067735
+glioblastoma	hsa_circ_0001512
+glioblastoma	hsa_circ_0000118
+glioblastoma	hsa_circ_0000915
+glioblastoma	hsa_circ_0000638
+glioblastoma	hsa_circ_0024997
+glioblastoma	hsa_circ_0032876
+glioblastoma	hsa_circ_0001206
+glioblastoma	hsa_circ_0000437
+glioblastoma	hsa_circ_0080121
+myocardial infarction	pre-eclampsia
+myocardial infarction	hsa_circ_0000615
+myocardial infarction	hsa_circ_0001946
+basal cell carcinoma	hsa_circ_0075829
+basal cell carcinoma	hsa_circ_0064996
+basal cell carcinoma	hsa_circ_0075828
+basal cell carcinoma	hsa_circ_0075825
+basal cell carcinoma	hsa_circ_0046449
+basal cell carcinoma	hsa_circ_0072387
+basal cell carcinoma	hsa_circ_0015449
+basal cell carcinoma	hsa_circ_0005085
+basal cell carcinoma	hsa_circ_0022392
+basal cell carcinoma	hsa_circ_0022383
+basal cell carcinoma	hsa_circ_0005912
+basal cell carcinoma	hsa_circ_0086419
+basal cell carcinoma	hsa_circ_0080189
+basal cell carcinoma	hsa_circ_0004777
+basal cell carcinoma	hsa_circ_0005795
+basal cell carcinoma	hsa_circ_0001370
+basal cell carcinoma	hsa_circ_0008732
+leukemia	leukemia, myeloid, acute
+leukemia	osteosarcoma
+leukemia	precursor cell lymphoblastic leukemia-lymphoma
+leukemia	hsa_circ_0004277
+coronary artery disease	essential hypertension
+coronary artery disease	heart diseases
+coronary artery disease	heart failure
+coronary artery disease	hypertension
+coronary artery disease	moyamoya disease
+coronary artery disease	moyamoya disease 1
+coronary artery disease	myocardial infarction
+coronary artery disease	hsa_circ_0082081
+coronary artery disease	hsa_circ_0000615
+coronary artery disease	hsa_circ_0006323
+coronary artery disease	hsa_circ_0032970
+coronary artery disease	hsa_circ_0051172
+coronary artery disease	hsa_circ_0054537
+coronary artery disease	hsa_circ_0057576
+coronary artery disease	hsa_circ_0068942
+coronary artery disease	hsa_circ_0082824
+coronary artery disease	hsa_circ_0083357
+coronary artery disease	hsa_circ_0089378
+liver fibrosis	hsa_circ_0013255
+liver fibrosis	hsa_circ_0061893
+liver fibrosis	hsa_circ_0070963
+liver fibrosis	hsa_circ_0054345
+liver fibrosis	hsa_circ_0072765
+liver fibrosis	hsa_circ_0071410
+cervical cancer	hsa_circ_0001313
+cervical cancer	hsa_circ_0087432
+cervical cancer	hsa_circ_0089231
+cervical cancer	hsa_circ_0091822
+cervical cancer	hsa_circ_0034912
+cervical cancer	hsa_circ_0011021
+cervical cancer	hsa_circ_0000284
+cervical cancer	hsa_circ_0004214
+cervical cancer	hsa_circ_0018289
+prostate cancer	hsa_circ_0001445
+bladder cancer	hsa_circ_0002768
+bladder cancer	hsa_circ_0002024
+bladder cancer	hsa_circ_0000284
+bladder cancer	hsa_circ_0001577
+bladder cancer	hsa_circ_0001141
+bladder cancer	hsa_circ_0002495
+bladder cancer	hsa_circ_0000172
+bladder cancer	hsa_circ_0082582
+bladder cancer	hsa_circ_0007158
+bladder cancer	hsa_circ_0061265
+bladder cancer	hsa_circ_0005273
+bladder cancer	hsa_circ_0041103
+bladder cancer	hsa_circ_0092024
+bladder cancer	hsa_circ_0091017
+bladder cancer	hsa_circ_0003221
+bladder cancer	hsa_circ_0072088
+papillary thyroid carcinoma	hsa_circ_0081342
+papillary thyroid carcinoma	hsa_circ_0003505
+papillary thyroid carcinoma	hsa_circ_0004846
+papillary thyroid carcinoma	hsa_circ_0000516
+papillary thyroid carcinoma	hsa_circ_0064557
+papillary thyroid carcinoma	hsa_circ_0078738
+papillary thyroid carcinoma	hsa_circ_0092315
+papillary thyroid carcinoma	hsa_circ_0091894
+papillary thyroid carcinoma	hsa_circ_0079891
+papillary thyroid carcinoma	hsa_circ_0021553
+papillary thyroid carcinoma	hsa_circ_0004771
+papillary thyroid carcinoma	hsa_circ_0008016
+papillary thyroid carcinoma	hsa_circ_0015278
+papillary thyroid carcinoma	hsa_circ_0002111
+papillary thyroid carcinoma	hsa_circ_0067103
+papillary thyroid carcinoma	hsa_circ_0004458
+multiple sclerosis	multiple system atrophy
+multiple sclerosis	hsa_circ_0024892
+multiple sclerosis	hsa_circ_0056731
+multiple sclerosis	hsa_circ_0001400
+multiple sclerosis	hsa_circ_0000520
+multiple sclerosis	hsa_circ_0000519
+multiple sclerosis	hsa_circ_0000517
+multiple sclerosis	hsa_circ_0005402
+multiple sclerosis	hsa_circ_0035560
+multiple sclerosis	hsa_circ_0000518
+glioblastoma multiforme	hsa_circ_0001445
+triple negative breast cancer	hsa_circ_0005239
+triple negative breast cancer	hsa_circ_0004674
+triple negative breast cancer	hsa_circ_0004666
+triple negative breast cancer	hsa_circ_0089763
+triple negative breast cancer	hsa_circ_0001633
+triple negative breast cancer	hsa_circ_0007255
+diabetes mellitus	diabetes mellitus, type 2
+diabetes mellitus	diabetic retinopathy
+diabetes mellitus	osteoporosis, postmenopausal
+diabetes mellitus	hsa_circ_0000284
+diabetes mellitus	hsa_circ_0054633
+diabetes mellitus	hsa_circ_0005019
+diabetes mellitus	hsa_circ_0023918
+diabetes mellitus	hsa_circ_0015115
+diabetes mellitus	hsa_circ_0003251
+diabetic retinopathy	essential hypertension
+diabetic retinopathy	hypertension
+diabetic retinopathy	myocardial infarction
+diabetic retinopathy	hsa_circ_0000615
+diabetic retinopathy	hsa_circ_0012107
+diabetic retinopathy	hsa_circ_0003266
+diabetic retinopathy	hsa_circ_0080425
+diabetic retinopathy	hsa_circ_0020929
+diabetic retinopathy	hsa_circ_0063981
+osteosarcoma	hsa_circ_0016347
+osteosarcoma	hsa_circ_0001564
+osteosarcoma	hsa_circ_0009910
+osteosarcoma	hsa_circ_0001821
+osteosarcoma	hsa_circ_0002052
+osteosarcoma	hsa_circ_0000284
+osteosarcoma	hsa_circ_0092340
+osteosarcoma	hsa_circ_0043138
+osteosarcoma	hsa_circ_0004771
+osteosarcoma	hsa_circ_0056288
+hypoxia	hsa_circ_0005684
+hypoxia	hsa_circ_0001423
+hypoxia	hsa_circ_0004383
+atherosclerosis	cardiovascular diseases
+atherosclerosis	coronary artery disease
+atherosclerosis	essential hypertension
+atherosclerosis	heart diseases
+atherosclerosis	hypertension
+atherosclerosis	moyamoya disease
+atherosclerosis	moyamoya disease 1
+atherosclerosis	myocardial infarction
+atherosclerosis	pre-eclampsia
+atherosclerosis	hsa_circ_0003575
+atherosclerosis	hsa_circ_0000345
+atherosclerosis	hsa_circ_0004264
+atherosclerosis	hsa_circ_0003204
+atherosclerosis	hsa_circ_0003573
+atherosclerosis	hsa_circ_0008574
+intervertebral disc degeneration	osteoporosis, postmenopausal
+intervertebral disc degeneration	hsa_circ_0091702
+intervertebral disc degeneration	hsa_circ_0080210
+intervertebral disc degeneration	hsa_circ_0041946
+intervertebral disc degeneration	hsa_circ_0008305
+intervertebral disc degeneration	hsa_circ_0036763
+intervertebral disc degeneration	hsa_circ_0040039
+pre-eclampsia	hsa_circ_0029601
+pre-eclampsia	hsa_circ_0005218
+pre-eclampsia	hsa_circ_0005442
+pre-eclampsia	hsa_circ_0000284
+type 2 diabetes mellitus	hsa_circ_0018508
+type 2 diabetes mellitus	hsa_circ_0068087
+type 2 diabetes mellitus	hsa_circ_0054633
+duchenne muscular dystrophy	hsa_circ_0086414
+duchenne muscular dystrophy	hsa_circ_0000615
+osteoarthritis	hsa_circ_0023404
+osteoarthritis	hsa_circ_0005105
+osteoarthritis	hsa_circ_0045714
+osteoarthritis	hsa_circ_0041019
+osteoarthritis	hsa_circ_0005043
+osteoarthritis	hsa_circ_0000026
+osteoarthritis	hsa_circ_0008310
+osteoarthritis	hsa_circ_0065932
+osteoarthritis	hsa_circ_0000589
+osteoarthritis	hsa_circ_0005567
+leukoaraiosis	hsa_circ_0006186
+leukoaraiosis	hsa_circ_0007380
+rheumatoid arthritis	hsa_circ_0052012
+rheumatoid arthritis	hsa_circ_0032683
+rheumatoid arthritis	hsa_circ_0064996
+rheumatoid arthritis	hsa_circ_0083964
+rheumatoid arthritis	hsa_circ_0004712
+rheumatoid arthritis	hsa_circ_0001859
+rheumatoid arthritis	hsa_circ_0060144
+rheumatoid arthritis	hsa_circ_0004315
+rheumatoid arthritis	hsa_circ_0003524
+rheumatoid arthritis	hsa_circ_0088036
+hirschsprung's disease	hsa_circ_0000615
+hypertension	intracranial aneurysm
+hypertension	moyamoya disease
+hypertension	moyamoya disease 1
+hypertension	myocardial infarction
+hypertension	pre-eclampsia
+hypertension	hsa_circ_0000615
+hypertension	hsa_circ_0040809
+hypertension	hsa_circ_0008139
+hypertension	hsa_circ_0000437
+hypertension	hsa_circ_0005870
+esophageal squamous cell carcinoma	hsa_circ_0067934
+esophageal squamous cell carcinoma	hsa_circ_0001141
+lung cancer	hsa_circ_0001821
+lung cancer	hsa_circ_0000064
+lung cancer	hsa_circ_0000284
+lung cancer	hsa_circ_0059044
+lung cancer	hsa_circ_0054155
+lung cancer	hsa_circ_0023404
+lung cancer	hsa_circ_0013958
+lung cancer	hsa_circ_0004214
+lung cancer	hsa_circ_0043256
+lung cancer	hsa_circ_0001141
+liver cancer	hsa_circ_0007915
+liver cancer	hsa_circ_0003028
+liver cancer	hsa_circ_0010090
+liver cancer	hsa_circ_0013255
+liver cancer	hsa_circ_0061893
+liver cancer	hsa_circ_0070963
+liver cancer	hsa_circ_0054345
+liver cancer	hsa_circ_0072765
+liver cancer	hsa_circ_0071410
+liver cancer	hsa_circ_0000284
+esophageal cancer	hsa_circ_0032832
+esophageal cancer	hsa_circ_0000518
+esophageal cancer	hsa_circ_0001336
+esophageal cancer	hsa_circ_0058058
+esophageal cancer	hsa_circ_0004519
+esophageal cancer	hsa_circ_0014879
+esophageal cancer	hsa_circ_0002019
+esophageal cancer	hsa_circ_0000554
+esophageal cancer	hsa_circ_0089974
+glioma	hepatoblastoma
+glioma	leukemia
+glioma	hsa_circ_0001649
+glioma	hsa_circ_0001946
+glioma	hsa_circ_0004214
+glioma	hsa_circ_0000594
+glioma	hsa_circ_0046701
+glioma	hsa_circ_0007534
+glioma	hsa_circ_0004383
+clear cell renal cell carcinoma	hsa_circ_0000426
+clear cell renal cell carcinoma	hsa_circ_0000096
+colorectal cancer	hsa_circ_0001141
+colorectal cancer	hsa_circ_0082333
+colorectal cancer	hsa_circ_0001451
+colorectal cancer	hsa_circ_0000069
+colorectal cancer	hsa_circ_0001313
+colorectal cancer	hsa_circ_0001946
+colorectal cancer	hsa_circ_0000567
+colorectal cancer	hsa_circ_0007534
+colorectal cancer	hsa_circ_0014717
+colorectal cancer	hsa_circ_0001649
+colorectal cancer	hsa_circ_0000284
+colorectal cancer	hsa_circ_0007374
+colorectal cancer	hsa_circ_0006229
+colorectal cancer	hsa_circ_0002190
+colorectal cancer	hsa_circ_0000522
+colorectal cancer	hsa_circ_0086376
+colorectal cancer	hsa_circ_0071589
+colorectal cancer	hsa_circ_0003906
+colorectal cancer	hsa_circ_0000523
+colorectal cancer	hsa_circ_0002138
+colorectal cancer	hsa_circ_0024169
+colorectal cancer	hsa_circ_0000677
+colorectal cancer	hsa_circ_0087862
+colorectal cancer	hsa_circ_0084021
+colorectal cancer	hsa_circ_0008509
+colorectal cancer	hsa_circ_0006174
+colorectal cancer	hsa_circ_0048232
+colorectal cancer	hsa_circ_0074806
+colorectal cancer	hsa_circ_0005949
+colorectal cancer	hsa_circ_0008494
+colorectal cancer	hsa_circ_0022080
+colorectal cancer	hsa_circ_0084353
+colorectal cancer	hsa_circ_0074930
+colorectal cancer	hsa_circ_0000237
+colorectal cancer	hsa_circ_0007006
+colorectal cancer	hsa_circ_0000504
+colorectal cancer	hsa_circ_0007031
+colorectal cancer	hsa_circ_0001724
+colorectal cancer	hsa_circ_0020397
+colorectal cancer	hsa_circ_0005273
+colorectal cancer	hsa_circ_0072088
+colorectal cancer	hsa_circ_0002702
+colorectal cancer	hsa_circ_0003098
+acute myeloid leukemia	hsa_circ_0017446
+acute myeloid leukemia	hsa_circ_0058058
+acute myeloid leukemia	hsa_circ_0004136
+acute myeloid leukemia	hsa_circ_0035381
+acute myeloid leukemia	hsa_circ_0075001
+acute myeloid leukemia	hsa_circ_0000254
+acute myeloid leukemia	hsa_circ_0000488
+acute myeloid leukemia	hsa_circ_0001947
+acute myeloid leukemia	hsa_circ_0008078
+acute myeloid leukemia	hsa_circ_0001187
+acute myeloid leukemia	hsa_circ_0049657
+acute myeloid leukemia	hsa_circ_0004277
+lung adenocarcinoma	hsa_circ_0012673
+lung adenocarcinoma	hsa_circ_0067934
+lung adenocarcinoma	hsa_circ_0006411
+lung adenocarcinoma	hsa_circ_0013958
+hepatocellular carcinoma	hsa_circ_0001649
+hepatocellular carcinoma	hsa_circ_0005075
+hepatocellular carcinoma	hsa_circ_0004018
+hepatocellular carcinoma	hsa_circ_0001727
+hepatocellular carcinoma	hsa_circ_0003570
+hepatocellular carcinoma	hsa_circ_0005986
+hepatocellular carcinoma	hsa_circ_0001946
+hepatocellular carcinoma	hsa_circ_0085154
+hepatocellular carcinoma	hsa_circ_0001445
+hepatocellular carcinoma	hsa_circ_0067531
+hepatocellular carcinoma	hsa_circ_0067934
+hepatocellular carcinoma	hsa_circ_0068669
+hepatocellular carcinoma	hsa_circ_0008450
+hepatocellular carcinoma	hsa_circ_0002133
+hepatocellular carcinoma	hsa_circ_0000839
+hepatocellular carcinoma	hsa_circ_0021093
+hepatocellular carcinoma	hsa_circ_0000284
+hepatocellular carcinoma	hsa_circ_0007874
+hepatocellular carcinoma	hsa_circ_0001141
+hepatocellular carcinoma	hsa_circ_0000497
+hepatocellular carcinoma	hsa_circ_0075736
+hepatocellular carcinoma	hsa_circ_0000130
+breast cancer	hsa_circ_0000284
+breast cancer	hsa_circ_0001821
+breast cancer	hsa_circ_0001313
+breast cancer	hsa_circ_0008717
+breast cancer	hsa_circ_0004619
+breast cancer	hsa_circ_0006054
+breast cancer	hsa_circ_0001875
+breast cancer	hsa_circ_0001824
+breast cancer	hsa_circ_0004771
+breast cancer	hsa_circ_0006528
+breast cancer	hsa_circ_0004214
+breast cancer	hsa_circ_0007534
+breast cancer	hsa_circ_0011946
+breast cancer	hsa_circ_0085567
+breast cancer	hsa_circ_0044556
+breast cancer	hsa_circ_0017949
+breast cancer	hsa_circ_0016723
+breast cancer	hsa_circ_0007769
+breast cancer	hsa_circ_0007551
+breast cancer	hsa_circ_0006903
+breast cancer	hsa_circ_0006147
+breast cancer	hsa_circ_0005214
+breast cancer	hsa_circ_0005046
+breast cancer	hsa_circ_0005004
+breast cancer	hsa_circ_0003880
+breast cancer	hsa_circ_0003183
+breast cancer	hsa_circ_0002179
+breast cancer	hsa_circ_0002168
+breast cancer	hsa_circ_0002007
+breast cancer	hsa_circ_0001791
+breast cancer	hsa_circ_0001259
+breast cancer	hsa_circ_0001135
+breast cancer	hsa_circ_0000073
+breast cancer	hsa_circ_0017841
+breast cancer	hsa_circ_0016901
+breast cancer	hsa_circ_0015350
+breast cancer	hsa_circ_0014961
+breast cancer	hsa_circ_0012380
+breast cancer	hsa_circ_0010567
+breast cancer	hsa_circ_0001598
+breast cancer	hsa_circ_0001175
+breast cancer	hsa_circ_0036159
+breast cancer	hsa_circ_0015703
+breast cancer	hsa_circ_0010008
+breast cancer	hsa_circ_0001184
+breast cancer	hsa_circ_0006404
+breast cancer	hsa_circ_0000638
+breast cancer	hsa_circ_0003838
+breast cancer	hsa_circ_0092276
+breast cancer	hsa_circ_0086241
+breast cancer	hsa_circ_0085495
+breast cancer	hsa_circ_0001667
+breast cancer	hsa_circ_0002874
+breast cancer	hsa_circ_0002113
+breast cancer	hsa_circ_0068033
+breast cancer	hsa_circ_0001785
+breast cancer	hsa_circ_0005239
+breast cancer	hsa_circ_0001982
+breast cancer	hsa_circ_0005684
+breast cancer	hsa_circ_0000981
+breast cancer	hsa_circ_0000893
+breast cancer	hsa_circ_0001283
+breast cancer	hsa_circ_0018293
+breast cancer	hsa_circ_0000911
+breast cancer	hsa_circ_0001721
+breast cancer	hsa_circ_0000098
+breast cancer	hsa_circ_0000732
+breast cancer	hsa_circ_0008945
+gastric cancer	hsa_circ_0000140
+gastric cancer	hsa_circ_0000284
+gastric cancer	hsa_circ_0001649
+gastric cancer	hsa_circ_0001821
+gastric cancer	hsa_circ_0000190
+gastric cancer	hsa_circ_0001895
+gastric cancer	hsa_circ_0069131
+gastric cancer	hsa_circ_0031979
+gastric cancer	hsa_circ_0006022
+gastric cancer	hsa_circ_0085553
+gastric cancer	hsa_circ_0003707
+gastric cancer	hsa_circ_0089548
+gastric cancer	hsa_circ_0091742
+gastric cancer	hsa_circ_0058246
+gastric cancer	hsa_circ_0006633
+gastric cancer	hsa_circ_0014717
+gastric cancer	hsa_circ_0001561
+gastric cancer	hsa_circ_0000026
+gastric cancer	hsa_circ_0000745
+gastric cancer	hsa_circ_0000181
+gastric cancer	hsa_circ_0001946
+gastric cancer	hsa_circ_0003159
+gastric cancer	hsa_circ_0041732
+gastric cancer	hsa_circ_0023642
+gastric cancer	hsa_circ_0001721
+gastric cancer	hsa_circ_0031027
+gastric cancer	hsa_circ_0015115
+gastric cancer	hsa_circ_0068610
+gastric cancer	hsa_circ_0007031
+gastric cancer	hsa_circ_0047905
+gastric cancer	hsa_circ_0008394
+gastric cancer	hsa_circ_0004458
+gastric cancer	hsa_circ_0000154
+gastric cancer	hsa_circ_0004680
+gastric cancer	hsa_circ_0002089
+gastric cancer	hsa_circ_0001546
+gastric cancer	hsa_circ_0008832
+gastric cancer	hsa_circ_0007707
+gastric cancer	hsa_circ_0001897
+gastric cancer	hsa_circ_0007099
+gastric cancer	hsa_circ_0006470
+gastric cancer	hsa_circ_0050547
+gastric cancer	hsa_circ_0005556
+gastric cancer	hsa_circ_0084606
+gastric cancer	hsa_circ_0011107
+gastric cancer	hsa_circ_0006282
+gastric cancer	hsa_circ_0074362
+gastric cancer	hsa_circ_0063809
+gastric cancer	hsa_circ_0003789
+gastric cancer	hsa_circ_0035445
+gastric cancer	hsa_circ_0076305
+gastric cancer	hsa_circ_0035431
+gastric cancer	hsa_circ_0076304
+gastric cancer	hsa_circ_0005529
+gastric cancer	hsa_circ_0032821
+gastric cancer	hsa_circ_0061274
+gastric cancer	hsa_circ_0000144
+gastric cancer	hsa_circ_0092341
+gastric cancer	hsa_circ_0005927
+gastric cancer	hsa_circ_0006127
+gastric cancer	hsa_circ_0085616
+gastric cancer	hsa_circ_0000520
+gastric cancer	hsa_circ_0061276
+gastric cancer	hsa_circ_0001017
+gastric cancer	hsa_circ_0058766
+gastric cancer	hsa_circ_0063561
+gastric cancer	hsa_circ_0054971
+gastric cancer	hsa_circ_0057104
+gastric cancer	hsa_circ_0060108
+gastric cancer	hsa_circ_0084720
+gastric cancer	hsa_circ_0081146
+gastric cancer	hsa_circ_0000627
+gastric cancer	hsa_circ_0092330
+gastric cancer	hsa_circ_0001539
+gastric cancer	hsa_circ_0000291
+gastric cancer	hsa_circ_0092283
+gastric cancer	hsa_circ_0000096
+gastric cancer	hsa_circ_0008383
+gastric cancer	hsa_circ_0013048
+gastric cancer	hsa_circ_0003222
+hsa-mir-551a	hsa_circ_0000284
+hsa-mir-184	lupus nephritis
+hsa-mir-184	acute myeloid leukemia
+hsa-mir-184	hsa_circ_0001417
+hsa-mir-184	hsa_circ_0000677
+hsa-mir-184	hsa_circ_0002078
+hsa-mir-300	hsa_circ_0001135
+hsa-mir-4500	hsa_circ_0001141
+hsa-mir-4500	hsa_circ_0000677
+hsa-mir-4500	hsa_circ_0002078
+hsa-mir-4500	hsa_circ_0000437
+hsa-mir-4500	hsa_circ_0091894
+hsa-mir-4500	hsa_circ_0092024
+hsa-mir-137	hepatocellular carcinoma
+hsa-mir-137	non-small cell lung cancer
+hsa-mir-137	hsa_circ_0001866
+hsa-mir-137	hsa_circ_0001423
+hsa-mir-542-3p	hsa_circ_0082569
+hsa-mir-542-3p	hsa_circ_0001283
+hsa-mir-339-5p	hsa_circ_0000118
+hsa-mir-339-5p	hsa_circ_0071589
+hsa-mir-4306	hsa_circ_0006022
+hsa-mir-4306	hsa_circ_0000175
+hsa-mir-4306	hsa_circ_0000677
+hsa-mir-4306	hsa_circ_0002078
+hsa-mir-378d	hsa_circ_0012380
+hsa-mir-378d	hsa_circ_0000069
+hsa-mir-378d	hsa_circ_0001184
+hsa-mir-378d	hsa_circ_0002113
+hsa-mir-378d	hsa_circ_0001370
+hsa-mir-378d	hsa_circ_0000345
+hsa-mir-378d	hsa_circ_0004619
+hsa-mir-378d	hsa_circ_0000175
+hsa-mir-3118	hsa_circ_0001417
+hsa-mir-3118	hsa_circ_0000140
+hsa-mir-3118	hsa_circ_0036763
+hsa-mir-3118	hsa_circ_0005538
+hsa-mir-4319	hsa_circ_0065932
+hsa-mir-4319	hsa_circ_0000700
+hsa-mir-4319	hsa_circ_0058766
+hsa-mir-4319	hsa_circ_0012380
+hsa-mir-4319	hsa_circ_0000069
+hsa-mir-4319	hsa_circ_0000893
+hsa-mir-520d-3p	hsa_circ_0005912
+hsa-mir-520d-3p	hsa_circ_0071589
+hsa-mir-520d-3p	hsa_circ_0001721
+hsa-mir-520d-3p	hsa_circ_0006147
+hsa-mir-451a	hsa_circ_0000130
+hsa-mir-3167	hsa_circ_0001866
+hsa-mir-3167	hsa_circ_0001275
+hsa-mir-3167	hsa_circ_0071589
+hsa-mir-3167	hsa_circ_0011946
+hsa-mir-3167	hsa_circ_0001577
+hsa-mir-3167	hsa_circ_0000497
+hsa-mir-362-3p	hsa_circ_0043138
+hsa-mir-422a	hsa_circ_0001370
+hsa-mir-422a	hsa_circ_0012380
+hsa-mir-422a	hsa_circ_0000069
+hsa-mir-422a	hsa_circ_0000345
+hsa-mir-422a	hsa_circ_0004619
+hsa-mir-422a	hsa_circ_0001184
+hsa-mir-422a	hsa_circ_0002113
+hsa-mir-422a	hsa_circ_0000175
+hsa-mir-875-5p	hsa_circ_0071589
+hsa-mir-139-5p	hsa_circ_0001417
+hsa-mir-139-5p	hsa_circ_0002007
+hsa-mir-139-5p	hsa_circ_0000627
+hsa-mir-21-5p	hsa_circ_0000345
+hsa-mir-199a-5p	hsa_circ_0002007
+hsa-mir-199a-5p	hsa_circ_0005556
+hsa-mir-199a-5p	hsa_circ_0071589
+hsa-mir-431-5p	hsa_circ_0001895
+hsa-mir-431-5p	hsa_circ_0089231
+hsa-mir-431-5p	hsa_circ_0005075
+hsa-mir-431-5p	hsa_circ_0000026
+hsa-mir-4429	hsa_circ_0008394
+hsa-mir-4429	hsa_circ_0007915
+hsa-mir-4429	hsa_circ_0001417
+hsa-mir-4429	hsa_circ_0005538
+hsa-mir-4429	hsa_circ_0012380
+hsa-mir-4429	hsa_circ_0000069
+hsa-mir-155-5p	hsa_circ_0000426
+hsa-let-7d-5p	hsa_circ_0091894
+hsa-let-7d-5p	hsa_circ_0092024
+hsa-let-7d-5p	hsa_circ_0001141
+hsa-let-7d-5p	hsa_circ_0000677
+hsa-let-7d-5p	hsa_circ_0002078
+hsa-let-7d-5p	hsa_circ_0000437
+hsa-mir-27a-3p	hsa_circ_0000915
+hsa-mir-27a-3p	hsa_circ_0071589
+hsa-mir-27a-3p	hsa_circ_0000345
+hsa-mir-27a-3p	hsa_circ_0036159
+hsa-mir-27a-3p	hsa_circ_0001785
+hsa-mir-27a-3p	hsa_circ_0060144
+hsa-mir-27a-3p	hsa_circ_0011946
+hsa-mir-371a-5p	hsa_circ_0071589
+hsa-mir-371a-5p	hsa_circ_0001175
+hsa-mir-204-5p	hsa_circ_0000118
+hsa-mir-204-5p	hsa_circ_0001275
+hsa-mir-204-5p	hsa_circ_0001721
+hsa-mir-34a-5p	hsa_circ_0006147
+hsa-mir-34a-5p	hsa_circ_0001866
+hsa-mir-34a-5p	hsa_circ_0000677
+hsa-mir-34a-5p	hsa_circ_0002078
+hsa-mir-34a-5p	hsa_circ_0012380
+hsa-mir-34a-5p	hsa_circ_0000069
+hsa-mir-34a-5p	hsa_circ_0000118
+hsa-mir-615-3p	hsa_circ_0068610
+hsa-mir-615-3p	hsa_circ_0001785
+hsa-mir-378b	hsa_circ_0001184
+hsa-mir-378b	hsa_circ_0002113
+hsa-mir-378b	hsa_circ_0012380
+hsa-mir-378b	hsa_circ_0000069
+hsa-mir-378b	hsa_circ_0000345
+hsa-mir-378b	hsa_circ_0004619
+hsa-mir-378b	hsa_circ_0001370
+hsa-mir-378b	hsa_circ_0000175
+hsa-mir-4735-3p	hsa_circ_0000677
+hsa-mir-4735-3p	hsa_circ_0002078
+hsa-mir-4465	hsa_circ_0004619
+hsa-mir-4465	hsa_circ_0000118
+hsa-mir-4465	hsa_circ_0000627
+hsa-mir-4465	hsa_circ_0001577
+hsa-mir-448	hsa_circ_0000522
+hsa-mir-448	hsa_circ_0001410
+hsa-mir-448	hsa_circ_0071589
+hsa-mir-448	hsa_circ_0001275
+hsa-mir-448	hsa_circ_0000437
+hsa-mir-326	acute myeloid leukemia
+hsa-mir-326	hsa_circ_0001135
+hsa-mir-326	hsa_circ_0023642
+hsa-mir-326	hsa_circ_0000638
+hsa-mir-326	hsa_circ_0001866
+hsa-mir-326	hsa_circ_0080189
+hsa-mir-326	hsa_circ_0006229
+hsa-mir-326	hsa_circ_0002007
+hsa-mir-103a-3p	hsa_circ_0000426
+hsa-mir-103a-3p	hsa_circ_0001785
+hsa-mir-103a-3p	hsa_circ_0000677
+hsa-mir-103a-3p	hsa_circ_0002078
+hsa-mir-103a-3p	hsa_circ_0006801
+hsa-mir-103a-3p	hsa_circ_0024997
+hsa-mir-103a-3p	hsa_circ_0001819
+hsa-mir-103a-3p	hsa_circ_0000638
+hsa-mir-103a-3p	hsa_circ_0007031
+hsa-mir-103a-3p	hsa_circ_0000504
+hsa-mir-103a-3p	hsa_circ_0001175
+hsa-mir-876-5p	hsa_circ_0001577
+hsa-mir-876-5p	hsa_circ_0000497
+hsa-mir-876-5p	hsa_circ_0001275
+hsa-mir-876-5p	hsa_circ_0071589
+hsa-mir-876-5p	hsa_circ_0011946
+hsa-mir-876-5p	hsa_circ_0001866
+hsa-mir-205-5p	hsa_circ_0000745
+hsa-mir-205-5p	hsa_circ_0001283
+hsa-mir-205-5p	hsa_circ_0005538
+hsa-mir-205-5p	hsa_circ_0007380
+hsa-mir-205-5p	hsa_circ_0001135
+hsa-mir-205-5p	hsa_circ_0001564
+hsa-mir-17-5p	prostate cancer
+hsa-mir-17-5p	bladder cancer
+hsa-mir-17-5p	hsa_circ_0001721
+hsa-mir-17-5p	hsa_circ_0006801
+hsa-mir-17-5p	hsa_circ_0000522
+hsa-mir-17-5p	hsa_circ_0001724
+hsa-mir-361-5p	hsa_circ_0000627
+hsa-mir-361-5p	hsa_circ_0043138
+hsa-mir-361-5p	hsa_circ_0000426
+hsa-mir-361-5p	hsa_circ_0001417
+hsa-mir-202-3p	hsa_circ_0000284
+hsa-mir-202-3p	hsa_circ_0000073
+hsa-mir-551b-3p	hsa_circ_0000284
+hsa-mir-3619-5p	hsa_circ_0000893
+hsa-mir-3619-5p	hsa_circ_0080189
+hsa-mir-3619-5p	hsa_circ_0006229
+hsa-mir-3619-5p	hsa_circ_0002007
+hsa-mir-20a-5p	hsa_circ_0000522
+hsa-mir-20a-5p	hsa_circ_0001724
+hsa-mir-20a-5p	hsa_circ_0006801
+hsa-mir-20a-5p	hsa_circ_0001721
+hsa-mir-449a	hsa_circ_0006147
+hsa-mir-449a	hsa_circ_0001866
+hsa-mir-449a	hsa_circ_0000677
+hsa-mir-449a	hsa_circ_0002078
+hsa-mir-449a	hsa_circ_0000118
+hsa-mir-449a	hsa_circ_0012380
+hsa-mir-449a	hsa_circ_0000069
+hsa-mir-3529-5p	hsa_circ_0004214
+hsa-mir-1271-5p	hsa_circ_0002007
+hsa-mir-1271-5p	hsa_circ_0000638
+hsa-mir-1271-5p	hsa_circ_0071589
+hsa-mir-1271-5p	hsa_circ_0000140
+hsa-mir-1271-5p	hsa_circ_0000615
+hsa-mir-302e	hsa_circ_0071589
+hsa-mir-302e	hsa_circ_0001721
+hsa-mir-302e	hsa_circ_0006147
+hsa-mir-302e	hsa_circ_0005912
+hsa-mir-125a-3p	hsa_circ_0000638
+hsa-mir-125a-3p	hsa_circ_0008832
+hsa-mir-125a-3p	hsa_circ_0000677
+hsa-mir-125a-3p	hsa_circ_0002078
+hsa-mir-125a-3p	hsa_circ_0036763
+hsa-mir-338-3p	hsa_circ_0004619
+hsa-mir-338-3p	hsa_circ_0000284
+hsa-mir-338-3p	hsa_circ_0000638
+hsa-mir-338-3p	hsa_circ_0071589
+hsa-mir-338-3p	hsa_circ_0000615
+hsa-mir-338-3p	hsa_circ_0006147
+hsa-mir-346	lupus nephritis
+hsa-mir-346	hsa_circ_0001175
+hsa-mir-4725-5p	hsa_circ_0001175
+hsa-mir-4725-5p	hsa_circ_0032683
+hsa-mir-4725-5p	hsa_circ_0004214
+hsa-mir-4725-5p	hsa_circ_0003838
+hsa-mir-4725-5p	hsa_circ_0000594
+hsa-mir-106b-5p	hsa_circ_0006801
+hsa-mir-106b-5p	hsa_circ_0000522
+hsa-mir-106b-5p	hsa_circ_0001721
+hsa-mir-106b-5p	hsa_circ_0001724
+hsa-mir-190b	hsa_circ_0001417
+hsa-mir-190b	hsa_circ_0000284
+hsa-mir-190b	hsa_circ_0001184
+hsa-mir-190b	hsa_circ_0002113
+hsa-mir-190b	hsa_circ_0002007
+hsa-mir-490-3p	hsa_circ_0001417
+hsa-mir-490-3p	hsa_circ_0005538
+hsa-mir-490-3p	hsa_circ_0071589
+hsa-mir-490-3p	hsa_circ_0001283
+hsa-mir-490-3p	hsa_circ_0005912
+hsa-mir-335-5p	hsa_circ_0000745
+hsa-mir-335-5p	hsa_circ_0015115
+hsa-mir-335-5p	hsa_circ_0000154
+hsa-mir-342-3p	hsa_circ_0000700
+hsa-mir-200b-3p	hsa_circ_0000437
+hsa-mir-200b-3p	hsa_circ_0000497
+hsa-mir-200b-3p	hsa_circ_0000219
+hsa-mir-125a-5p	hsa_circ_0065932
+hsa-mir-125a-5p	hsa_circ_0012380
+hsa-mir-125a-5p	hsa_circ_0000069
+hsa-mir-125a-5p	hsa_circ_0000893
+hsa-mir-125a-5p	hsa_circ_0000700
+hsa-mir-125a-5p	hsa_circ_0058766
+hsa-mir-4644	hsa_circ_0082569
+hsa-mir-4644	hsa_circ_0000175
+hsa-mir-4644	hsa_circ_0000677
+hsa-mir-4644	hsa_circ_0002078
+hsa-mir-4644	hsa_circ_0006022
+hsa-mir-599	hsa_circ_0000284
+hsa-mir-599	hsa_circ_0001017
+hsa-mir-599	hsa_circ_0001564
+hsa-mir-599	hsa_circ_0003266
+hsa-mir-378i	hsa_circ_0004619
+hsa-mir-378i	hsa_circ_0001184
+hsa-mir-378i	hsa_circ_0002113
+hsa-mir-378i	hsa_circ_0001370
+hsa-mir-378i	hsa_circ_0012380
+hsa-mir-378i	hsa_circ_0000069
+hsa-mir-378i	hsa_circ_0000175
+hsa-mir-378i	hsa_circ_0000345
+hsa-mir-92a-3p	hsa_circ_0046449
+hsa-mir-92a-3p	hsa_circ_0007031
+hsa-mir-92a-3p	hsa_circ_0000504
+hsa-mir-92a-3p	hsa_circ_0043256
+hsa-mir-92a-3p	hsa_circ_0001275
+hsa-mir-92a-3p	hsa_circ_0001724
+hsa-mir-141-3p	hsa_circ_0000677
+hsa-mir-141-3p	hsa_circ_0002078
+hsa-mir-141-3p	hsa_circ_0000130
+hsa-mir-141-3p	hsa_circ_0001417
+hsa-mir-141-3p	hsa_circ_0001633
+hsa-mir-141-3p	hsa_circ_0011946
+hsa-mir-141-3p	hsa_circ_0008394
+hsa-mir-429	lung cancer
+hsa-mir-429	hsa_circ_0000219
+hsa-mir-429	hsa_circ_0000437
+hsa-mir-429	hsa_circ_0000497
+hsa-mir-299-3p	duchenne muscular dystrophy
+hsa-mir-299-3p	hsa_circ_0000893
+hsa-mir-299-3p	hsa_circ_0002007
+hsa-mir-299-3p	hsa_circ_0000677
+hsa-mir-299-3p	hsa_circ_0002078
+hsa-mir-761	hsa_circ_0080189
+hsa-mir-761	hsa_circ_0006229
+hsa-mir-761	hsa_circ_0002007
+hsa-mir-761	hsa_circ_0000893
+hsa-mir-590-5p	hsa_circ_0000345
+hsa-mir-182-5p	hsa_circ_0000219
+hsa-mir-182-5p	hsa_circ_0005218
+hsa-mir-182-5p	hsa_circ_0001875
+hsa-mir-182-5p	hsa_circ_0000130
+hsa-mir-182-5p	hsa_circ_0071589
+hsa-mir-182-5p	hsa_circ_0001633
+hsa-mir-182-5p	hsa_circ_0001275
+hsa-mir-182-5p	hsa_circ_0000345
+hsa-mir-182-5p	hsa_circ_0004619
+hsa-mir-182-5p	hsa_circ_0001417
+hsa-mir-19a-3p	hsa_circ_0001175
+hsa-mir-19a-3p	hsa_circ_0001649
+hsa-mir-19a-3p	hsa_circ_0001417
+hsa-mir-19a-3p	hsa_circ_0015115
+hsa-mir-19a-3p	hsa_circ_0000154
+hsa-mir-520b	hsa_circ_0071589
+hsa-mir-520b	hsa_circ_0001721
+hsa-mir-520b	hsa_circ_0005912
+hsa-mir-520b	hsa_circ_0006147
+hsa-mir-7-5p	hsa_circ_0000140
+hsa-mir-7-5p	hsa_circ_0060144
+hsa-mir-7-5p	hsa_circ_0006801
+hsa-mir-7-5p	hsa_circ_0007006
+hsa-mir-200c-3p	hsa_circ_0000497
+hsa-mir-200c-3p	hsa_circ_0000219
+hsa-mir-200c-3p	hsa_circ_0000437
+hsa-mir-3139	hsa_circ_0080189
+hsa-mir-3139	hsa_circ_0006229
+hsa-mir-3139	hsa_circ_0002007
+hsa-mir-3139	hsa_circ_0004619
+hsa-mir-3139	hsa_circ_0000175
+hsa-mir-3139	hsa_circ_0001417
+hsa-mir-3139	hsa_circ_0000219
+hsa-mir-3139	hsa_circ_0000915
+hsa-mir-3139	hsa_circ_0007031
+hsa-mir-3139	hsa_circ_0000504
+hsa-mir-3139	hsa_circ_0071589
+hsa-mir-544a	hsa_circ_0080189
+hsa-mir-544a	hsa_circ_0006229
+hsa-mir-544a	hsa_circ_0087862
+hsa-mir-544a	hsa_circ_0006174
+hsa-mir-544a	hsa_circ_0000700
+hsa-mir-544a	hsa_circ_0000175
+hsa-mir-544a	hsa_circ_0005538
+hsa-mir-544a	hsa_circ_0001275
+hsa-mir-544a	hsa_circ_0015115
+hsa-mir-544a	hsa_circ_0000154
+hsa-mir-544a	hsa_circ_0000523
+hsa-mir-4458	hsa_circ_0000437
+hsa-mir-4458	hsa_circ_0001141
+hsa-mir-4458	hsa_circ_0000677
+hsa-mir-4458	hsa_circ_0002078
+hsa-mir-4458	hsa_circ_0091894
+hsa-mir-4458	hsa_circ_0092024
+hsa-mir-140-5p	hsa_circ_0002007
+hsa-mir-140-5p	hsa_circ_0071589
+hsa-mir-140-5p	hsa_circ_0012380
+hsa-mir-140-5p	hsa_circ_0000069
+hsa-mir-140-5p	hsa_circ_0001275
+hsa-mir-140-5p	hsa_circ_0011946
+hsa-mir-140-5p	hsa_circ_0001370
+hsa-mir-146b-5p	hsa_circ_0080189
+hsa-mir-146b-5p	hsa_circ_0006229
+hsa-mir-146b-5p	hsa_circ_0000497
+hsa-mir-320a	hsa_circ_0001417
+hsa-mir-320a	hsa_circ_0005538
+hsa-mir-320a	hsa_circ_0008394
+hsa-mir-320a	hsa_circ_0012380
+hsa-mir-320a	hsa_circ_0000069
+hsa-mir-320a	hsa_circ_0007915
+hsa-mir-195-5p	hsa_circ_0001785
+hsa-mir-195-5p	hsa_circ_0000677
+hsa-mir-195-5p	hsa_circ_0002078
+hsa-mir-195-5p	hsa_circ_0006801
+hsa-mir-195-5p	hsa_circ_0005046
+hsa-mir-195-5p	hsa_circ_0000615
+hsa-mir-195-5p	hsa_circ_0001417
+hsa-mir-195-5p	hsa_circ_0007380
+hsa-mir-195-5p	hsa_circ_0005218
+hsa-mir-195-5p	hsa_circ_0001875
+hsa-mir-195-5p	hsa_circ_0001649
+hsa-mir-195-5p	hsa_circ_0007031
+hsa-mir-195-5p	hsa_circ_0000504
+hsa-mir-195-5p	hsa_circ_0000627
+hsa-mir-195-5p	hsa_circ_0000638
+hsa-mir-195-5p	hsa_circ_0000426
+hsa-mir-195-5p	hsa_circ_0001175
+hsa-mir-30a-5p	lupus nephritis
+hsa-mir-30a-5p	prostate cancer
+hsa-mir-30a-5p	duchenne muscular dystrophy
+hsa-mir-30a-5p	hsa_circ_0071589
+hsa-mir-30a-5p	hsa_circ_0001275
+hsa-mir-30a-5p	hsa_circ_0001184
+hsa-mir-30a-5p	hsa_circ_0002113
+hsa-mir-30a-5p	hsa_circ_0001566
+hsa-mir-30a-5p	hsa_circ_0000130
+hsa-mir-378c	hsa_circ_0001370
+hsa-mir-378c	hsa_circ_0012380
+hsa-mir-378c	hsa_circ_0000069
+hsa-mir-378c	hsa_circ_0000345
+hsa-mir-378c	hsa_circ_0000175
+hsa-mir-378c	hsa_circ_0004619
+hsa-mir-378c	hsa_circ_0001184
+hsa-mir-378c	hsa_circ_0002113
+hsa-mir-1297	hsa_circ_0000627
+hsa-mir-1297	hsa_circ_0001577
+hsa-mir-1297	hsa_circ_0004619
+hsa-mir-1297	hsa_circ_0000118
+hsa-mir-455-5p	hsa_circ_0000098
+hsa-mir-455-5p	hsa_circ_0001275
+hsa-mir-378f	hsa_circ_0001370
+hsa-mir-378f	hsa_circ_0000345
+hsa-mir-378f	hsa_circ_0004619
+hsa-mir-378f	hsa_circ_0001184
+hsa-mir-378f	hsa_circ_0002113
+hsa-mir-378f	hsa_circ_0012380
+hsa-mir-378f	hsa_circ_0000069
+hsa-mir-378f	hsa_circ_0000175
+hsa-mir-324-5p	lupus nephritis
+hsa-mir-324-5p	hepatocellular carcinoma
+hsa-mir-324-5p	acute myeloid leukemia
+hsa-mir-324-5p	lung cancer
+hsa-mir-324-5p	hsa_circ_0001417
+hsa-mir-324-5p	hsa_circ_0058766
+hsa-mir-324-5p	hsa_circ_0006801
+hsa-mir-324-5p	hsa_circ_0004214
+hsa-mir-324-5p	hsa_circ_0002007
+hsa-mir-324-5p	hsa_circ_0005556
+hsa-mir-320b	hsa_circ_0008394
+hsa-mir-320b	hsa_circ_0007915
+hsa-mir-320b	hsa_circ_0012380
+hsa-mir-320b	hsa_circ_0000069
+hsa-mir-320b	hsa_circ_0001417
+hsa-mir-320b	hsa_circ_0005538
+hsa-mir-145-5p	hsa_circ_0001275
+hsa-mir-145-5p	hsa_circ_0000745
+hsa-mir-145-5p	hsa_circ_0011946
+hsa-mir-145-5p	hsa_circ_0071589
+hsa-mir-145-5p	hsa_circ_0000426
+hsa-mir-145-5p	hsa_circ_0000677
+hsa-mir-145-5p	hsa_circ_0002078
+hsa-mir-145-5p	hsa_circ_0001135
+hsa-mir-145-5p	hsa_circ_0003266
+hsa-mir-145-5p	hsa_circ_0005218
+hsa-mir-145-5p	hsa_circ_0001875
+hsa-mir-145-5p	hsa_circ_0001175
+hsa-mir-145-5p	hsa_circ_0001017
+hsa-mir-145-5p	hsa_circ_0032683
+hsa-mir-320c	hsa_circ_0012380
+hsa-mir-320c	hsa_circ_0000069
+hsa-mir-320c	hsa_circ_0001417
+hsa-mir-320c	hsa_circ_0007915
+hsa-mir-320c	hsa_circ_0005538
+hsa-mir-320c	hsa_circ_0008394
+hsa-mir-199b-5p	hsa_circ_0005556
+hsa-mir-199b-5p	hsa_circ_0071589
+hsa-mir-199b-5p	hsa_circ_0002007
+hsa-mir-424-5p	hsa_circ_0007380
+hsa-mir-424-5p	hsa_circ_0000426
+hsa-mir-424-5p	hsa_circ_0001175
+hsa-mir-424-5p	hsa_circ_0001785
+hsa-mir-424-5p	hsa_circ_0000677
+hsa-mir-424-5p	hsa_circ_0002078
+hsa-mir-424-5p	hsa_circ_0001417
+hsa-mir-424-5p	hsa_circ_0000615
+hsa-mir-424-5p	hsa_circ_0000627
+hsa-mir-424-5p	hsa_circ_0005218
+hsa-mir-424-5p	hsa_circ_0001875
+hsa-mir-424-5p	hsa_circ_0000638
+hsa-mir-424-5p	hsa_circ_0007031
+hsa-mir-424-5p	hsa_circ_0000504
+hsa-mir-424-5p	hsa_circ_0001649
+hsa-mir-424-5p	hsa_circ_0006801
+hsa-mir-424-5p	hsa_circ_0005046
+hsa-mir-486-5p	hsa_circ_0001141
+hsa-mir-486-5p	hsa_circ_0024997
+hsa-mir-486-5p	hsa_circ_0000745
+hsa-mir-421	hsa_circ_0007380
+hsa-mir-421	hsa_circ_0000700
+hsa-mir-421	hsa_circ_0000638
+hsa-mir-421	hsa_circ_0000627
+hsa-mir-421	hsa_circ_0001175
+hsa-mir-421	hsa_circ_0080189
+hsa-mir-421	hsa_circ_0006229
+hsa-mir-20b-5p	hsa_circ_0001724
+hsa-mir-20b-5p	hsa_circ_0001721
+hsa-mir-20b-5p	hsa_circ_0006801
+hsa-mir-20b-5p	hsa_circ_0000522
+hsa-mir-373-3p	hsa_circ_0071589
+hsa-mir-373-3p	hsa_circ_0005912
+hsa-mir-373-3p	hsa_circ_0001721
+hsa-mir-373-3p	hsa_circ_0006147
+hsa-mir-193a-3p	hsa_circ_0000345
+hsa-mir-193a-3p	hsa_circ_0000284
+hsa-mir-193a-3p	hsa_circ_0000745
+hsa-mir-193a-3p	hsa_circ_0001275
+hsa-mir-193a-3p	hsa_circ_0071589
+hsa-mir-520e	hsa_circ_0005912
+hsa-mir-520e	hsa_circ_0001721
+hsa-mir-520e	hsa_circ_0006147
+hsa-mir-520e	hsa_circ_0071589
+hsa-mir-378e	hsa_circ_0012380
+hsa-mir-378e	hsa_circ_0000069
+hsa-mir-378e	hsa_circ_0000345
+hsa-mir-378e	hsa_circ_0004619
+hsa-mir-378e	hsa_circ_0001184
+hsa-mir-378e	hsa_circ_0002113
+hsa-mir-378e	hsa_circ_0001370
+hsa-mir-378e	hsa_circ_0000175
+hsa-mir-378h	hsa_circ_0001370
+hsa-mir-378h	hsa_circ_0012380
+hsa-mir-378h	hsa_circ_0000069
+hsa-mir-378h	hsa_circ_0001184
+hsa-mir-378h	hsa_circ_0002113
+hsa-mir-378h	hsa_circ_0000175
+hsa-mir-378h	hsa_circ_0000345
+hsa-mir-378h	hsa_circ_0004619
+hsa-mir-320d	hsa_circ_0008394
+hsa-mir-320d	hsa_circ_0005538
+hsa-mir-320d	hsa_circ_0007915
+hsa-mir-320d	hsa_circ_0012380
+hsa-mir-320d	hsa_circ_0000069
+hsa-mir-181b-5p	hsa_circ_0001275
+hsa-mir-181b-5p	hsa_circ_0011946
+hsa-mir-181b-5p	hsa_circ_0001819
+hsa-mir-181b-5p	hsa_circ_0001577
+hsa-mir-28-5p	hsa_circ_0001417
+hsa-mir-28-5p	hsa_circ_0000219
+hsa-mir-28-5p	hsa_circ_0000915
+hsa-mir-28-5p	hsa_circ_0071589
+hsa-mir-28-5p	hsa_circ_0007031
+hsa-mir-28-5p	hsa_circ_0000504
+hsa-mir-28-5p	hsa_circ_0080189
+hsa-mir-28-5p	hsa_circ_0006229
+hsa-mir-28-5p	hsa_circ_0002007
+hsa-mir-28-5p	hsa_circ_0004619
+hsa-mir-28-5p	hsa_circ_0000175
+hsa-mir-34c-5p	hsa_circ_0000677
+hsa-mir-34c-5p	hsa_circ_0002078
+hsa-mir-34c-5p	hsa_circ_0001866
+hsa-mir-34c-5p	hsa_circ_0000118
+hsa-mir-34c-5p	hsa_circ_0012380
+hsa-mir-34c-5p	hsa_circ_0000069
+hsa-mir-34c-5p	hsa_circ_0006147
+hsa-mir-4770	hsa_circ_0001135
+hsa-mir-4770	hsa_circ_0001564
+hsa-mir-4770	hsa_circ_0091894
+hsa-mir-4770	hsa_circ_0092024
+hsa-mir-4770	hsa_circ_0001275
+hsa-mir-4770	hsa_circ_0060144
+hsa-mir-4770	hsa_circ_0001417
+hsa-mir-133b	bladder cancer
+hsa-mir-133b	glioblastoma multiforme
+hsa-mir-133b	hsa_circ_0001895
+hsa-mir-133b	hsa_circ_0089231
+hsa-mir-133b	hsa_circ_0001791
+hsa-mir-133b	hsa_circ_0071589
+hsa-mir-133b	hsa_circ_0001819
+hsa-mir-653-5p	hsa_circ_0082569
+hsa-mir-653-5p	hsa_circ_0000677
+hsa-mir-653-5p	hsa_circ_0002078
+hsa-mir-653-5p	hsa_circ_0087862
+hsa-mir-653-5p	hsa_circ_0006174
+hsa-mir-653-5p	hsa_circ_0000175
+hsa-mir-653-5p	hsa_circ_0000284
+hsa-mir-200a-3p	hsa_circ_0000130
+hsa-mir-200a-3p	hsa_circ_0000677
+hsa-mir-200a-3p	hsa_circ_0002078
+hsa-mir-200a-3p	hsa_circ_0001417
+hsa-mir-200a-3p	hsa_circ_0011946
+hsa-mir-200a-3p	hsa_circ_0001633
+hsa-mir-200a-3p	hsa_circ_0008394
+hsa-mir-3614-5p	hsa_circ_0006404
+hsa-mir-3666	hsa_circ_0001724
+hsa-mir-3666	hsa_circ_0015115
+hsa-mir-3666	hsa_circ_0000154
+hsa-mir-3666	hsa_circ_0000522
+hsa-mir-3666	hsa_circ_0005538
+hsa-mir-3666	hsa_circ_0000190
+hsa_circ_0002968	hsa_circ_0001566
+hsa_circ_0035560	hsa_circ_0005402
+hsa_circ_0023110	hsa_circ_0023117
+hsa_circ_0021549	hsa_circ_0021553
+hsa_circ_0037911	hsa_circ_0002161
+hsa_circ_0075828	hsa_circ_0075829
+hsa_circ_0075825	hsa_circ_0075829
+hsa_circ_0075825	hsa_circ_0075828
+hsa_circ_0002190	hsa_circ_0082333
+hsa_circ_0017841	hsa_circ_0068610
+hsa_circ_0001512	hsa_circ_0005540
+hsa_circ_0008732	hsa_circ_0086419
+hsa_circ_0006174	hsa_circ_0087862
+hsa_circ_0007031	hsa_circ_0000504
+hsa_circ_0001187	hsa_circ_0008078
+hsa_circ_0049657	hsa_circ_0086376
+hsa_circ_0004680	hsa_circ_0014717
+hsa_circ_0007707	hsa_circ_0034912
+hsa_circ_0076304	hsa_circ_0076305
+hsa_circ_0061274	hsa_circ_0004771
+hsa_circ_0092341	hsa_circ_0041732
+hsa_circ_0006127	hsa_circ_0041103
+hsa_circ_0018289	hsa_circ_0092276
+hsa_circ_0061276	hsa_circ_0004771
+hsa_circ_0002908	hsa_circ_0008345
+hsa_circ_0003221	hsa_circ_0008345
+hsa_circ_0003221	hsa_circ_0002908
+hsa_circ_0004458	hsa_circ_0002111
+hsa_circ_0001445	hsa_circ_0003575
+hsa_circ_0001445	hsa_circ_0000144
+hsa_circ_0008305	hsa_circ_0008345
+hsa_circ_0023918	hsa_circ_0023903
+hsa_circ_0000026	hsa_circ_0005075
+hsa_circ_0005218	hsa_circ_0001875
+hsa_circ_0041732	hsa_circ_0041731
+hsa_circ_0008310	hsa_circ_0041732
+hsa_circ_0008310	hsa_circ_0006229
+hsa_circ_0006186	hsa_circ_0050547
+hsa_circ_0000517	hsa_circ_0000519
+hsa_circ_0000520	hsa_circ_0000519
+hsa_circ_0000520	hsa_circ_0000517
+hsa_circ_0000518	hsa_circ_0000519
+hsa_circ_0000518	hsa_circ_0000517
+hsa_circ_0000518	hsa_circ_0000520
+hsa_circ_0004277	hsa_circ_0017446
+hsa_circ_0005684	hsa_circ_0012380
+rap2a	rheumatoid arthritis
+nos3	coronary artery disease
+nos3	hypoxia
+nos3	essential hypertension
+nos3	pre-eclampsia
+nos3	myocardial infarction
+nos3	heart failure
+nos3	atherosclerosis
+gap43	hirschsprung disease
+spp1	glioma
+hsa-mir-4262	hsa_circ_0001577
+hsa-mir-4262	hsa_circ_0001275
+hsa-mir-4262	hsa_circ_0011946
+hsa-mir-4262	hsa_circ_0001819
+hsa-mir-4262	spp1
+pde4b	acute myeloid leukemia
+pde4b	leukemia
+hsa-mir-330-5p	hsa_circ_0000638
+hsa-mir-330-5p	hsa_circ_0080189
+hsa-mir-330-5p	hsa_circ_0006229
+hsa-mir-330-5p	hsa_circ_0006147
+hsa-mir-330-5p	hsa_circ_0002007
+hsa-mir-330-5p	hsa_circ_0001135
+hsa-mir-330-5p	hsa_circ_0023642
+hsa-mir-330-5p	hsa_circ_0001866
+hsa-mir-330-5p	pde4b
+mmp3	coronary artery disease
+eln	moyamoya disease
+prkcb	glioblastoma multiforme
+prkcb	major depressive disorder
+prkcb	diabetes mellitus
+samhd1	moyamoya disease
+nos1	hypoxia
+mmp8	major depressive disorder
+hsa-mir-411-5p	hsa_circ_0002007
+hsa-mir-411-5p	hsa_circ_0000700
+hsa-mir-411-5p	hsa_circ_0000677
+hsa-mir-411-5p	hsa_circ_0002078
+hsa-mir-411-5p	spry4
+cybb	heart failure
+slc1a2	diabetes mellitus
+pdk4	diabetes mellitus
+rbpj	rheumatoid arthritis
+plk1	leukemia
+plk1	glioma
+hsa-mir-4295	hsa_circ_0000522
+hsa-mir-4295	hsa_circ_0005538
+hsa-mir-4295	hsa_circ_0001724
+hsa-mir-4295	hsa_circ_0000190
+hsa-mir-4295	hsa_circ_0015115
+hsa-mir-4295	hsa_circ_0000154
+hsa-mir-4295	runx3
+slc9a1	heart failure
+slc9a1	diabetes mellitus
+smad5	diabetes mellitus
+gdf5	osteoarthritis
+gdf5	rheumatoid arthritis
+cebpd	acute myeloid leukemia
+cebpd	leukemia
+acly	heart failure
+qki	major depressive disorder
+qki	glioma
+pink1	glioblastoma multiforme
+pink1	major depressive disorder
+hsa-mir-454-3p	hsa_circ_0000190
+hsa-mir-454-3p	hsa_circ_0015115
+hsa-mir-454-3p	hsa_circ_0000154
+hsa-mir-454-3p	hsa_circ_0000522
+hsa-mir-454-3p	hsa_circ_0001724
+hsa-mir-454-3p	hsa_circ_0005538
+hsa-mir-454-3p	cxcl12
+hsa-mir-381-3p	hsa_circ_0001135
+hsa-mir-381-3p	gja1
+prkn	glioblastoma multiforme
+prkn	glioblastoma
+gdnf	glioblastoma multiforme
+gdnf	major depressive disorder
+gdnf	hirschsprung disease
+gdnf	glioma
+gdnf	glioblastoma
+rasgrp1	acute myeloid leukemia
+rasgrp1	leukemia
+rasgrp1	rheumatoid arthritis
+lrp6	coronary artery disease
+hes1	cervical cancer
+hes1	glioblastoma multiforme
+hes1	glioblastoma
+spry4	acute myeloid leukemia
+spry4	leukemia
+spred2	rheumatoid arthritis
+cdkn2b	coronary artery disease
+cdkn2b	glioma
+rfx7	prostate cancer
+ercc1	cervical cancer
+lgals3	myocardial infarction
+nox4	heart failure
+mgmt	glioblastoma multiforme
+mgmt	leukemia
+mgmt	glioma
+mgmt	glioblastoma
+prkca	glioblastoma multiforme
+prkca	diabetes mellitus
+fancm	leukemia
+mecom	prostate cancer
+mecom	acute myeloid leukemia
+inpp4b	acute myeloid leukemia
+inpp4b	leukemia
+kit	acute myeloid leukemia
+irf7	major depressive disorder
+hsa-mir-762	hsa_circ_0006404
+hsa-mir-762	irf7
+bap1	cholangiocarcinoma
+bap1	leukemia
+hsa-mir-3622b-5p	hsa_circ_0006404
+hsa-mir-3622b-5p	erbb2
+hsa-mir-3622b-5p	bmi1
+hsa-mir-3622b-5p	egfr
+tfpi	hypoxia
+fosl2	glioblastoma multiforme
+fosl2	glioblastoma
+hgf	acute myeloid leukemia
+hgf	leukemia
+ntrk2	major depressive disorder
+ntrk2	glioma
+nlrp3	acne
+ros1	glioma
+kdm2a	prostate cancer
+foxp2	major depressive disorder
+ucp1	heart failure
+stat1	rheumatoid arthritis
+alox5	atherosclerosis
+alox5	rheumatoid arthritis
+adora2a	rheumatoid arthritis
+hsa-mir-196b-5p	hsa_circ_0006801
+hsa-mir-196b-5p	hsa_circ_0011946
+hsa-mir-196b-5p	hsa_circ_0014717
+hsa-mir-196b-5p	hsa_circ_0004680
+hsa-mir-196b-5p	hsa_circ_0000437
+hsa-mir-196b-5p	mtor
+hsa-mir-196b-5p	akt1
+hsa-mir-196b-5p	pik3cg
+hsa-mir-196b-5p	tgfbr2
+hsa-mir-23c	hsa_circ_0068087
+hsa-mir-23c	hsa_circ_0000638
+hsa-mir-23c	hsa_circ_0001175
+hsa-mir-23c	hsa_circ_0001283
+hsa-mir-23c	hsa_circ_0011946
+hsa-mir-23c	hsa_circ_0001895
+hsa-mir-23c	hsa_circ_0089231
+hsa-mir-23c	hsa_circ_0001417
+hsa-mir-23c	hsa_circ_0001017
+hsa-mir-23c	malat1
+tnfsf10	glioblastoma multiforme
+tnfsf10	acute myeloid leukemia
+tnfsf10	leukemia
+tnfsf10	glioma
+tnfsf10	glioblastoma
+hsa-mir-496	hsa_circ_0000627
+hsa-mir-496	hsa_circ_0003098
+hsa-mir-496	hsa_circ_0040809
+hsa-mir-496	hsa_circ_0001283
+hsa-mir-496	mtor
+cx3cl1	diabetes mellitus
+hsa-mir-208b-3p	hsa_circ_0001175
+hsa-mir-208b-3p	qki
+hsa-mir-208b-3p	cacna1c
+mx1	acute myeloid leukemia
+mx1	leukemia
+il12b	glioma
+prdx2	osteosarcoma
+prdx2	leukemia
+ccdc6	papillary thyroid carcinoma
+il4	tuberculosis
+hsa-mir-505-3p	hsa_circ_0000700
+hsa-mir-505-3p	hsa_circ_0007380
+hsa-mir-505-3p	hsa_circ_0001417
+hsa-mir-505-3p	tgfa
+nfkb1	diabetes mellitus
+hnf1b	prostate cancer
+hnf1b	diabetes mellitus
+cyp2c9	major depressive disorder
+esrra	osteosarcoma
+esrra	diabetes mellitus
+cyld	cervical cancer
+hsa-mir-136-3p	hsa_circ_0006404
+hsa-mir-136-3p	notch3
+smo	basal cell carcinoma
+mthfr	cervical cancer
+mthfr	major depressive disorder
+mthfr	rheumatoid arthritis
+setd2	leukemia
+eif2s1	osteosarcoma
+ctnnb1	cervical cancer
+ctnnb1	hepatoblastoma
+cyp2c19	major depressive disorder
+trim29	glioma
+cxcl10	major depressive disorder
+sphk1	leukemia
+faslg	atherosclerosis
+faslg	rheumatoid arthritis
+apln	heart failure
+cdk3	glioblastoma multiforme
+hsa-mir-873-5p	hsa_circ_0046449
+hsa-mir-873-5p	hsa_circ_0000523
+hsa-mir-873-5p	abcb1
+hsa-mir-873-5p	cdk3
+jak1	leukemia
+slc2a1	diabetes mellitus
+irf1	leukemia
+brd4	glioblastoma multiforme
+brd4	osteosarcoma
+brd4	glioblastoma
+hsa-mir-329-3p	hsa_circ_0043138
+hsa-mir-329-3p	brd4
+actb	hypoxia
+hsp90aa1	major depressive disorder
+hspa5	myocardial infarction
+hsa-mir-367-3p	hsa_circ_0001275
+hsa-mir-367-3p	hsa_circ_0001724
+hsa-mir-367-3p	hsa_circ_0007031
+hsa-mir-367-3p	hsa_circ_0000504
+hsa-mir-367-3p	hsa_circ_0046449
+hsa-mir-367-3p	fbxw7
+hsa-mir-367-3p	mdm2
+rps6ka3	glioblastoma multiforme
+angptl4	coronary artery disease
+gata3	rheumatoid arthritis
+hnf4a	diabetes mellitus
+lcn2	rheumatoid arthritis
+il18	rheumatoid arthritis
+pdlim5	major depressive disorder
+sh3gl1	acute myeloid leukemia
+sh3gl1	leukemia
+pappa	coronary artery disease
+pappa	myocardial infarction
+abcb1	major depressive disorder
+abcb1	rheumatoid arthritis
+ephb2	prostate cancer
+nod2	acne
+tlr7	major depressive disorder
+hsa-mir-758-3p	hsa_circ_0001135
+hsa-mir-758-3p	hsa_circ_0001417
+hsa-mir-758-3p	hsa_circ_0001275
+hsa-mir-758-3p	hsa_circ_0001283
+hsa-mir-758-3p	hsa_circ_0068610
+hsa-mir-758-3p	tlr7
+bmp6	rheumatoid arthritis
+nd1	diabetes mellitus
+cnr1	major depressive disorder
+rnasel	prostate cancer
+fgfr3	cervical cancer
+scnn1a	pre-eclampsia
+ddx6	rheumatoid arthritis
+hotair	cervical cancer
+cxcl2	heart failure
+cxcl2	rheumatoid arthritis
+ccl3	atherosclerosis
+csf1r	acute myeloid leukemia
+csf1r	leukemia
+ahr	pancreatic cancer
+ahr	atherosclerosis
+ahr	rheumatoid arthritis
+thbs2	diabetes mellitus
+htr1a	major depressive disorder
+ccr6	rheumatoid arthritis
+mirlet7d	diabetes mellitus
+gsr	diabetes mellitus
+apoa5	coronary artery disease
+hsa-mir-485-5p	duchenne muscular dystrophy
+hsa-mir-485-5p	hsa_circ_0087862
+hsa-mir-485-5p	hsa_circ_0006174
+hsa-mir-485-5p	hsa_circ_0000426
+hsa-mir-485-5p	hsa_circ_0000140
+hsa-mir-485-5p	ppargc1a
+hsa-mir-485-5p	apoa5
+tp63	cervical cancer
+drd2	major depressive disorder
+hnf1a	diabetes mellitus
+rgs5	essential hypertension
+hsa-mir-613	hsa_circ_0001423
+hsa-mir-613	hsa_circ_0008832
+hsa-mir-613	hsa_circ_0006801
+hsa-mir-613	hsa_circ_0005912
+hsa-mir-613	bdnf
+hsa-mir-613	kras
+hsa-mir-613	abca1
+marcks	rheumatoid arthritis
+hsa-mir-487b-3p	hsa_circ_0001577
+hsa-mir-487b-3p	thbs1
+hsa-mir-487b-3p	kras
+hsa-mir-487b-3p	myc
+hsa-mir-487b-3p	wnt5a
+hsa-mir-487b-3p	bmi1
+hsa-mir-487b-3p	suz12
+th	major depressive disorder
+sparc	intervertebral disc degeneration
+sparc	acute myeloid leukemia
+sparc	leukemia
+lox	osteosarcoma
+mat1a	diabetes mellitus
+pdgfrb	leukemia
+mmp14	prostate cancer
+abcg2	rheumatoid arthritis
+mbd2	prostate cancer
+mmp2	glioblastoma multiforme
+mmp2	osteosarcoma
+mmp2	myocardial infarction
+mmp2	lupus nephritis
+mmp2	glioblastoma
+mmp2	diabetes mellitus
+mmp2	rheumatoid arthritis
+enpep	major depressive disorder
+jak2	cervical cancer
+jak2	acute myeloid leukemia
+jak2	leukemia
+hsa-mir-520a-3p	hsa_circ_0005912
+hsa-mir-520a-3p	hsa_circ_0071589
+hsa-mir-520a-3p	hsa_circ_0001721
+hsa-mir-520a-3p	hsa_circ_0006147
+hsa-mir-520a-3p	tgfbr2
+hsa-mir-520a-3p	cd44
+hsa-mir-520a-3p	ccnd1
+hsa-mir-376c-3p	hsa_circ_0007255
+hsa-mir-376c-3p	hsa_circ_0000638
+hsa-mir-376c-3p	hsa_circ_0032683
+hsa-mir-376c-3p	runx2
+hsa-mir-376c-3p	bcl2
+hsa-mir-376c-3p	tgfa
+hsa-mir-376c-3p	bmi1
+edn1	major depressive disorder
+edn1	pre-eclampsia
+edn1	heart failure
+lpp	acute myeloid leukemia
+lpp	leukemia
+hsa-mir-590-3p	hsa_circ_0000118
+hsa-mir-590-3p	hsa_circ_0082569
+hsa-mir-590-3p	apc
+hsa-mir-590-3p	fosl2
+hsa-mir-590-3p	zeb1
+hsa-mir-590-3p	zeb2
+dab2ip	myocardial infarction
+txnip	rheumatoid arthritis
+kif5b	diabetes mellitus
+hspa1b	major depressive disorder
+hspa1b	atherosclerosis
+mbnl1	prostate cancer
+itga6	rheumatoid arthritis
+hsa-mir-92b-3p	hsa_circ_0007031
+hsa-mir-92b-3p	hsa_circ_0000504
+hsa-mir-92b-3p	hsa_circ_0043256
+hsa-mir-92b-3p	hsa_circ_0046449
+hsa-mir-92b-3p	hsa_circ_0001275
+hsa-mir-92b-3p	hsa_circ_0001724
+hsa-mir-92b-3p	dab2ip
+hsa-mir-92b-3p	itga6
+hsa-mir-301b-3p	hsa_circ_0000190
+hsa-mir-301b-3p	hsa_circ_0015115
+hsa-mir-301b-3p	hsa_circ_0000154
+hsa-mir-301b-3p	hsa_circ_0005538
+hsa-mir-301b-3p	hsa_circ_0001724
+hsa-mir-301b-3p	hsa_circ_0000522
+hsa-mir-301b-3p	nr3c2
+hsa-mir-301b-3p	pten
+hsa-mir-301b-3p	tp63
+hsa-mir-301b-3p	bcl2l11
+hsa-mir-363-3p	hsa_circ_0007031
+hsa-mir-363-3p	hsa_circ_0000504
+hsa-mir-363-3p	hsa_circ_0001724
+hsa-mir-363-3p	hsa_circ_0001275
+hsa-mir-363-3p	hsa_circ_0046449
+hsa-mir-363-3p	gap43
+hsa-mir-363-3p	creb1
+hsa-mir-363-3p	fbxw7
+hsa-mir-363-3p	notch1
+hsa-mir-363-3p	casp3
+hsa-mir-363-3p	sox4
+hsa-mir-363-3p	bcl2l11
+pck1	heart failure
+pck1	diabetes mellitus
+lpar1	acute myeloid leukemia
+lpar1	leukemia
+mff	myocardial infarction
+ptx3	major depressive disorder
+cbl	leukemia
+hsa-mir-149-5p	hsa_circ_0000523
+hsa-mir-149-5p	hsa_circ_0092283
+hsa-mir-149-5p	hsa_circ_0001135
+hsa-mir-149-5p	hsa_circ_0082569
+hsa-mir-149-5p	hsa_circ_0008394
+hsa-mir-149-5p	hsa_circ_0000140
+hsa-mir-149-5p	faslg
+hsa-mir-149-5p	mthfr
+hsa-mir-149-5p	il6
+hsa-mir-149-5p	fgfr1
+stat5b	basal cell carcinoma
+rarb	cervical cancer
+idh1	glioblastoma multiforme
+idh1	cholangiocarcinoma
+idh1	acute myeloid leukemia
+idh1	leukemia
+idh1	glioma
+ptprt	leukemia
+wnt5a	cervical cancer
+emsy	prostate cancer
+syncrip	leukemia
+fasn	heart failure
+rest	major depressive disorder
+sfrp1	heart failure
+thbs1	diabetic retinopathy
+hsa-mir-506-3p	hsa_circ_0000677
+hsa-mir-506-3p	hsa_circ_0002078
+hsa-mir-506-3p	hsa_circ_0000284
+hsa-mir-506-3p	hsa_circ_0001135
+hsa-mir-506-3p	hsa_circ_0008832
+hsa-mir-506-3p	hsa_circ_0001417
+hsa-mir-506-3p	dnmt3b
+hsa-mir-506-3p	ets1
+hsa-mir-506-3p	snai1
+hsa-mir-506-3p	cdk6
+bcl9	major depressive disorder
+mmp9	glioblastoma multiforme
+mmp9	myocardial infarction
+mmp9	lupus nephritis
+mmp9	glioblastoma
+mmp9	diabetes mellitus
+hsa-mir-219a-5p	hsa_circ_0000130
+hsa-mir-219a-5p	hsa_circ_0036159
+hsa-mir-219a-5p	hsa_circ_0000677
+hsa-mir-219a-5p	hsa_circ_0002078
+hsa-mir-219a-5p	egfr
+hoxd10	rheumatoid arthritis
+ddit3	myocardial infarction
+pde3a	myocardial infarction
+m6pr	major depressive disorder
+hsa-mir-4782-3p	hsa_circ_0036159
+hsa-mir-4782-3p	hsa_circ_0000677
+hsa-mir-4782-3p	hsa_circ_0002078
+hsa-mir-4782-3p	hsa_circ_0000130
+hsa-mir-4782-3p	zeb2
+dyrk2	glioblastoma multiforme
+atp7a	moyamoya disease
+stat3	cervical cancer
+stat3	diabetes mellitus
+stat3	acute myeloid leukemia
+stat3	leukemia
+stat3	atherosclerosis
+hsa-mir-874-3p	hsa_circ_0001135
+hsa-mir-874-3p	stat3
+hsa-mir-374b-5p	hsa_circ_0011946
+hsa-mir-374b-5p	hsa_circ_0000426
+hsa-mir-374b-5p	hsa_circ_0005556
+hsa-mir-374b-5p	akt1
+hsa-mir-374b-5p	vegfa
+hsa-mir-374b-5p	reck
+ptpn2	leukemia
+ptpn2	rheumatoid arthritis
+igfbp3	rheumatoid arthritis
+ikzf3	rheumatoid arthritis
+lipa	coronary artery disease
+malat1	acute myeloid leukemia
+malat1	leukemia
+hsa-mir-499a-5p	hsa_circ_0000345
+hsa-mir-499a-5p	ets1
+stmn1	glioma
+erbb2	cholangiocarcinoma
+erbb2	glioma
+acvr1	glioma
+hsa-mir-148b-3p	hsa_circ_0000284
+hsa-mir-148b-3p	hsa_circ_0000190
+hsa-mir-148b-3p	cybb
+hsa-mir-148b-3p	slc2a1
+hsa-mir-148b-3p	mlh1
+hsa-mir-148b-3p	hotair
+hsa-mir-148b-3p	hsp90aa1
+hsa-mir-148b-3p	acvr1
+raph1	major depressive disorder
+hsa-mir-382-5p	hsa_circ_0001866
+hsa-mir-382-5p	hsa_circ_0068087
+hsa-mir-382-5p	hsa_circ_0000284
+hsa-mir-382-5p	hsa_circ_0001283
+hsa-mir-382-5p	hsa_circ_0011946
+hsa-mir-382-5p	hsa_circ_0004214
+hsa-mir-382-5p	pten
+vdac1	myocardial infarction
+slc6a4	major depressive disorder
+atr	glioma
+mt2a	diabetes mellitus
+hsa-mir-539-5p	hsa_circ_0001175
+hsa-mir-539-5p	hsa_circ_0000175
+hsa-mir-539-5p	mmp8
+hsa-mir-539-5p	zeb1
+tcf4	prostate cancer
+casp7	acute myeloid leukemia
+casp7	leukemia
+fas	acute myeloid leukemia
+fas	leukemia
+clock	major depressive disorder
+erg	acute myeloid leukemia
+erg	leukemia
+atp2a2	heart failure
+bmp4	rheumatoid arthritis
+hsa-mir-495-3p	hsa_circ_0001566
+hsa-mir-495-3p	hsa_circ_0000700
+hsa-mir-495-3p	hsa_circ_0000284
+hsa-mir-495-3p	hsa_circ_0001417
+hsa-mir-495-3p	abcb1
+hsa-mir-495-3p	akt1
+hsa-mir-495-3p	runx3
+hsa-mir-495-3p	ccl2
+hsa-mir-495-3p	hspa5
+hsa-mir-495-3p	mat1a
+hsa-mir-495-3p	atp7a
+hsa-mir-495-3p	sox9
+braf	papillary thyroid carcinoma
+braf	cholangiocarcinoma
+braf	leukemia
+braf	glioma
+braf	diabetes mellitus
+cav1	diabetes mellitus
+alk	papillary thyroid carcinoma
+alk	glioma
+hsa-mir-543	hsa_circ_0002007
+hsa-mir-543	hsa_circ_0001275
+hsa-mir-543	nos3
+hsa-mir-543	kras
+hsa-mir-543	sirt1
+hsa-mir-543	ptk2
+asap1	tuberculosis
+ppp2r5c	papillary thyroid carcinoma
+prkcd	diabetes mellitus
+jun	osteosarcoma
+pias3	cervical cancer
+s100a8	acute myeloid leukemia
+s100a8	leukemia
+becn1	myocardial infarction
+hsa-mir-376b-3p	hsa_circ_0001564
+hsa-mir-376b-3p	hsa_circ_0001410
+hsa-mir-376b-3p	hsa_circ_0000437
+hsa-mir-376b-3p	hsa_circ_0011946
+hsa-mir-376b-3p	hsa_circ_0071589
+hsa-mir-376b-3p	becn1
+hsa-mir-1236-3p	hsa_circ_0074362
+hsa-mir-1236-3p	zeb1
+hsa-mir-1236-3p	kdr
+hsa-mir-142-3p	hepatocellular carcinoma
+hsa-mir-142-3p	multiple sclerosis
+hsa-mir-142-3p	hsa_circ_0000615
+hsa-mir-142-3p	hsa_circ_0000118
+hsa-mir-142-3p	hsa_circ_0071589
+hsa-mir-142-3p	prkca
+hsa-mir-142-3p	hoxa9
+hsa-mir-142-3p	abcg2
+hsa-mir-142-3p	lpp
+hsa-mir-142-3p	apc
+hsa-mir-142-3p	hspa1b
+hsa-mir-142-3p	hmga1
+hsa-mir-142-3p	rock2
+hsa-mir-154-5p	hsa_circ_0000130
+hsa-mir-154-5p	hsa_circ_0001206
+hsa-mir-154-5p	hsa_circ_0001275
+hsa-mir-154-5p	hsa_circ_0000175
+hsa-mir-154-5p	zeb2
+hsa-mir-154-5p	wnt5a
+hsa-mir-154-5p	ccnd2
+hsa-mir-154-5p	tlr2
+parp1	atherosclerosis
+ldha	major depressive disorder
+ldha	myocardial infarction
+srebf1	diabetes mellitus
+tgfa	hepatoblastoma
+mlh1	breast cancer
+ar	leukemia
+pcna	hepatoblastoma
+coro1a	tuberculosis
+chek1	breast cancer
+eif2s3	diabetes mellitus
+hif1a	glioblastoma multiforme
+hif1a	major depressive disorder
+hif1a	heart failure
+hif1a	glioblastoma
+stk11	cervical cancer
+itgb1	heart failure
+cdc25b	heart failure
+il2	glioblastoma multiforme
+il2	major depressive disorder
+il2	leukemia
+il2	glioblastoma
+hsa-mir-215-5p	hsa_circ_0071589
+hsa-mir-215-5p	runx1
+hsa-mir-215-5p	ptprt
+hsa-mir-215-5p	zeb2
+hsa-mir-215-5p	rb1
+ccl2	coronary artery disease
+ccl2	major depressive disorder
+ccl2	tuberculosis
+ccl2	heart failure
+ccl2	atherosclerosis
+tkt	hypoxia
+bax	myocardial infarction
+bax	diabetes mellitus
+egr1	hypoxia
+klf6	glioma
+epo	coronary artery disease
+epo	myocardial infarction
+gstp1	osteosarcoma
+gstp1	glioma
+snai2	papillary thyroid carcinoma
+cd34	major depressive disorder
+ldlr	coronary artery disease
+ldlr	atherosclerosis
+hsa-mir-365a-3p	hsa_circ_0001184
+hsa-mir-365a-3p	hsa_circ_0002113
+hsa-mir-365a-3p	hsa_circ_0001175
+hsa-mir-365a-3p	kras
+hsa-mir-365a-3p	acvr1
+hsa-mir-365a-3p	bax
+hsa-mir-365a-3p	il6
+hsa-mir-425-5p	lung cancer
+hsa-mir-425-5p	hsa_circ_0015115
+hsa-mir-425-5p	hsa_circ_0000154
+hsa-mir-425-5p	hsa_circ_0043138
+hsa-mir-425-5p	hsa_circ_0000627
+hsa-mir-425-5p	hsa_circ_0001275
+hsa-mir-425-5p	fgfr3
+hsa-mir-425-5p	pten
+hsa-mir-425-5p	ccnd1
+fmr1	major depressive disorder
+creg1	heart failure
+hsa-mir-33a-5p	hsa_circ_0023903
+hsa-mir-33a-5p	hsa_circ_0023918
+hsa-mir-33a-5p	hsa_circ_0000284
+hsa-mir-33a-5p	hsa_circ_0000700
+hsa-mir-33a-5p	hsa_circ_0001141
+hsa-mir-33a-5p	hsa_circ_0007031
+hsa-mir-33a-5p	hsa_circ_0000504
+hsa-mir-33a-5p	hsa_circ_0001423
+hsa-mir-33a-5p	prkcb
+hsa-mir-33a-5p	ros1
+hsa-mir-33a-5p	actb
+hsa-mir-33a-5p	srebf1
+hsa-mir-33a-5p	myc
+hsa-mir-33a-5p	pim1
+hsa-mir-33a-5p	hif1a
+hsa-mir-33a-5p	ncoa3
+sox4	heart failure
+hsa-mir-433-3p	hsa_circ_0001566
+hsa-mir-433-3p	hsa_circ_0000118
+hsa-mir-433-3p	hsa_circ_0006404
+hsa-mir-433-3p	hsa_circ_0005075
+hsa-mir-433-3p	hsa_circ_0000026
+hsa-mir-433-3p	hif1a
+hsa-mir-433-3p	met
+hsa-mir-433-3p	creb1
+hsa-mir-433-3p	kras
+hsa-mir-433-3p	runx2
+sox9	major depressive disorder
+prkce	myocardial infarction
+prkce	diabetes mellitus
+atf4	hypoxia
+atp1b1	essential hypertension
+atp1b1	acute myeloid leukemia
+atp1b1	leukemia
+hsa-mir-302a-3p	hsa_circ_0001721
+hsa-mir-302a-3p	hsa_circ_0006147
+hsa-mir-302a-3p	hsa_circ_0071589
+hsa-mir-302a-3p	hsa_circ_0005912
+hsa-mir-302a-3p	abca1
+hsa-mir-302a-3p	pten
+hsa-mir-302a-3p	mbd2
+hsa-mir-302a-3p	bmi1
+hsa-mir-302a-3p	cdk2
+hsa-mir-302a-3p	tac1
+hsa-mir-302a-3p	akt1
+map2k1	prostate cancer
+map2k1	major depressive disorder
+irf5	rheumatoid arthritis
+hmgb1	myocardial infarction
+socs3	atherosclerosis
+hsa-mir-30c-5p	hsa_circ_0001566
+hsa-mir-30c-5p	hsa_circ_0000130
+hsa-mir-30c-5p	hsa_circ_0071589
+hsa-mir-30c-5p	hsa_circ_0001275
+hsa-mir-30c-5p	hsa_circ_0001184
+hsa-mir-30c-5p	hsa_circ_0002113
+hsa-mir-30c-5p	foxo3
+hsa-mir-30c-5p	fasn
+hsa-mir-30c-5p	eif2s1
+hsa-mir-30c-5p	becn1
+hsa-mir-30c-5p	jak1
+hsa-mir-30c-5p	snai2
+hsa-mir-30c-5p	casp3
+hsa-mir-30c-5p	runx2
+hsa-mir-30c-5p	ccnd2
+hsa-mir-30c-5p	rarb
+hsa-mir-30c-5p	idh1
+hsa-mir-30c-5p	bcl9
+hsa-mir-30c-5p	ddit4
+hsa-mir-30c-5p	il11
+hsa-mir-30c-5p	socs3
+cat	major depressive disorder
+cat	myocardial infarction
+cat	heart failure
+cat	glioma
+cat	rheumatoid arthritis
+id2	acute myeloid leukemia
+id2	leukemia
+zeb1	papillary thyroid carcinoma
+flt3	acute myeloid leukemia
+flt3	leukemia
+nf1	glioblastoma multiforme
+nf1	acute myeloid leukemia
+nf1	moyamoya disease
+nf1	leukemia
+nf1	glioma
+nf1	glioblastoma
+tbx21	major depressive disorder
+il11	major depressive disorder
+hsa-mir-379-5p	hsa_circ_0004214
+hsa-mir-379-5p	ptk2
+hsa-mir-379-5p	il11
+notch3	glioblastoma multiforme
+notch3	glioblastoma
+rasa1	basal cell carcinoma
+bcl2l11	prostate cancer
+bcl2l11	diabetes mellitus
+foxm1	leukemia
+kcnh1	osteosarcoma
+hsa-mir-296-3p	hsa_circ_0000140
+hsa-mir-296-3p	hsa_circ_0001866
+hsa-mir-296-3p	hsa_circ_0008832
+hsa-mir-296-3p	icam1
+hsa-mir-296-3p	kcnh1
+ezh2	osteosarcoma
+ifng	major depressive disorder
+ifng	heart failure
+ifng	atherosclerosis
+ifng	rheumatoid arthritis
+fancg	leukemia
+hsa-mir-136-5p	hsa_circ_0000745
+hsa-mir-136-5p	hsa_circ_0001577
+hsa-mir-136-5p	hsa_circ_0067103
+hsa-mir-136-5p	hsa_circ_0001275
+hsa-mir-136-5p	hsa_circ_0015115
+hsa-mir-136-5p	hsa_circ_0000154
+hsa-mir-136-5p	il6
+hsa-mir-136-5p	bcl2
+hsa-mir-152-3p	hsa_circ_0000284
+hsa-mir-152-3p	hsa_circ_0000190
+hsa-mir-152-3p	pten
+hsa-mir-152-3p	ccnd1
+hsa-mir-152-3p	fgfr3
+hsa-mir-152-3p	fgf2
+hsa-mir-152-3p	kras
+hsa-mir-152-3p	tgfa
+hsa-mir-152-3p	irs1
+il24	major depressive disorder
+tnf	major depressive disorder
+tnf	myocardial infarction
+tnf	heart failure
+tnf	glioma
+tnf	atherosclerosis
+tnf	rheumatoid arthritis
+jag1	glioblastoma multiforme
+jag1	moyamoya disease
+jag1	glioblastoma
+hsa-mir-143-3p	hsa_circ_0001417
+hsa-mir-143-3p	hsa_circ_0091894
+hsa-mir-143-3p	hsa_circ_0092024
+hsa-mir-143-3p	hsa_circ_0001275
+hsa-mir-143-3p	hsa_circ_0060144
+hsa-mir-143-3p	hsa_circ_0001564
+hsa-mir-143-3p	hsa_circ_0001135
+hsa-mir-143-3p	itgb1
+hsa-mir-143-3p	mmp14
+hsa-mir-143-3p	mmp9
+hsa-mir-143-3p	mmp2
+hsa-mir-143-3p	tlr2
+hsa-mir-143-3p	akt2
+hsa-mir-143-3p	cyp2c9
+hsa-mir-143-3p	hnf4a
+hsa-mir-143-3p	ddx6
+hsa-mir-143-3p	tnf
+hsa-mir-143-3p	braf
+hsa-mir-143-3p	mdm2
+hsa-mir-143-3p	akt1
+hsa-mir-143-3p	jag1
+hsa-mir-370-3p	hsa_circ_0092283
+hsa-mir-370-3p	hsa_circ_0001417
+hsa-mir-370-3p	hsa_circ_0071589
+hsa-mir-370-3p	hsa_circ_0002007
+hsa-mir-370-3p	hsa_circ_0001370
+hsa-mir-370-3p	ctnnb1
+hsa-mir-370-3p	nf1
+hsa-mir-370-3p	tgfbr2
+pik3ca	glioblastoma multiforme
+pik3ca	breast cancer
+pik3ca	glioma
+pik3cg	heart failure
+fgfr1	major depressive disorder
+fgfr1	glioma
+kdr	major depressive disorder
+rad51	leukemia
+hsa-mir-30e-5p	bladder cancer
+hsa-mir-30e-5p	lung cancer
+hsa-mir-30e-5p	duchenne muscular dystrophy
+hsa-mir-30e-5p	hsa_circ_0000130
+hsa-mir-30e-5p	hsa_circ_0001275
+hsa-mir-30e-5p	hsa_circ_0001184
+hsa-mir-30e-5p	hsa_circ_0002113
+hsa-mir-30e-5p	hsa_circ_0071589
+hsa-mir-30e-5p	hsa_circ_0001566
+hsa-mir-30e-5p	casp3
+hsa-mir-30e-5p	tp53
+hsa-mir-30e-5p	notch1
+hsa-mir-30e-5p	mbnl1
+hsa-mir-30e-5p	bmi1
+hsa-mir-30e-5p	snai1
+snai1	papillary thyroid carcinoma
+hsa-mir-30b-5p	hsa_circ_0071589
+hsa-mir-30b-5p	hsa_circ_0000130
+hsa-mir-30b-5p	hsa_circ_0001566
+hsa-mir-30b-5p	hsa_circ_0001275
+hsa-mir-30b-5p	hsa_circ_0001184
+hsa-mir-30b-5p	hsa_circ_0002113
+hsa-mir-30b-5p	eif2s1
+hsa-mir-30b-5p	bcl2
+hsa-mir-30b-5p	tp53
+hsa-mir-30b-5p	pdgfrb
+hsa-mir-30b-5p	mbnl1
+hsa-mir-30b-5p	notch1
+hsa-mir-30b-5p	bcl9
+hsa-mir-30b-5p	serpine1
+hsa-mir-30b-5p	becn1
+hsa-mir-30b-5p	erg
+hsa-mir-30b-5p	runx2
+hsa-mir-30b-5p	cat
+hsa-mir-30b-5p	snai1
+gsk3b	major depressive disorder
+gsk3b	myocardial infarction
+gsk3b	heart failure
+hsa-mir-376a-3p	hsa_circ_0000437
+hsa-mir-376a-3p	hsa_circ_0071589
+hsa-mir-376a-3p	hsa_circ_0011946
+hsa-mir-376a-3p	hsa_circ_0001410
+hsa-mir-376a-3p	hsa_circ_0001564
+hsa-mir-376a-3p	casp8
+hsa-mir-376a-3p	ago2
+hsa-mir-376a-3p	cdk2
+hsa-mir-376a-3p	pik3r1
+hsa-mir-191-5p	hsa_circ_0017446
+hsa-mir-191-5p	hsa_circ_0004277
+hsa-mir-191-5p	rps6ka3
+hsa-mir-191-5p	notch2
+hsa-mir-191-5p	ccnd2
+hsa-mir-191-5p	egr1
+hsa-mir-191-5p	cdk6
+artn	major depressive disorder
+hsa-mir-223-3p	hsa_circ_0007255
+hsa-mir-223-3p	hsa_circ_0000638
+hsa-mir-223-3p	zeb1
+hsa-mir-223-3p	nlrp3
+hsa-mir-223-3p	stat1
+hsa-mir-223-3p	stat3
+hsa-mir-223-3p	abcb1
+hsa-mir-223-3p	cxcl2
+hsa-mir-223-3p	il6
+hsa-mir-223-3p	ccl3
+hsa-mir-223-3p	foxo3
+hsa-mir-223-3p	prdm1
+hsa-mir-223-3p	atm
+hsa-mir-223-3p	cdk2
+hsa-mir-223-3p	parp1
+hsa-mir-223-3p	artn
+fgfr2	cholangiocarcinoma
+mdm2	glioma
+hsa-mir-32-5p	hsa_circ_0046449
+hsa-mir-32-5p	hsa_circ_0001275
+hsa-mir-32-5p	hsa_circ_0007031
+hsa-mir-32-5p	hsa_circ_0000504
+hsa-mir-32-5p	hsa_circ_0001724
+hsa-mir-32-5p	fbxw7
+hsa-mir-32-5p	mdm2
+pxdn	acute myeloid leukemia
+pxdn	leukemia
+hsa-mir-181d-5p	hsa_circ_0001275
+hsa-mir-181d-5p	hsa_circ_0001819
+hsa-mir-181d-5p	hsa_circ_0001577
+hsa-mir-181d-5p	hsa_circ_0011946
+hsa-mir-181d-5p	hras
+cyp3a4	osteosarcoma
+rb1	osteosarcoma
+hsa-mir-132-3p	hsa_circ_0000284
+hsa-mir-132-3p	hsa_circ_0001370
+hsa-mir-132-3p	hsa_circ_0008832
+hsa-mir-132-3p	hsa_circ_0008394
+hsa-mir-132-3p	slc2a1
+hsa-mir-132-3p	gdf5
+hsa-mir-132-3p	ago2
+hsa-mir-132-3p	mmp9
+hsa-mir-132-3p	sox4
+hsa-mir-132-3p	raf1
+hsa-mir-132-3p	egfr
+hsa-mir-132-3p	bdnf
+hsa-mir-132-3p	rasa1
+hsa-mir-132-3p	rb1
+bcl3	atherosclerosis
+creb1	major depressive disorder
+creb1	myocardial infarction
+ptpn22	rheumatoid arthritis
+ptpn11	acute myeloid leukemia
+ptpn11	leukemia
+dusp6	glioblastoma multiforme
+dusp6	glioblastoma
+ptprj	colorectal cancer
+hsa-mir-328-3p	hsa_circ_0071589
+hsa-mir-328-3p	hsa_circ_0022392
+hsa-mir-328-3p	hsa_circ_0022383
+hsa-mir-328-3p	sfrp1
+hsa-mir-328-3p	ptprj
+elovl6	heart failure
+hsa-mir-211-5p	hsa_circ_0001721
+hsa-mir-211-5p	hsa_circ_0000118
+hsa-mir-211-5p	hsa_circ_0001275
+hsa-mir-211-5p	snai1
+hsa-mir-211-5p	cdk6
+hsa-mir-211-5p	ccnd1
+hsa-mir-211-5p	sparc
+hsa-mir-211-5p	mx1
+hsa-mir-211-5p	map2k1
+hsa-mir-211-5p	bcl2
+hsa-mir-211-5p	sox4
+hsa-mir-211-5p	txnip
+hsa-mir-211-5p	ddit3
+hsa-mir-211-5p	tgfbr2
+hsa-mir-211-5p	pde3a
+hsa-mir-211-5p	m6pr
+hsa-mir-211-5p	tgfb1
+hsa-mir-211-5p	elovl6
+ercc4	leukemia
+ercc4	basal cell carcinoma
+ptk2	glioblastoma multiforme
+ptk2	glioblastoma
+ptk2	rheumatoid arthritis
+tnfaip3	rheumatoid arthritis
+xbp1	glioma
+hsa-mir-449b-5p	hsa_circ_0001866
+hsa-mir-449b-5p	hsa_circ_0000118
+hsa-mir-449b-5p	hsa_circ_0006147
+hsa-mir-449b-5p	hsa_circ_0000677
+hsa-mir-449b-5p	hsa_circ_0002078
+hsa-mir-449b-5p	hsa_circ_0012380
+hsa-mir-449b-5p	hsa_circ_0000069
+hsa-mir-449b-5p	cdk6
+hsa-mir-449b-5p	met
+hsa-mir-449b-5p	sirt1
+hsa-mir-26b-5p	hsa_circ_0000627
+hsa-mir-26b-5p	hsa_circ_0004619
+hsa-mir-26b-5p	hsa_circ_0000118
+hsa-mir-26b-5p	hsa_circ_0001577
+hsa-mir-26b-5p	jag1
+hsa-mir-26b-5p	hgf
+hsa-mir-26b-5p	tlr4
+hsa-mir-26b-5p	cox2
+hsa-mir-26b-5p	rb1
+hsa-mir-26b-5p	ezh2
+hsa-mir-26b-5p	gata4
+hsa-mir-26b-5p	abca1
+hsa-mir-26b-5p	cdk6
+ppargc1a	myocardial infarction
+ppargc1a	heart failure
+atg2b	leukemia
+hsa-mir-30d-5p	hsa_circ_0071589
+hsa-mir-30d-5p	hsa_circ_0001275
+hsa-mir-30d-5p	hsa_circ_0001184
+hsa-mir-30d-5p	hsa_circ_0002113
+hsa-mir-30d-5p	hsa_circ_0001566
+hsa-mir-30d-5p	hsa_circ_0000130
+hsa-mir-30d-5p	becn1
+hsa-mir-30d-5p	atg2b
+hsa-mir-30d-5p	notch1
+hsa-mir-30d-5p	bcl9
+hsa-mir-30d-5p	runx2
+hsa-mir-30d-5p	ezh2
+hsa-mir-30d-5p	snai1
+hsa-mir-30d-5p	casp3
+cdh1	colorectal cancer
+cdh1	prostate cancer
+cdh1	breast cancer
+erbb3	major depressive disorder
+timp2	myocardial infarction
+timp2	diabetes mellitus
+hsa-mir-519d-3p	hsa_circ_0000522
+hsa-mir-519d-3p	hsa_circ_0001724
+hsa-mir-519d-3p	hsa_circ_0001721
+hsa-mir-519d-3p	hsa_circ_0006801
+hsa-mir-519d-3p	mmp2
+hsa-mir-519d-3p	stat3
+hsa-mir-519d-3p	timp2
+hsa-mir-519d-3p	akt3
+hsa-mir-519d-3p	pten
+mn1	acute myeloid leukemia
+mn1	leukemia
+clcn3	glioma
+fn1	glioblastoma multiforme
+fn1	glioblastoma
+fn1	diabetes mellitus
+mtor	cervical cancer
+mtor	glioblastoma multiforme
+mtor	major depressive disorder
+mtor	glioblastoma
+hsa-mir-520c-3p	hsa_circ_0005912
+hsa-mir-520c-3p	hsa_circ_0071589
+hsa-mir-520c-3p	hsa_circ_0001721
+hsa-mir-520c-3p	hsa_circ_0006147
+hsa-mir-520c-3p	stat3
+hsa-mir-520c-3p	sirt1
+hsa-mir-520c-3p	mtor
+hsa-mir-216b-5p	hsa_circ_0004619
+hsa-mir-216b-5p	hsa_circ_0001785
+hsa-mir-216b-5p	jun
+hsa-mir-216b-5p	foxm1
+hsa-mir-216b-5p	parp1
+hsa-mir-216b-5p	kras
+birc5	cervical cancer
+hsa-mir-708-5p	hsa_circ_0000175
+hsa-mir-708-5p	hsa_circ_0000915
+hsa-mir-708-5p	hsa_circ_0071589
+hsa-mir-708-5p	hsa_circ_0001417
+hsa-mir-708-5p	hsa_circ_0000219
+hsa-mir-708-5p	hsa_circ_0080189
+hsa-mir-708-5p	hsa_circ_0006229
+hsa-mir-708-5p	hsa_circ_0007031
+hsa-mir-708-5p	hsa_circ_0000504
+hsa-mir-708-5p	hsa_circ_0002007
+hsa-mir-708-5p	hsa_circ_0004619
+hsa-mir-708-5p	bcl2
+hsa-mir-708-5p	parp1
+hsa-mir-708-5p	ezh2
+hsa-mir-708-5p	mmp2
+hsa-mir-708-5p	ccnd1
+hsa-mir-708-5p	akt1
+hsa-mir-708-5p	cd44
+hsa-mir-708-5p	akt2
+hsa-mir-708-5p	birc5
+hsa-mir-708-5p	zeb2
+hsa-mir-708-5p	bmi1
+hsa-mir-144-3p	hsa_circ_0007380
+hsa-mir-144-3p	hsa_circ_0005538
+hsa-mir-144-3p	hsa_circ_0036159
+hsa-mir-144-3p	hsa_circ_0001135
+hsa-mir-144-3p	hsa_circ_0000219
+hsa-mir-144-3p	hsa_circ_0003570
+hsa-mir-144-3p	irs1
+hsa-mir-144-3p	ptgs2
+hsa-mir-144-3p	zeb2
+hsa-mir-144-3p	zeb1
+hsa-mir-144-3p	smad4
+hsa-mir-144-3p	ets1
+hsa-mir-144-3p	ezh2
+hsa-mir-144-3p	pten
+hsa-mir-144-3p	tgfb1
+hsa-mir-494-3p	hsa_circ_0000745
+hsa-mir-494-3p	hsa_circ_0043256
+hsa-mir-494-3p	birc5
+hsa-mir-494-3p	akt1
+hsa-mir-494-3p	tfpi
+hsa-mir-494-3p	bcl2
+hsa-mir-494-3p	map2k1
+hsa-mir-494-3p	cxcr4
+hsa-mir-494-3p	cnr1
+hsa-mir-494-3p	syncrip
+hsa-mir-494-3p	myc
+hsa-mir-494-3p	zeb1
+hsa-mir-494-3p	bcl2l11
+hsa-mir-494-3p	cdk6
+akt2	diabetes mellitus
+runx2	osteosarcoma
+runx2	rheumatoid arthritis
+hsa-mir-497-5p	hsa_circ_0001649
+hsa-mir-497-5p	hsa_circ_0001785
+hsa-mir-497-5p	hsa_circ_0000677
+hsa-mir-497-5p	hsa_circ_0002078
+hsa-mir-497-5p	hsa_circ_0001417
+hsa-mir-497-5p	hsa_circ_0005218
+hsa-mir-497-5p	hsa_circ_0001875
+hsa-mir-497-5p	hsa_circ_0006801
+hsa-mir-497-5p	hsa_circ_0005046
+hsa-mir-497-5p	hsa_circ_0001175
+hsa-mir-497-5p	hsa_circ_0007380
+hsa-mir-497-5p	hsa_circ_0007031
+hsa-mir-497-5p	hsa_circ_0000504
+hsa-mir-497-5p	hsa_circ_0000638
+hsa-mir-497-5p	hsa_circ_0000615
+hsa-mir-497-5p	hsa_circ_0000627
+hsa-mir-497-5p	hsa_circ_0000426
+hsa-mir-497-5p	esrra
+hsa-mir-497-5p	mtor
+hsa-mir-497-5p	reck
+hsa-mir-497-5p	chek1
+hsa-mir-497-5p	birc5
+hsa-mir-497-5p	map2k1
+hsa-mir-497-5p	runx2
+hsa-mir-497-5p	raf1
+gja1	major depressive disorder
+mmp10	rheumatoid arthritis
+zeb2	papillary thyroid carcinoma
+zeb2	hirschsprung disease
+serpine1	major depressive disorder
+serpine1	pre-eclampsia
+serpine1	heart failure
+serpine1	diabetes mellitus
+serpine1	atherosclerosis
+hsa-mir-301a-3p	hsa_circ_0001724
+hsa-mir-301a-3p	hsa_circ_0000190
+hsa-mir-301a-3p	hsa_circ_0015115
+hsa-mir-301a-3p	hsa_circ_0000154
+hsa-mir-301a-3p	hsa_circ_0000522
+hsa-mir-301a-3p	hsa_circ_0005538
+hsa-mir-301a-3p	timp2
+hsa-mir-301a-3p	bcl2l11
+hsa-mir-301a-3p	runx3
+hsa-mir-301a-3p	serpine1
+cd44	acute myeloid leukemia
+cd44	leukemia
+tgfbr2	colorectal cancer
+tgfb1	intervertebral disc degeneration
+tgfb1	myocardial infarction
+maoa	major depressive disorder
+htr2c	major depressive disorder
+pomc	hypoxia
+pomc	heart failure
+pomc	diabetes mellitus
+hsa-mir-488-3p	hsa_circ_0000745
+hsa-mir-488-3p	hsa_circ_0005218
+hsa-mir-488-3p	hsa_circ_0001875
+hsa-mir-488-3p	hsa_circ_0001135
+hsa-mir-488-3p	hsa_circ_0001649
+hsa-mir-488-3p	hsa_circ_0024997
+hsa-mir-488-3p	hsa_circ_0001721
+hsa-mir-488-3p	hsa_circ_0022392
+hsa-mir-488-3p	hsa_circ_0022383
+hsa-mir-488-3p	hsa_circ_0001184
+hsa-mir-488-3p	hsa_circ_0002113
+hsa-mir-488-3p	bcl2l11
+hsa-mir-488-3p	pomc
+dnmt3a	acute myeloid leukemia
+rac1	heart failure
+rac1	diabetes mellitus
+hsa-mir-194-5p	hsa_circ_0000130
+hsa-mir-194-5p	hsa_circ_0001135
+hsa-mir-194-5p	hsa_circ_0000175
+hsa-mir-194-5p	il10
+hsa-mir-194-5p	cdkn1b
+hsa-mir-194-5p	foxm1
+hsa-mir-194-5p	dnmt3a
+hsa-mir-194-5p	rac1
+hras	papillary thyroid carcinoma
+hras	leukemia
+hras	glioma
+ednra	heart failure
+ednra	diabetes mellitus
+icam1	myocardial infarction
+icam1	diabetic retinopathy
+icam1	atherosclerosis
+hsa-mir-203a-3p	hsa_circ_0000700
+hsa-mir-203a-3p	hsa_circ_0005218
+hsa-mir-203a-3p	hsa_circ_0001875
+hsa-mir-203a-3p	hsa_circ_0001546
+hsa-mir-203a-3p	hsa_circ_0001649
+hsa-mir-203a-3p	hsa_circ_0007031
+hsa-mir-203a-3p	hsa_circ_0000504
+hsa-mir-203a-3p	hsa_circ_0000175
+hsa-mir-203a-3p	hsa_circ_0008394
+hsa-mir-203a-3p	hsa_circ_0001895
+hsa-mir-203a-3p	hsa_circ_0089231
+hsa-mir-203a-3p	hsa_circ_0001184
+hsa-mir-203a-3p	hsa_circ_0002113
+hsa-mir-203a-3p	fgf2
+hsa-mir-203a-3p	cdh1
+hsa-mir-203a-3p	stat1
+hsa-mir-203a-3p	snai1
+hsa-mir-203a-3p	kif5b
+hsa-mir-203a-3p	raph1
+hsa-mir-203a-3p	tcf4
+hsa-mir-203a-3p	cav1
+hsa-mir-203a-3p	asap1
+hsa-mir-203a-3p	vegfa
+hsa-mir-203a-3p	jun
+hsa-mir-203a-3p	il24
+hsa-mir-203a-3p	tnf
+hsa-mir-203a-3p	creb1
+hsa-mir-203a-3p	akt2
+hsa-mir-203a-3p	mmp10
+hsa-mir-203a-3p	smad4
+hsa-mir-203a-3p	zeb2
+hsa-mir-203a-3p	ednra
+hsa-mir-203a-3p	ppm1d
+ccnd1	cervical cancer
+ccnd1	major depressive disorder
+ccnd1	leukemia
+bmi1	glioblastoma multiforme
+bmi1	osteosarcoma
+bmi1	leukemia
+bmi1	hirschsprung disease
+bmi1	glioma
+bmi1	glioblastoma
+adamts9	diabetes mellitus
+ddit4	major depressive disorder
+ddit4	leukemia
+ddit4	rheumatoid arthritis
+hsa-mir-374a-5p	hsa_circ_0000426
+hsa-mir-374a-5p	hsa_circ_0005556
+hsa-mir-374a-5p	hsa_circ_0011946
+hsa-mir-374a-5p	ldha
+hsa-mir-374a-5p	ccnd1
+hsa-mir-374a-5p	wnt5a
+hsa-mir-374a-5p	atm
+atm	colorectal cancer
+atm	prostate cancer
+atm	breast cancer
+atm	myocardial infarction
+atm	leukemia
+atm	glioma
+hsa-mir-208a-3p	hsa_circ_0001175
+hsa-mir-208a-3p	qki
+hsa-mir-208a-3p	cacna1c
+hsa-mir-208a-3p	ets1
+il6r	rheumatoid arthritis
+hsa-let-7f-5p	hsa_circ_0000437
+hsa-let-7f-5p	hsa_circ_0001141
+hsa-let-7f-5p	hsa_circ_0000677
+hsa-let-7f-5p	hsa_circ_0002078
+hsa-let-7f-5p	hsa_circ_0091894
+hsa-let-7f-5p	hsa_circ_0092024
+hsa-let-7f-5p	il6
+hsa-let-7f-5p	dyrk2
+hsa-let-7f-5p	socs3
+hsa-let-7f-5p	ccnd1
+hsa-let-7f-5p	prdm1
+prdm1	rheumatoid arthritis
+hsa-mir-378a-3p	hsa_circ_0000345
+hsa-mir-378a-3p	hsa_circ_0001184
+hsa-mir-378a-3p	hsa_circ_0002113
+hsa-mir-378a-3p	hsa_circ_0004619
+hsa-mir-378a-3p	hsa_circ_0000175
+hsa-mir-378a-3p	hsa_circ_0001370
+hsa-mir-378a-3p	hsa_circ_0012380
+hsa-mir-378a-3p	hsa_circ_0000069
+hsa-mir-378a-3p	runx1
+hsa-mir-378a-3p	cdk6
+hsa-mir-378a-3p	myc
+cd40lg	coronary artery disease
+met	glioblastoma multiforme
+met	osteosarcoma
+met	acute myeloid leukemia
+met	leukemia
+met	glioblastoma
+hsa-mir-340-5p	hsa_circ_0043138
+hsa-mir-340-5p	hsa_circ_0001275
+hsa-mir-340-5p	hsa_circ_0000190
+hsa-mir-340-5p	hsa_circ_0007031
+hsa-mir-340-5p	hsa_circ_0000504
+hsa-mir-340-5p	hsa_circ_0000118
+hsa-mir-340-5p	stat3
+hsa-mir-340-5p	mdm2
+hsa-mir-340-5p	akt1
+hsa-mir-340-5p	il4
+hsa-mir-340-5p	cdk6
+hsa-mir-340-5p	ccnd2
+hsa-mir-340-5p	ccnd1
+hsa-mir-340-5p	kras
+hsa-mir-340-5p	met
+mapk8	glioblastoma multiforme
+hsa-mir-214-3p	hsa_circ_0000893
+hsa-mir-214-3p	hsa_circ_0080189
+hsa-mir-214-3p	hsa_circ_0006229
+hsa-mir-214-3p	hsa_circ_0002007
+hsa-mir-214-3p	pappa
+hsa-mir-214-3p	bax
+hsa-mir-214-3p	gsr
+hsa-mir-214-3p	cdk6
+hsa-mir-214-3p	birc5
+hsa-mir-214-3p	pim1
+hsa-mir-214-3p	bcl2l11
+hsa-mir-214-3p	nras
+hsa-mir-214-3p	jag1
+hsa-mir-214-3p	atf4
+hsa-mir-214-3p	xbp1
+hsa-mir-214-3p	mapk8
+il6	major depressive disorder
+il6	cholangiocarcinoma
+il6	myocardial infarction
+il6	heart failure
+il6	atherosclerosis
+tp53	basal cell carcinoma
+tp53	cholangiocarcinoma
+tp53	osteosarcoma
+tp53	glioma
+tp53	diabetes mellitus
+hsa-mir-25-3p	hsa_circ_0046449
+hsa-mir-25-3p	hsa_circ_0043256
+hsa-mir-25-3p	hsa_circ_0001724
+hsa-mir-25-3p	hsa_circ_0001275
+hsa-mir-25-3p	hsa_circ_0007031
+hsa-mir-25-3p	hsa_circ_0000504
+hsa-mir-25-3p	dhfr
+hsa-mir-25-3p	tnfsf10
+hsa-mir-25-3p	hand2
+hsa-mir-25-3p	erbb2
+hsa-mir-25-3p	reck
+hsa-mir-25-3p	atp2a2
+hsa-mir-25-3p	ezh2
+hsa-mir-25-3p	pten
+hsa-mir-25-3p	mdm2
+hsa-mir-25-3p	cdh1
+hsa-mir-25-3p	tp53
+hsa-mir-149-3p	hsa_circ_0006404
+hsa-mir-149-3p	fgfr1
+hsa-mir-149-3p	akt1
+casp8	cervical cancer
+casp8	prostate cancer
+casp8	diabetes mellitus
+igf2bp2	diabetes mellitus
+nfkbiz	colorectal cancer
+il10	myocardial infarction
+il10	rheumatoid arthritis
+hsa-mir-218-5p	hsa_circ_0005538
+hsa-mir-218-5p	hsa_circ_0001577
+hsa-mir-218-5p	hsa_circ_0002007
+hsa-mir-218-5p	hsa_circ_0092283
+hsa-mir-218-5p	hsa_circ_0000175
+hsa-mir-218-5p	hsa_circ_0015115
+hsa-mir-218-5p	hsa_circ_0000154
+hsa-mir-218-5p	hsa_circ_0001633
+hsa-mir-218-5p	bcl9
+hsa-mir-218-5p	mmp2
+hsa-mir-218-5p	kit
+hsa-mir-218-5p	hmox1
+hsa-mir-218-5p	smo
+hsa-mir-218-5p	pou2f2
+hsa-mir-218-5p	rps6ka3
+hsa-mir-218-5p	sh3gl1
+hsa-mir-218-5p	ret
+hsa-mir-218-5p	runx2
+hsa-mir-218-5p	pdgfra
+hsa-mir-218-5p	hmgb1
+hsa-mir-218-5p	cdk6
+hsa-mir-218-5p	gja1
+hsa-mir-218-5p	cdkn1b
+hsa-mir-190a-5p	hsa_circ_0002007
+hsa-mir-190a-5p	hsa_circ_0000284
+hsa-mir-190a-5p	hsa_circ_0001417
+hsa-mir-190a-5p	hsa_circ_0001184
+hsa-mir-190a-5p	hsa_circ_0002113
+hsa-mir-190a-5p	foxp2
+hsa-mir-190a-5p	cdkn1b
+cdkn1b	colorectal cancer
+cdkn1b	prostate cancer
+sirt1	osteosarcoma
+sirt1	heart failure
+sirt1	diabetic retinopathy
+sirt1	atherosclerosis
+hsa-mir-216a-5p	hsa_circ_0011946
+hsa-mir-216a-5p	hsa_circ_0014717
+hsa-mir-216a-5p	hsa_circ_0004680
+hsa-mir-216a-5p	jak2
+hsa-mir-216a-5p	cbl
+hsa-mir-216a-5p	hnf4a
+hsa-mir-216a-5p	becn1
+hsa-mir-216a-5p	cd44
+hsa-mir-216a-5p	sirt1
+fzd3	hirschsprung disease
+ets1	diabetes mellitus
+jazf1	diabetes mellitus
+ret	papillary thyroid carcinoma
+ret	hirschsprung disease
+yy1	cervical cancer
+pdgfra	glioblastoma multiforme
+pdgfra	heart failure
+pdgfra	glioblastoma
+hrh1	atherosclerosis
+hsa-mir-192-5p	hsa_circ_0071589
+hsa-mir-192-5p	serpine1
+hsa-mir-192-5p	itgb3
+hsa-mir-192-5p	akt1
+hsa-mir-192-5p	esr1
+hsa-mir-192-5p	bmi1
+hsa-mir-192-5p	cav1
+hsa-mir-192-5p	dhfr
+hsa-mir-192-5p	itgb1
+hsa-mir-192-5p	atp1b1
+hsa-mir-192-5p	ercc4
+hsa-mir-192-5p	cdkn1b
+hsa-mir-192-5p	pim1
+hsa-mir-192-5p	hrh1
+pold1	colorectal cancer
+fbxw7	glioma
+smad4	cholangiocarcinoma
+hmox1	coronary artery disease
+hmox1	pre-eclampsia
+hmox1	heart failure
+hsa-mir-196a-5p	hsa_circ_0000437
+hsa-mir-196a-5p	hsa_circ_0014717
+hsa-mir-196a-5p	hsa_circ_0004680
+hsa-mir-196a-5p	hsa_circ_0006801
+hsa-mir-196a-5p	hsa_circ_0011946
+hsa-mir-196a-5p	tgfbr2
+hsa-mir-196a-5p	hmga1
+hsa-mir-196a-5p	hmox1
+hsa-mir-185-5p	hsa_circ_0000175
+hsa-mir-185-5p	hsa_circ_0006022
+hsa-mir-185-5p	hsa_circ_0082569
+hsa-mir-185-5p	hsa_circ_0000677
+hsa-mir-185-5p	hsa_circ_0002078
+hsa-mir-185-5p	tgfb1
+hsa-mir-185-5p	slc9a1
+hsa-mir-185-5p	myc
+hsa-mir-185-5p	trim29
+hsa-mir-185-5p	ephb2
+hsa-mir-185-5p	hmga1
+hsa-mir-185-5p	vegfa
+hsa-mir-185-5p	ezh2
+hsa-mir-185-5p	atr
+hsa-mir-185-5p	srebf1
+hsa-mir-185-5p	ar
+hsa-mir-185-5p	ntrk3
+hsa-mir-185-5p	cdk6
+myb	glioma
+nr3c1	major depressive disorder
+tfrc	glioma
+hsa-mir-22-3p	hsa_circ_0000130
+hsa-mir-22-3p	hsa_circ_0008832
+hsa-mir-22-3p	hsa_circ_0091894
+hsa-mir-22-3p	hsa_circ_0092024
+hsa-mir-22-3p	hsa_circ_0001417
+hsa-mir-22-3p	hsa_circ_0007380
+hsa-mir-22-3p	hsa_circ_0001141
+hsa-mir-22-3p	hsa_circ_0006404
+hsa-mir-22-3p	plk1
+hsa-mir-22-3p	acly
+hsa-mir-22-3p	erbb2
+hsa-mir-22-3p	akt1
+hsa-mir-22-3p	mecom
+hsa-mir-22-3p	ntrk2
+hsa-mir-22-3p	mthfr
+hsa-mir-22-3p	malat1
+hsa-mir-22-3p	snai1
+hsa-mir-22-3p	mmp14
+hsa-mir-22-3p	slc2a1
+hsa-mir-22-3p	bmp6
+hsa-mir-22-3p	csf1r
+hsa-mir-22-3p	hif1a
+hsa-mir-22-3p	irf5
+hsa-mir-22-3p	hmgb1
+hsa-mir-22-3p	erbb3
+hsa-mir-22-3p	maoa
+hsa-mir-22-3p	htr2c
+hsa-mir-22-3p	bdnf
+hsa-mir-22-3p	tfrc
+igf2	hepatoblastoma
+igf2	atherosclerosis
+atat1	prostate cancer
+pea15	major depressive disorder
+hsa-mir-212-3p	hsa_circ_0008832
+hsa-mir-212-3p	hsa_circ_0001370
+hsa-mir-212-3p	hsa_circ_0000284
+hsa-mir-212-3p	hsa_circ_0008394
+hsa-mir-212-3p	abcg2
+hsa-mir-212-3p	sox4
+hsa-mir-212-3p	sod2
+hsa-mir-212-3p	myc
+hsa-mir-212-3p	rb1
+hsa-mir-212-3p	pea15
+bcl2l1	myocardial infarction
+smc1a	leukemia
+hsa-let-7e-5p	hsa_circ_0001141
+hsa-let-7e-5p	hsa_circ_0000677
+hsa-let-7e-5p	hsa_circ_0002078
+hsa-let-7e-5p	hsa_circ_0091894
+hsa-let-7e-5p	hsa_circ_0092024
+hsa-let-7e-5p	hsa_circ_0000437
+hsa-let-7e-5p	tnfaip3
+hsa-let-7e-5p	plk1
+hsa-let-7e-5p	faslg
+hsa-let-7e-5p	ezh2
+hsa-let-7e-5p	mmp9
+hsa-let-7e-5p	smc1a
+hsa-mir-504-5p	hsa_circ_0001175
+hsa-mir-504-5p	hsa_circ_0003838
+hsa-mir-504-5p	hsa_circ_0000594
+hsa-mir-504-5p	hsa_circ_0032683
+hsa-mir-504-5p	hsa_circ_0004214
+hsa-mir-504-5p	tp53
+hsa-mir-504-5p	mdm2
+hsa-mir-504-5p	vegfa
+raf1	glioma
+cxcl8	glioblastoma multiforme
+cxcl8	heart failure
+cxcl8	glioblastoma
+cxcl8	rheumatoid arthritis
+akt1	osteosarcoma
+cdkn2a	major depressive disorder
+cdkn2a	leukemia
+cdkn2a	glioma
+egfr	cervical cancer
+egfr	glioblastoma multiforme
+egfr	major depressive disorder
+egfr	cholangiocarcinoma
+egfr	osteosarcoma
+egfr	glioma
+egfr	glioblastoma
+egfr	diabetes mellitus
+hsa-mir-18a-5p	hsa_circ_0000677
+hsa-mir-18a-5p	hsa_circ_0002078
+hsa-mir-18a-5p	nr1i2
+hsa-mir-18a-5p	tnfaip3
+hsa-mir-18a-5p	runx1
+hsa-mir-18a-5p	bcl2
+hsa-mir-18a-5p	pias3
+hsa-mir-18a-5p	smad4
+hsa-mir-18a-5p	ncoa3
+hsa-mir-19b-3p	hsa_circ_0001649
+hsa-mir-19b-3p	hsa_circ_0015115
+hsa-mir-19b-3p	hsa_circ_0000154
+hsa-mir-19b-3p	hsa_circ_0001175
+hsa-mir-19b-3p	hsa_circ_0001417
+hsa-mir-19b-3p	tnfaip3
+hsa-mir-19b-3p	tp53
+hsa-mir-19b-3p	bcl3
+hsa-mir-19b-3p	smad4
+hsa-mir-19b-3p	tlr2
+hsa-mir-19b-3p	ncoa3
+hsa-mir-19b-3p	esr1
+ncoa3	leukemia
+cdk2	glioblastoma multiforme
+hsa-mir-150-5p	hsa_circ_0001577
+hsa-mir-150-5p	hsa_circ_0000615
+hsa-mir-150-5p	slc2a1
+hsa-mir-150-5p	mmp14
+hsa-mir-150-5p	prkca
+hsa-mir-150-5p	stat1
+hsa-mir-150-5p	stat5b
+hsa-mir-150-5p	creb1
+hsa-mir-150-5p	ccr6
+hsa-mir-150-5p	cbl
+hsa-mir-150-5p	birc5
+hsa-mir-150-5p	flt3
+hsa-mir-150-5p	notch3
+hsa-mir-150-5p	cxcr4
+hsa-mir-150-5p	igf2
+hsa-mir-150-5p	vegfa
+foxo3	diabetes mellitus
+hsa-mir-197-3p	hsa_circ_0001564
+hsa-mir-197-3p	hsa_circ_0001017
+hsa-mir-197-3p	hsa_circ_0043138
+hsa-mir-197-3p	hsa_circ_0000284
+hsa-mir-197-3p	foxo3
+itgb8	prostate cancer
+hsa-mir-93-5p	hsa_circ_0000522
+hsa-mir-93-5p	hsa_circ_0001721
+hsa-mir-93-5p	hsa_circ_0001724
+hsa-mir-93-5p	hsa_circ_0006801
+hsa-mir-93-5p	mmp3
+hsa-mir-93-5p	foxo3
+hsa-mir-93-5p	abca1
+hsa-mir-93-5p	cxcl8
+hsa-mir-93-5p	stk11
+hsa-mir-93-5p	tgfbr2
+hsa-mir-93-5p	itgb8
+pik3r1	glioblastoma multiforme
+pik3r1	glioma
+suz12	glioblastoma multiforme
+suz12	glioma
+suz12	glioblastoma
+ppm1d	breast cancer
+ppm1d	glioma
+arid1a	cholangiocarcinoma
+tert	cervical cancer
+tert	coronary artery disease
+tert	glioblastoma multiforme
+tert	major depressive disorder
+tert	acute myeloid leukemia
+tert	leukemia
+tert	glioma
+cox2	diabetes mellitus
+hsa-mir-101-3p	hsa_circ_0012380
+hsa-mir-101-3p	hsa_circ_0000069
+hsa-mir-101-3p	hsa_circ_0000345
+hsa-mir-101-3p	hsa_circ_0001184
+hsa-mir-101-3p	hsa_circ_0002113
+hsa-mir-101-3p	hsa_circ_0001577
+hsa-mir-101-3p	hsa_circ_0004619
+hsa-mir-101-3p	ccnd1
+hsa-mir-101-3p	ctnnb1
+hsa-mir-101-3p	runx1
+hsa-mir-101-3p	notch1
+hsa-mir-101-3p	prdm1
+hsa-mir-101-3p	nlk
+hsa-mir-101-3p	met
+hsa-mir-101-3p	jak2
+hsa-mir-101-3p	pim1
+hsa-mir-101-3p	klf6
+hsa-mir-101-3p	rac1
+hsa-mir-101-3p	fmr1
+hsa-mir-101-3p	dnmt3a
+hsa-mir-101-3p	atm
+hsa-mir-101-3p	suz12
+hsa-mir-101-3p	arid1a
+hsa-mir-101-3p	cox2
+xpa	basal cell carcinoma
+mre11	breast cancer
+nras	papillary thyroid carcinoma
+nras	acute myeloid leukemia
+nras	leukemia
+hsa-mir-134-5p	hsa_circ_0000140
+hsa-mir-134-5p	hsa_circ_0036763
+hsa-mir-134-5p	hsa_circ_0005538
+hsa-mir-134-5p	hsa_circ_0001417
+hsa-mir-134-5p	angptl4
+hsa-mir-134-5p	erbb2
+hsa-mir-134-5p	stat5b
+hsa-mir-134-5p	itgb1
+hsa-mir-134-5p	foxm1
+hsa-mir-134-5p	vegfa
+ntrk3	major depressive disorder
+ntrk3	papillary thyroid carcinoma
+ntrk3	acute myeloid leukemia
+ntrk3	leukemia
+ntrk3	hirschsprung disease
+ntrk3	glioma
+hsa-let-7c-5p	hsa_circ_0001141
+hsa-let-7c-5p	hsa_circ_0000677
+hsa-let-7c-5p	hsa_circ_0002078
+hsa-let-7c-5p	hsa_circ_0000437
+hsa-let-7c-5p	hsa_circ_0091894
+hsa-let-7c-5p	hsa_circ_0092024
+hsa-let-7c-5p	casp3
+hsa-let-7c-5p	stat3
+hsa-let-7c-5p	il6
+hsa-let-7c-5p	mtor
+hsa-let-7c-5p	il10
+hsa-let-7c-5p	itgb3
+hsa-let-7c-5p	nras
+hsa-let-7c-5p	myc
+runx1	glioblastoma multiforme
+runx1	acute myeloid leukemia
+runx1	leukemia
+runx1	glioblastoma
+runx1	rheumatoid arthritis
+hsa-mir-106a-5p	hsa_circ_0001721
+hsa-mir-106a-5p	hsa_circ_0001724
+hsa-mir-106a-5p	hsa_circ_0000522
+hsa-mir-106a-5p	hsa_circ_0006801
+hsa-mir-106a-5p	rarb
+hsa-mir-106a-5p	ercc1
+hsa-mir-106a-5p	myb
+hsa-mir-106a-5p	cxcl8
+hsa-mir-106a-5p	apc
+hsa-mir-106a-5p	hif1a
+hsa-mir-106a-5p	runx3
+hsa-mir-106a-5p	casp7
+hsa-mir-106a-5p	atm
+hsa-mir-106a-5p	ccnd1
+hsa-mir-106a-5p	tgfbr2
+hsa-mir-106a-5p	il10
+hsa-mir-106a-5p	vegfa
+hsa-mir-106a-5p	runx1
+hsa-mir-29b-3p	hsa_circ_0068087
+hsa-mir-29b-3p	hsa_circ_0000638
+hsa-mir-29b-3p	hsa_circ_0001727
+hsa-mir-29b-3p	hsa_circ_0001564
+hsa-mir-29b-3p	hsa_circ_0000098
+hsa-mir-29b-3p	hsa_circ_0000700
+hsa-mir-29b-3p	myc
+hsa-mir-29b-3p	akt3
+hsa-mir-29b-3p	lrp6
+hsa-mir-29b-3p	stat3
+hsa-mir-29b-3p	tnfaip3
+hsa-mir-29b-3p	kdm2a
+hsa-mir-29b-3p	angptl4
+hsa-mir-29b-3p	itgb1
+hsa-mir-29b-3p	mmp9
+hsa-mir-29b-3p	pdgfra
+hsa-mir-29b-3p	gata3
+hsa-mir-29b-3p	sparc
+hsa-mir-29b-3p	tbx21
+hsa-mir-29b-3p	pik3cg
+hsa-mir-29b-3p	gsk3b
+hsa-mir-29b-3p	ncoa3
+hsa-mir-29b-3p	esr1
+hsa-mir-29b-3p	s100b
+s100b	major depressive disorder
+s100b	myocardial infarction
+abca1	atherosclerosis
+hsa-mir-33b-5p	hsa_circ_0001423
+hsa-mir-33b-5p	hsa_circ_0000700
+hsa-mir-33b-5p	hsa_circ_0001141
+hsa-mir-33b-5p	hsa_circ_0023903
+hsa-mir-33b-5p	hsa_circ_0023918
+hsa-mir-33b-5p	hsa_circ_0000284
+hsa-mir-33b-5p	hsa_circ_0007031
+hsa-mir-33b-5p	hsa_circ_0000504
+hsa-mir-33b-5p	creb1
+hsa-mir-33b-5p	pck1
+hsa-mir-33b-5p	pim1
+hsa-mir-33b-5p	myc
+hsa-mir-33b-5p	bcl2
+hsa-mir-33b-5p	abca1
+casp3	myocardial infarction
+casp3	diabetic retinopathy
+hsa-mir-302b-3p	hsa_circ_0005912
+hsa-mir-302b-3p	hsa_circ_0001721
+hsa-mir-302b-3p	hsa_circ_0071589
+hsa-mir-302b-3p	hsa_circ_0006147
+hsa-mir-302b-3p	cdk2
+hsa-mir-302b-3p	akt2
+hsa-mir-302b-3p	egfr
+hsa-mir-302b-3p	akt1
+hsa-mir-302b-3p	tgfbr2
+hsa-mir-302b-3p	bmi1
+hsa-mir-302b-3p	ccnd2
+nr4a2	major depressive disorder
+elk3	heart failure
+hsa-mir-98-5p	hsa_circ_0091894
+hsa-mir-98-5p	hsa_circ_0092024
+hsa-mir-98-5p	hsa_circ_0001141
+hsa-mir-98-5p	hsa_circ_0000677
+hsa-mir-98-5p	hsa_circ_0002078
+hsa-mir-98-5p	hsa_circ_0000437
+hsa-mir-98-5p	bcl2
+hsa-mir-98-5p	ccl2
+hsa-mir-98-5p	il10
+hsa-mir-98-5p	cbl
+hsa-mir-98-5p	edn1
+hsa-mir-98-5p	ccnd2
+hsa-mir-98-5p	itgb3
+hsa-mir-98-5p	nras
+hsa-mir-98-5p	ncoa3
+hsa-mir-98-5p	casp3
+hsa-mir-98-5p	myc
+wnt3a	hirschsprung disease
+trib3	glioblastoma multiforme
+akt3	glioblastoma multiforme
+brca1	pancreatic cancer
+brca1	prostate cancer
+brca1	breast cancer
+brca1	leukemia
+runx3	glioblastoma multiforme
+runx3	acute myeloid leukemia
+runx3	leukemia
+runx3	glioblastoma
+hsa-mir-130b-3p	hsa_circ_0000190
+hsa-mir-130b-3p	hsa_circ_0005538
+hsa-mir-130b-3p	hsa_circ_0015115
+hsa-mir-130b-3p	hsa_circ_0000154
+hsa-mir-130b-3p	hsa_circ_0001724
+hsa-mir-130b-3p	hsa_circ_0000522
+hsa-mir-130b-3p	erbb2
+hsa-mir-130b-3p	ucp1
+hsa-mir-130b-3p	ccdc6
+hsa-mir-130b-3p	cyp2c9
+hsa-mir-130b-3p	cyld
+hsa-mir-130b-3p	mmp2
+hsa-mir-130b-3p	irf1
+hsa-mir-130b-3p	ppargc1a
+hsa-mir-130b-3p	fmr1
+hsa-mir-130b-3p	itgb1
+hsa-mir-130b-3p	pdgfra
+hsa-mir-130b-3p	ldlr
+hsa-mir-130b-3p	smad4
+hsa-mir-130b-3p	nr3c1
+hsa-mir-130b-3p	zeb1
+hsa-mir-130b-3p	runx3
+foxo1	acute myeloid leukemia
+foxo1	leukemia
+hsa-mir-186-5p	hsa_circ_0001175
+hsa-mir-186-5p	hsa_circ_0001564
+hsa-mir-186-5p	hsa_circ_0001275
+hsa-mir-186-5p	hsa_circ_0011946
+hsa-mir-186-5p	hsa_circ_0001633
+hsa-mir-186-5p	gja1
+hsa-mir-186-5p	hif1a
+hsa-mir-186-5p	vegfa
+hsa-mir-186-5p	setd2
+hsa-mir-186-5p	abcb1
+hsa-mir-186-5p	fgf2
+hsa-mir-186-5p	foxo1
+hsa-mir-29a-3p	hsa_circ_0000098
+hsa-mir-29a-3p	hsa_circ_0068087
+hsa-mir-29a-3p	hsa_circ_0001564
+hsa-mir-29a-3p	hsa_circ_0000638
+hsa-mir-29a-3p	hsa_circ_0001727
+hsa-mir-29a-3p	hsa_circ_0000700
+hsa-mir-29a-3p	eln
+hsa-mir-29a-3p	qki
+hsa-mir-29a-3p	rasgrp1
+hsa-mir-29a-3p	myc
+hsa-mir-29a-3p	ahr
+hsa-mir-29a-3p	gsk3b
+hsa-mir-29a-3p	cacna1c
+hsa-mir-29a-3p	itgb1
+hsa-mir-29a-3p	cyp2c19
+hsa-mir-29a-3p	rnasel
+hsa-mir-29a-3p	ccnd1
+hsa-mir-29a-3p	pdgfrb
+hsa-mir-29a-3p	lox
+hsa-mir-29a-3p	itga6
+hsa-mir-29a-3p	foxo3
+hsa-mir-29a-3p	cdk2
+hsa-mir-29a-3p	vdac1
+hsa-mir-29a-3p	pxdn
+hsa-mir-29a-3p	tnfaip3
+hsa-mir-29a-3p	adamts9
+hsa-mir-29a-3p	pik3r1
+hsa-mir-29a-3p	ppm1d
+hsa-mir-29a-3p	s100b
+hsa-mir-29a-3p	bcl2
+notch2	cervical cancer
+notch2	glioblastoma multiforme
+notch2	leukemia
+notch2	glioblastoma
+notch2	diabetes mellitus
+ptpn1	diabetes mellitus
+trib1	coronary artery disease
+ncam1	major depressive disorder
+hsa-mir-122-5p	hsa_circ_0000567
+hsa-mir-122-5p	hsa_circ_0000118
+hsa-mir-122-5p	hsa_circ_0001184
+hsa-mir-122-5p	hsa_circ_0002113
+hsa-mir-122-5p	egfr
+hsa-mir-122-5p	pdk4
+hsa-mir-122-5p	nod2
+hsa-mir-122-5p	bax
+hsa-mir-122-5p	creb1
+hsa-mir-122-5p	bcl2l1
+hsa-mir-122-5p	hmox1
+hsa-mir-122-5p	ptpn1
+hsa-mir-122-5p	trib1
+hsa-mir-122-5p	ncam1
+tlr4	coronary artery disease
+tlr4	atherosclerosis
+hsa-let-7i-5p	hsa_circ_0000437
+hsa-let-7i-5p	hsa_circ_0001141
+hsa-let-7i-5p	hsa_circ_0000677
+hsa-let-7i-5p	hsa_circ_0002078
+hsa-let-7i-5p	hsa_circ_0091894
+hsa-let-7i-5p	hsa_circ_0092024
+hsa-let-7i-5p	il2
+hsa-let-7i-5p	bmp4
+hsa-let-7i-5p	tlr4
+tac1	major depressive disorder
+hsa-mir-130a-3p	hsa_circ_0000522
+hsa-mir-130a-3p	hsa_circ_0000190
+hsa-mir-130a-3p	hsa_circ_0005538
+hsa-mir-130a-3p	hsa_circ_0015115
+hsa-mir-130a-3p	hsa_circ_0000154
+hsa-mir-130a-3p	hsa_circ_0001724
+hsa-mir-130a-3p	ppargc1a
+hsa-mir-130a-3p	pten
+hsa-mir-130a-3p	myc
+hsa-mir-130a-3p	tgfb1
+hsa-mir-130a-3p	il18
+hsa-mir-130a-3p	acvr1
+hsa-mir-130a-3p	tgfbr2
+hsa-mir-130a-3p	pdgfra
+hsa-mir-130a-3p	gja1
+hsa-mir-130a-3p	esr1
+hsa-mir-130a-3p	atg2b
+hsa-mir-130a-3p	tac1
+kcnq1	diabetes mellitus
+htr1b	major depressive disorder
+hsa-mir-96-5p	hsa_circ_0000140
+hsa-mir-96-5p	hsa_circ_0000638
+hsa-mir-96-5p	hsa_circ_0071589
+hsa-mir-96-5p	hsa_circ_0000615
+hsa-mir-96-5p	hsa_circ_0002007
+hsa-mir-96-5p	gdnf
+hsa-mir-96-5p	bdnf
+hsa-mir-96-5p	trib3
+hsa-mir-96-5p	snai2
+hsa-mir-96-5p	zeb1
+hsa-mir-96-5p	gsk3b
+hsa-mir-96-5p	alk
+hsa-mir-96-5p	rad51
+hsa-mir-96-5p	htr1b
+nr1i2	osteosarcoma
+nr1i2	diabetes mellitus
+dhfr	osteosarcoma
+dhfr	rheumatoid arthritis
+apc	glioblastoma multiforme
+apc	hepatoblastoma
+apc	glioma
+apc	glioblastoma
+hsa-mir-135b-5p	hsa_circ_0000190
+hsa-mir-135b-5p	hsa_circ_0092283
+hsa-mir-135b-5p	hsa_circ_0015115
+hsa-mir-135b-5p	hsa_circ_0000154
+hsa-mir-135b-5p	hsa_circ_0012380
+hsa-mir-135b-5p	hsa_circ_0000069
+hsa-mir-135b-5p	thbs2
+hsa-mir-135b-5p	foxo1
+hsa-mir-135b-5p	reck
+hsa-mir-135b-5p	ppp2r5c
+hsa-mir-135b-5p	apc
+gapdh	hypoxia
+hsa-mir-29c-3p	hsa_circ_0001727
+hsa-mir-29c-3p	hsa_circ_0068087
+hsa-mir-29c-3p	hsa_circ_0000098
+hsa-mir-29c-3p	hsa_circ_0001564
+hsa-mir-29c-3p	hsa_circ_0000638
+hsa-mir-29c-3p	hsa_circ_0000700
+hsa-mir-29c-3p	lrp6
+hsa-mir-29c-3p	rfx7
+hsa-mir-29c-3p	pdgfrb
+hsa-mir-29c-3p	lox
+hsa-mir-29c-3p	itga6
+hsa-mir-29c-3p	akt2
+hsa-mir-29c-3p	pten
+hsa-mir-29c-3p	ccnd2
+hsa-mir-29c-3p	sirt1
+hsa-mir-29c-3p	akt3
+hsa-mir-29c-3p	vegfa
+hsa-mir-29c-3p	cdk6
+hsa-mir-29c-3p	dnmt3b
+hsa-mir-29c-3p	gapdh
+brca2	pancreatic cancer
+brca2	prostate cancer
+brca2	breast cancer
+brca2	glioma
+hand2	heart failure
+cxcl12	coronary artery disease
+hsa-mir-23a-3p	hsa_circ_0001417
+hsa-mir-23a-3p	hsa_circ_0001175
+hsa-mir-23a-3p	hsa_circ_0068087
+hsa-mir-23a-3p	hsa_circ_0001895
+hsa-mir-23a-3p	hsa_circ_0089231
+hsa-mir-23a-3p	hsa_circ_0001283
+hsa-mir-23a-3p	hsa_circ_0011946
+hsa-mir-23a-3p	hsa_circ_0001017
+hsa-mir-23a-3p	hsa_circ_0000638
+hsa-mir-23a-3p	rgs5
+hsa-mir-23a-3p	smad5
+hsa-mir-23a-3p	stat3
+hsa-mir-23a-3p	hnf1b
+hsa-mir-23a-3p	hsp90aa1
+hsa-mir-23a-3p	lpar1
+hsa-mir-23a-3p	mt2a
+hsa-mir-23a-3p	fas
+hsa-mir-23a-3p	cdh1
+hsa-mir-23a-3p	ldha
+hsa-mir-23a-3p	ptpn11
+hsa-mir-23a-3p	fancg
+hsa-mir-23a-3p	ppargc1a
+hsa-mir-23a-3p	il6r
+hsa-mir-23a-3p	atat1
+hsa-mir-23a-3p	cxcl12
+hsa-mir-23b-3p	hsa_circ_0000638
+hsa-mir-23b-3p	hsa_circ_0001283
+hsa-mir-23b-3p	hsa_circ_0011946
+hsa-mir-23b-3p	hsa_circ_0001417
+hsa-mir-23b-3p	hsa_circ_0001175
+hsa-mir-23b-3p	hsa_circ_0068087
+hsa-mir-23b-3p	hsa_circ_0001895
+hsa-mir-23b-3p	hsa_circ_0089231
+hsa-mir-23b-3p	hsa_circ_0001017
+hsa-mir-23b-3p	rgs5
+hsa-mir-23b-3p	sirt1
+hsa-mir-23b-3p	notch2
+hsa-mir-23b-3p	ets1
+hsa-mir-23b-3p	marcks
+hsa-mir-23b-3p	runx2
+hsa-mir-23b-3p	zeb1
+hsa-mir-23b-3p	gja1
+hsa-mir-23b-3p	pten
+hsa-mir-23b-3p	notch1
+hsa-mir-24-3p	hsa_circ_0015115
+hsa-mir-24-3p	hsa_circ_0000154
+hsa-mir-24-3p	hsa_circ_0092283
+hsa-mir-24-3p	hsa_circ_0000175
+hsa-mir-24-3p	hsa_circ_0005218
+hsa-mir-24-3p	hsa_circ_0001875
+hsa-mir-24-3p	fbxw7
+hsa-mir-24-3p	pdgfrb
+hsa-mir-24-3p	tp53
+hsa-mir-24-3p	slc6a4
+hsa-mir-24-3p	gata3
+hsa-mir-24-3p	il4
+hsa-mir-24-3p	ccnd1
+hsa-mir-24-3p	fgfr3
+hsa-mir-24-3p	ifng
+hsa-mir-24-3p	mmp14
+hsa-mir-24-3p	hmox1
+hsa-mir-24-3p	dyrk2
+hsa-mir-24-3p	ldha
+hsa-mir-24-3p	s100a8
+hsa-mir-24-3p	pcna
+hsa-mir-24-3p	coro1a
+hsa-mir-24-3p	chek1
+hsa-mir-24-3p	eif2s3
+hsa-mir-24-3p	tgfb1
+hsa-mir-24-3p	pold1
+hsa-mir-24-3p	cdkn2a
+hsa-mir-24-3p	trib3
+hsa-mir-24-3p	dhfr
+hsa-mir-24-3p	notch1
+notch1	cervical cancer
+notch1	glioblastoma multiforme
+notch1	leukemia
+notch1	glioblastoma
+hsa-mir-27b-3p	hsa_circ_0036159
+hsa-mir-27b-3p	hsa_circ_0001785
+hsa-mir-27b-3p	hsa_circ_0000915
+hsa-mir-27b-3p	hsa_circ_0071589
+hsa-mir-27b-3p	hsa_circ_0060144
+hsa-mir-27b-3p	hsa_circ_0000345
+hsa-mir-27b-3p	hsa_circ_0011946
+hsa-mir-27b-3p	pink1
+hsa-mir-27b-3p	cx3cl1
+hsa-mir-27b-3p	met
+hsa-mir-27b-3p	egfr
+hsa-mir-27b-3p	runx1
+hsa-mir-27b-3p	ret
+hsa-mir-27b-3p	foxo1
+hsa-mir-27b-3p	thbs1
+hsa-mir-27b-3p	thbs2
+hsa-mir-27b-3p	ldlr
+hsa-mir-27b-3p	mff
+hsa-mir-27b-3p	cyp3a4
+hsa-mir-27b-3p	ednra
+hsa-mir-27b-3p	notch1
+hsa-let-7b-5p	hsa_circ_0091894
+hsa-let-7b-5p	hsa_circ_0092024
+hsa-let-7b-5p	hsa_circ_0000437
+hsa-let-7b-5p	hsa_circ_0001141
+hsa-let-7b-5p	hsa_circ_0000677
+hsa-let-7b-5p	hsa_circ_0002078
+hsa-let-7b-5p	ezh2
+hsa-let-7b-5p	tlr4
+hsa-let-7b-5p	akt2
+hsa-let-7b-5p	acvr1
+hsa-let-7b-5p	hras
+hsa-let-7b-5p	prdm1
+hsa-let-7b-5p	igf2bp2
+hsa-let-7b-5p	pdgfra
+hsa-let-7b-5p	nras
+hsa-let-7b-5p	cdk6
+hsa-let-7b-5p	hmga1
+fgf2	glioma
+ptgs2	coronary artery disease
+ptgs2	major depressive disorder
+ptgs2	cholangiocarcinoma
+ptgs2	heart failure
+ptgs2	glioma
+ptgs2	atherosclerosis
+ptgs2	rheumatoid arthritis
+anxa2	acute myeloid leukemia
+anxa2	leukemia
+cacna1c	major depressive disorder
+hsa-mir-133a-3p	hsa_circ_0001791
+hsa-mir-133a-3p	hsa_circ_0001819
+hsa-mir-133a-3p	hsa_circ_0071589
+hsa-mir-133a-3p	hsa_circ_0001895
+hsa-mir-133a-3p	hsa_circ_0089231
+hsa-mir-133a-3p	rbpj
+hsa-mir-133a-3p	sox4
+hsa-mir-133a-3p	erbb2
+hsa-mir-133a-3p	zeb1
+hsa-mir-133a-3p	pdlim5
+hsa-mir-133a-3p	anxa2
+hsa-mir-133a-3p	mmp14
+hsa-mir-133a-3p	gstp1
+hsa-mir-133a-3p	vegfa
+hsa-mir-133a-3p	kcnq1
+hsa-mir-133a-3p	cacna1c
+foxp3	diabetes mellitus
+foxp3	rheumatoid arthritis
+hsa-mir-31-5p	hsa_circ_0000523
+hsa-mir-31-5p	hsa_circ_0005218
+hsa-mir-31-5p	hsa_circ_0001875
+hsa-mir-31-5p	slc1a2
+hsa-mir-31-5p	stmn1
+hsa-mir-31-5p	foxo3
+hsa-mir-31-5p	spry4
+hsa-mir-31-5p	spred2
+hsa-mir-31-5p	bap1
+hsa-mir-31-5p	sox4
+hsa-mir-31-5p	smad4
+hsa-mir-31-5p	arid1a
+hsa-mir-31-5p	emsy
+hsa-mir-31-5p	mlh1
+hsa-mir-31-5p	creg1
+hsa-mir-31-5p	prkce
+hsa-mir-31-5p	icam1
+hsa-mir-31-5p	fzd3
+hsa-mir-31-5p	cxcl12
+hsa-mir-31-5p	ets1
+hsa-mir-31-5p	jazf1
+hsa-mir-31-5p	klf13
+hsa-mir-31-5p	ret
+hsa-mir-31-5p	yy1
+hsa-mir-31-5p	foxp3
+nr3c2	hypertension
+nr3c2	major depressive disorder
+nr3c2	myocardial infarction
+nr3c2	heart failure
+hsa-mir-135a-5p	hsa_circ_0012380
+hsa-mir-135a-5p	hsa_circ_0000069
+hsa-mir-135a-5p	hsa_circ_0000190
+hsa-mir-135a-5p	hsa_circ_0015115
+hsa-mir-135a-5p	hsa_circ_0000154
+hsa-mir-135a-5p	hsa_circ_0092283
+hsa-mir-135a-5p	egfr
+hsa-mir-135a-5p	cebpd
+hsa-mir-135a-5p	ptk2
+hsa-mir-135a-5p	rock2
+hsa-mir-135a-5p	runx2
+hsa-mir-135a-5p	esrra
+hsa-mir-135a-5p	bcl2
+hsa-mir-135a-5p	slc6a4
+hsa-mir-135a-5p	htr1a
+hsa-mir-135a-5p	txnip
+hsa-mir-135a-5p	myc
+hsa-mir-135a-5p	apc
+hsa-mir-135a-5p	nr3c2
+reln	major depressive disorder
+reln	hirschsprung disease
+hsa-mir-128-3p	hsa_circ_0001866
+hsa-mir-128-3p	hsa_circ_0032683
+hsa-mir-128-3p	hsa_circ_0001417
+hsa-mir-128-3p	hsa_circ_0001275
+hsa-mir-128-3p	hsa_circ_0060144
+hsa-mir-128-3p	hsa_circ_0071589
+hsa-mir-128-3p	hsa_circ_0001283
+hsa-mir-128-3p	hsa_circ_0005218
+hsa-mir-128-3p	hsa_circ_0001875
+hsa-mir-128-3p	hsa_circ_0001423
+hsa-mir-128-3p	hsa_circ_0001785
+hsa-mir-128-3p	snai1
+hsa-mir-128-3p	lgals3
+hsa-mir-128-3p	pik3r1
+hsa-mir-128-3p	mtor
+hsa-mir-128-3p	cyp2c9
+hsa-mir-128-3p	ephb2
+hsa-mir-128-3p	ret
+hsa-mir-128-3p	bax
+hsa-mir-128-3p	abca1
+hsa-mir-128-3p	srebf1
+hsa-mir-128-3p	snai2
+hsa-mir-128-3p	suz12
+hsa-mir-128-3p	pten
+hsa-mir-128-3p	sirt1
+hsa-mir-128-3p	fbxw7
+hsa-mir-128-3p	egfr
+hsa-mir-128-3p	reln
+sod2	major depressive disorder
+sod2	hypoxia
+sod2	myocardial infarction
+sod2	heart failure
+sod2	atherosclerosis
+sod2	rheumatoid arthritis
+hsa-mir-377-3p	hsa_circ_0000345
+hsa-mir-377-3p	tp53
+hsa-mir-377-3p	pten
+hsa-mir-377-3p	sod2
+dnmt3b	prostate cancer
+hsa-mir-148a-3p	hsa_circ_0000284
+hsa-mir-148a-3p	hsa_circ_0000190
+hsa-mir-148a-3p	qki
+hsa-mir-148a-3p	bax
+hsa-mir-148a-3p	stat3
+hsa-mir-148a-3p	bcl2l11
+hsa-mir-148a-3p	met
+hsa-mir-148a-3p	runx3
+hsa-mir-148a-3p	itgb8
+hsa-mir-148a-3p	serpine1
+hsa-mir-148a-3p	cdc25b
+hsa-mir-148a-3p	bcl2
+hsa-mir-148a-3p	irs1
+hsa-mir-148a-3p	nr1i2
+hsa-mir-148a-3p	dnmt3b
+hsa-mir-16-5p	hsa_circ_0000627
+hsa-mir-16-5p	hsa_circ_0007031
+hsa-mir-16-5p	hsa_circ_0000504
+hsa-mir-16-5p	hsa_circ_0001649
+hsa-mir-16-5p	hsa_circ_0006801
+hsa-mir-16-5p	hsa_circ_0005046
+hsa-mir-16-5p	hsa_circ_0007380
+hsa-mir-16-5p	hsa_circ_0001175
+hsa-mir-16-5p	hsa_circ_0000638
+hsa-mir-16-5p	hsa_circ_0000426
+hsa-mir-16-5p	hsa_circ_0001417
+hsa-mir-16-5p	hsa_circ_0000615
+hsa-mir-16-5p	hsa_circ_0001785
+hsa-mir-16-5p	hsa_circ_0005218
+hsa-mir-16-5p	hsa_circ_0001875
+hsa-mir-16-5p	hsa_circ_0000677
+hsa-mir-16-5p	hsa_circ_0002078
+hsa-mir-16-5p	hgf
+hsa-mir-16-5p	socs3
+hsa-mir-16-5p	adora2a
+hsa-mir-16-5p	il12b
+hsa-mir-16-5p	bdnf
+hsa-mir-16-5p	birc5
+hsa-mir-16-5p	slc6a4
+hsa-mir-16-5p	kras
+hsa-mir-16-5p	raf1
+hsa-mir-16-5p	mtor
+hsa-mir-16-5p	reck
+hsa-mir-16-5p	ifng
+hsa-mir-16-5p	pim1
+hsa-mir-16-5p	fgfr1
+hsa-mir-16-5p	kdr
+hsa-mir-16-5p	tp53
+hsa-mir-16-5p	ppm1d
+hsa-mir-16-5p	myb
+hsa-mir-16-5p	ccnd2
+hsa-mir-16-5p	wnt3a
+hsa-mir-16-5p	akt3
+hsa-mir-16-5p	brca1
+hsa-mir-16-5p	fgf2
+hsa-mir-16-5p	ptgs2
+hsa-mir-16-5p	cdk6
+vegfa	cervical cancer
+vegfa	coronary artery disease
+vegfa	glioblastoma multiforme
+vegfa	major depressive disorder
+vegfa	osteosarcoma
+vegfa	leukemia
+vegfa	heart failure
+vegfa	glioblastoma
+vegfa	diabetic retinopathy
+vegfa	diabetes mellitus
+vegfa	atherosclerosis
+vegfa	rheumatoid arthritis
+itgb3	myocardial infarction
+hsa-mir-18b-5p	hsa_circ_0000677
+hsa-mir-18b-5p	hsa_circ_0002078
+hsa-mir-18b-5p	hif1a
+hsa-mir-18b-5p	mdm2
+hsa-mir-18b-5p	esr1
+hsa-mir-193b-3p	hsa_circ_0000284
+hsa-mir-193b-3p	hsa_circ_0001275
+hsa-mir-193b-3p	hsa_circ_0000345
+hsa-mir-193b-3p	hsa_circ_0000745
+hsa-mir-193b-3p	hsa_circ_0071589
+hsa-mir-193b-3p	kit
+hsa-mir-193b-3p	nf1
+hsa-mir-193b-3p	myb
+hsa-mir-193b-3p	rad51
+hsa-mir-193b-3p	esr1
+esr1	coronary artery disease
+esr1	myocardial infarction
+esr1	leukemia
+esr1	atherosclerosis
+hsa-mir-302c-3p	hsa_circ_0071589
+hsa-mir-302c-3p	hsa_circ_0001721
+hsa-mir-302c-3p	hsa_circ_0006147
+hsa-mir-302c-3p	hsa_circ_0005912
+hsa-mir-302c-3p	cxcl8
+hsa-mir-302c-3p	akt1
+hsa-mir-302c-3p	ccnd1
+hsa-mir-302c-3p	esr1
+pou2f2	prostate cancer
+hsa-mir-9-5p	hsa_circ_0071589
+hsa-mir-9-5p	hsa_circ_0000745
+hsa-mir-9-5p	hsa_circ_0001283
+hsa-mir-9-5p	hsa_circ_0007006
+hsa-mir-9-5p	hsa_circ_0001895
+hsa-mir-9-5p	hsa_circ_0089231
+hsa-mir-9-5p	rap2a
+hsa-mir-9-5p	becn1
+hsa-mir-9-5p	gdnf
+hsa-mir-9-5p	notch2
+hsa-mir-9-5p	hes1
+hsa-mir-9-5p	nox4
+hsa-mir-9-5p	runx1
+hsa-mir-9-5p	notch1
+hsa-mir-9-5p	bcl2
+hsa-mir-9-5p	pdgfrb
+hsa-mir-9-5p	gsk3b
+hsa-mir-9-5p	il6
+hsa-mir-9-5p	bcl2l11
+hsa-mir-9-5p	mirlet7d
+hsa-mir-9-5p	drd2
+hsa-mir-9-5p	malat1
+hsa-mir-9-5p	nf1
+hsa-mir-9-5p	creb1
+hsa-mir-9-5p	cd34
+hsa-mir-9-5p	ccnd1
+hsa-mir-9-5p	foxo3
+hsa-mir-9-5p	id2
+hsa-mir-9-5p	pou2f2
+cxcr4	rheumatoid arthritis
+hsa-mir-224-5p	hsa_circ_0001417
+hsa-mir-224-5p	hsa_circ_0071589
+hsa-mir-224-5p	rac1
+hsa-mir-224-5p	gsk3b
+hsa-mir-224-5p	mtor
+hsa-mir-224-5p	casp3
+hsa-mir-224-5p	casp7
+hsa-mir-224-5p	apln
+hsa-mir-224-5p	cdh1
+hsa-mir-224-5p	bcl2
+hsa-mir-224-5p	trib1
+hsa-mir-224-5p	mbd2
+hsa-mir-224-5p	ptx3
+hsa-mir-224-5p	hoxd10
+hsa-mir-224-5p	kras
+hsa-mir-224-5p	ednra
+hsa-mir-224-5p	cxcr4
+reck	glioblastoma multiforme
+reck	glioblastoma
+hsa-mir-15b-5p	hsa_circ_0007031
+hsa-mir-15b-5p	hsa_circ_0000504
+hsa-mir-15b-5p	hsa_circ_0001785
+hsa-mir-15b-5p	hsa_circ_0000677
+hsa-mir-15b-5p	hsa_circ_0002078
+hsa-mir-15b-5p	hsa_circ_0001175
+hsa-mir-15b-5p	hsa_circ_0000627
+hsa-mir-15b-5p	hsa_circ_0000615
+hsa-mir-15b-5p	hsa_circ_0000638
+hsa-mir-15b-5p	hsa_circ_0006801
+hsa-mir-15b-5p	hsa_circ_0005046
+hsa-mir-15b-5p	hsa_circ_0001649
+hsa-mir-15b-5p	hsa_circ_0001417
+hsa-mir-15b-5p	hsa_circ_0007380
+hsa-mir-15b-5p	hsa_circ_0005218
+hsa-mir-15b-5p	hsa_circ_0001875
+hsa-mir-15b-5p	hsa_circ_0000426
+hsa-mir-15b-5p	mmp9
+hsa-mir-15b-5p	bax
+hsa-mir-15b-5p	tgfb1
+hsa-mir-15b-5p	socs3
+hsa-mir-15b-5p	trim29
+hsa-mir-15b-5p	ago2
+hsa-mir-15b-5p	akt3
+hsa-mir-15b-5p	hnf1a
+hsa-mir-15b-5p	kdr
+hsa-mir-15b-5p	ppm1d
+hsa-mir-15b-5p	foxo1
+hsa-mir-15b-5p	chek1
+hsa-mir-15b-5p	ifng
+hsa-mir-15b-5p	vegfa
+hsa-mir-15b-5p	reck
+rock2	heart failure
+hsa-mir-138-5p	hsa_circ_0001417
+hsa-mir-138-5p	hsa_circ_0008832
+hsa-mir-138-5p	hsa_circ_0005218
+hsa-mir-138-5p	hsa_circ_0001875
+hsa-mir-138-5p	hsa_circ_0000175
+hsa-mir-138-5p	hsa_circ_0002007
+hsa-mir-138-5p	hsa_circ_0000915
+hsa-mir-138-5p	hsa_circ_0000437
+hsa-mir-138-5p	hsa_circ_0000140
+hsa-mir-138-5p	hsa_circ_0006404
+hsa-mir-138-5p	sox9
+hsa-mir-138-5p	akt1
+hsa-mir-138-5p	nfkb1
+hsa-mir-138-5p	lcn2
+hsa-mir-138-5p	ccnd1
+hsa-mir-138-5p	zeb2
+hsa-mir-138-5p	suz12
+hsa-mir-138-5p	snai2
+hsa-mir-138-5p	cdh1
+hsa-mir-138-5p	sox4
+hsa-mir-138-5p	reln
+hsa-mir-138-5p	casp3
+hsa-mir-138-5p	ptk2
+hsa-mir-138-5p	tert
+hsa-mir-138-5p	rock2
+myc	cervical cancer
+myc	glioblastoma multiforme
+myc	osteosarcoma
+myc	acute myeloid leukemia
+myc	leukemia
+myc	glioblastoma
+tlr2	heart failure
+tlr2	rheumatoid arthritis
+hsa-mir-146a-5p	hsa_circ_0080189
+hsa-mir-146a-5p	hsa_circ_0006229
+hsa-mir-146a-5p	hsa_circ_0000497
+hsa-mir-146a-5p	nos1
+hsa-mir-146a-5p	rarb
+hsa-mir-146a-5p	ccnd1
+hsa-mir-146a-5p	ccnd2
+hsa-mir-146a-5p	notch1
+hsa-mir-146a-5p	fancm
+hsa-mir-146a-5p	tgfb1
+hsa-mir-146a-5p	il6
+hsa-mir-146a-5p	casp7
+hsa-mir-146a-5p	rac1
+hsa-mir-146a-5p	hoxd10
+hsa-mir-146a-5p	cxcl12
+hsa-mir-146a-5p	ptgs2
+hsa-mir-146a-5p	icam1
+hsa-mir-146a-5p	tlr4
+hsa-mir-146a-5p	cd40lg
+hsa-mir-146a-5p	cxcl8
+hsa-mir-146a-5p	brca2
+hsa-mir-146a-5p	tlr2
+cdk6	glioblastoma multiforme
+cdk6	acute myeloid leukemia
+cdk6	leukemia
+cdk6	glioblastoma
+cdk6	rheumatoid arthritis
+hsa-let-7a-5p	hsa_circ_0091894
+hsa-let-7a-5p	hsa_circ_0092024
+hsa-let-7a-5p	hsa_circ_0001141
+hsa-let-7a-5p	hsa_circ_0000677
+hsa-let-7a-5p	hsa_circ_0002078
+hsa-let-7a-5p	hsa_circ_0000437
+hsa-let-7a-5p	tnfaip3
+hsa-let-7a-5p	stat3
+hsa-let-7a-5p	parp1
+hsa-let-7a-5p	ezh2
+hsa-let-7a-5p	egfr
+hsa-let-7a-5p	il6
+hsa-let-7a-5p	casp8
+hsa-let-7a-5p	casp3
+hsa-let-7a-5p	igf2
+hsa-let-7a-5p	nr1i2
+hsa-let-7a-5p	itgb3
+hsa-let-7a-5p	cdk6
+kras	papillary thyroid carcinoma
+kras	cholangiocarcinoma
+kras	acute myeloid leukemia
+kras	leukemia
+hsa-let-7g-5p	hsa_circ_0000677
+hsa-let-7g-5p	hsa_circ_0002078
+hsa-let-7g-5p	hsa_circ_0001141
+hsa-let-7g-5p	hsa_circ_0000437
+hsa-let-7g-5p	hsa_circ_0091894
+hsa-let-7g-5p	hsa_circ_0092024
+hsa-let-7g-5p	akt2
+hsa-let-7g-5p	thbs1
+hsa-let-7g-5p	casp3
+hsa-let-7g-5p	bmi1
+hsa-let-7g-5p	fn1
+hsa-let-7g-5p	bcl2l1
+hsa-let-7g-5p	cdkn2a
+hsa-let-7g-5p	myc
+hsa-let-7g-5p	kras
+gata4	myocardial infarction
+mef2a	coronary artery disease
+cebpa	acute myeloid leukemia
+cebpa	leukemia
+hsa-mir-1-3p	hsa_circ_0005912
+hsa-mir-1-3p	hsa_circ_0008832
+hsa-mir-1-3p	hsa_circ_0006801
+hsa-mir-1-3p	hsa_circ_0001423
+hsa-mir-1-3p	cxcl12
+hsa-mir-1-3p	abcb1
+hsa-mir-1-3p	rarb
+hsa-mir-1-3p	nd1
+hsa-mir-1-3p	th
+hsa-mir-1-3p	pik3ca
+hsa-mir-1-3p	fasn
+hsa-mir-1-3p	ets1
+hsa-mir-1-3p	ccl2
+hsa-mir-1-3p	tkt
+hsa-mir-1-3p	ccnd1
+hsa-mir-1-3p	il11
+hsa-mir-1-3p	sox9
+hsa-mir-1-3p	prkce
+hsa-mir-1-3p	bdnf
+hsa-mir-1-3p	hand2
+hsa-mir-1-3p	anxa2
+hsa-mir-1-3p	gata4
+hsa-mir-1-3p	mef2a
+hsa-mir-1-3p	cebpa
+hsa-mir-124-3p	hsa_circ_0001417
+hsa-mir-124-3p	hsa_circ_0008832
+hsa-mir-124-3p	hsa_circ_0000677
+hsa-mir-124-3p	hsa_circ_0002078
+hsa-mir-124-3p	hsa_circ_0000284
+hsa-mir-124-3p	hsa_circ_0001135
+hsa-mir-124-3p	rap2a
+hsa-mir-124-3p	mgmt
+hsa-mir-124-3p	dnmt3b
+hsa-mir-124-3p	cbl
+hsa-mir-124-3p	hotair
+hsa-mir-124-3p	itgb3
+hsa-mir-124-3p	pim1
+hsa-mir-124-3p	ccnd2
+hsa-mir-124-3p	rest
+hsa-mir-124-3p	clock
+hsa-mir-124-3p	rac1
+hsa-mir-124-3p	trib3
+hsa-mir-124-3p	egr1
+hsa-mir-124-3p	sirt1
+hsa-mir-124-3p	akt2
+hsa-mir-124-3p	klf6
+hsa-mir-124-3p	pik3ca
+hsa-mir-124-3p	hmga1
+hsa-mir-124-3p	rock2
+hsa-mir-124-3p	nfkbiz
+hsa-mir-124-3p	nr3c1
+hsa-mir-124-3p	pea15
+hsa-mir-124-3p	cdk2
+hsa-mir-124-3p	elk3
+hsa-mir-124-3p	cebpa
+hsa-mir-124-3p	nr3c2
+hsa-mir-124-3p	bdnf
+hmga1	diabetes mellitus
+hsa-mir-125b-5p	hsa_circ_0058766
+hsa-mir-125b-5p	hsa_circ_0065932
+hsa-mir-125b-5p	hsa_circ_0012380
+hsa-mir-125b-5p	hsa_circ_0000069
+hsa-mir-125b-5p	hsa_circ_0000893
+hsa-mir-125b-5p	hsa_circ_0000700
+hsa-mir-125b-5p	jak2
+hsa-mir-125b-5p	apc
+hsa-mir-125b-5p	tnf
+hsa-mir-125b-5p	egfr
+hsa-mir-125b-5p	cd44
+hsa-mir-125b-5p	alox5
+hsa-mir-125b-5p	apln
+hsa-mir-125b-5p	fas
+hsa-mir-125b-5p	mmp2
+hsa-mir-125b-5p	sphk1
+hsa-mir-125b-5p	dusp6
+hsa-mir-125b-5p	scnn1a
+hsa-mir-125b-5p	enpep
+hsa-mir-125b-5p	ikzf3
+hsa-mir-125b-5p	lipa
+hsa-mir-125b-5p	pias3
+hsa-mir-125b-5p	cebpa
+hsa-mir-125b-5p	epo
+hsa-mir-125b-5p	smad4
+hsa-mir-125b-5p	fgfr2
+hsa-mir-125b-5p	bcl3
+hsa-mir-125b-5p	bcl2
+hsa-mir-125b-5p	igf2
+hsa-mir-125b-5p	raf1
+hsa-mir-125b-5p	akt1
+hsa-mir-125b-5p	ntrk3
+hsa-mir-125b-5p	klf13
+hsa-mir-125b-5p	hmga1
+bcl2	prostate cancer
+bcl2	myocardial infarction
+bcl2	acute myeloid leukemia
+bcl2	leukemia
+hsa-mir-153-3p	hsa_circ_0000175
+hsa-mir-153-3p	hsa_circ_0036159
+hsa-mir-153-3p	prdx2
+hsa-mir-153-3p	pten
+hsa-mir-153-3p	hmgb1
+hsa-mir-153-3p	zeb2
+hsa-mir-153-3p	foxo1
+hsa-mir-153-3p	bcl2
+hsa-mir-15a-5p	hsa_circ_0007031
+hsa-mir-15a-5p	hsa_circ_0000504
+hsa-mir-15a-5p	hsa_circ_0000426
+hsa-mir-15a-5p	hsa_circ_0006801
+hsa-mir-15a-5p	hsa_circ_0001175
+hsa-mir-15a-5p	hsa_circ_0005046
+hsa-mir-15a-5p	hsa_circ_0001785
+hsa-mir-15a-5p	hsa_circ_0000677
+hsa-mir-15a-5p	hsa_circ_0002078
+hsa-mir-15a-5p	hsa_circ_0007380
+hsa-mir-15a-5p	hsa_circ_0000615
+hsa-mir-15a-5p	hsa_circ_0001649
+hsa-mir-15a-5p	hsa_circ_0001417
+hsa-mir-15a-5p	hsa_circ_0000627
+hsa-mir-15a-5p	hsa_circ_0005218
+hsa-mir-15a-5p	hsa_circ_0001875
+hsa-mir-15a-5p	hsa_circ_0000638
+hsa-mir-15a-5p	bdnf
+hsa-mir-15a-5p	cdkn2b
+hsa-mir-15a-5p	cxcl10
+hsa-mir-15a-5p	ret
+hsa-mir-15a-5p	chek1
+hsa-mir-15a-5p	hspa1b
+hsa-mir-15a-5p	foxo1
+hsa-mir-15a-5p	reck
+hsa-mir-15a-5p	ifng
+hsa-mir-15a-5p	hmga1
+hsa-mir-15a-5p	mn1
+hsa-mir-15a-5p	clcn3
+hsa-mir-15a-5p	tp53
+hsa-mir-15a-5p	akt3
+hsa-mir-15a-5p	brca1
+hsa-mir-15a-5p	ccnd2
+hsa-mir-181a-5p	hsa_circ_0001275
+hsa-mir-181a-5p	hsa_circ_0001577
+hsa-mir-181a-5p	hsa_circ_0011946
+hsa-mir-181a-5p	hsa_circ_0001819
+hsa-mir-181a-5p	samhd1
+hsa-mir-181a-5p	cebpa
+hsa-mir-181a-5p	runx1
+hsa-mir-181a-5p	nras
+hsa-mir-181a-5p	egr1
+hsa-mir-181a-5p	prkn
+hsa-mir-181a-5p	vegfa
+hsa-mir-181a-5p	tcf4
+hsa-mir-181a-5p	ctnnb1
+hsa-mir-181a-5p	inpp4b
+hsa-mir-181a-5p	bax
+hsa-mir-181a-5p	stat3
+hsa-mir-181a-5p	ahr
+hsa-mir-181a-5p	ifng
+hsa-mir-181a-5p	rgs5
+hsa-mir-181a-5p	tert
+hsa-mir-181a-5p	abcg2
+hsa-mir-181a-5p	notch1
+hsa-mir-181a-5p	map2k1
+hsa-mir-181a-5p	ptpn22
+hsa-mir-181a-5p	ptpn11
+hsa-mir-181a-5p	dusp6
+hsa-mir-181a-5p	hras
+hsa-mir-181a-5p	ddit4
+hsa-mir-181a-5p	nlk
+nlk	glioblastoma multiforme
+hsa-mir-181c-5p	hsa_circ_0001819
+hsa-mir-181c-5p	hsa_circ_0001577
+hsa-mir-181c-5p	hsa_circ_0001275
+hsa-mir-181c-5p	hsa_circ_0011946
+hsa-mir-181c-5p	tgfbr2
+hsa-mir-181c-5p	pten
+hsa-mir-181c-5p	prkcd
+hsa-mir-181c-5p	il2
+hsa-mir-181c-5p	sirt1
+hsa-mir-181c-5p	notch2
+hsa-mir-181c-5p	nlk
+pim1	glioblastoma multiforme
+pim1	glioblastoma
+hoxa9	acute myeloid leukemia
+hoxa9	leukemia
+hsa-mir-210-3p	hsa_circ_0007031
+hsa-mir-210-3p	hsa_circ_0000504
+hsa-mir-210-3p	hsa_circ_0005540
+hsa-mir-210-3p	hsa_circ_0001512
+hsa-mir-210-3p	plk1
+hsa-mir-210-3p	foxp3
+hsa-mir-210-3p	hif1a
+hsa-mir-210-3p	ldha
+hsa-mir-210-3p	ptpn2
+hsa-mir-210-3p	igfbp3
+hsa-mir-210-3p	stmn1
+hsa-mir-210-3p	tfrc
+hsa-mir-210-3p	xpa
+hsa-mir-210-3p	mre11
+hsa-mir-210-3p	ncam1
+hsa-mir-210-3p	ptpn1
+hsa-mir-210-3p	pim1
+hsa-mir-210-3p	hoxa9
+ccnd2	acute myeloid leukemia
+ccnd2	leukemia
+ccnd2	diabetes mellitus
+hsa-mir-26a-5p	hsa_circ_0000627
+hsa-mir-26a-5p	hsa_circ_0004619
+hsa-mir-26a-5p	hsa_circ_0000118
+hsa-mir-26a-5p	hsa_circ_0001577
+hsa-mir-26a-5p	pik3cg
+hsa-mir-26a-5p	jag1
+hsa-mir-26a-5p	nras
+hsa-mir-26a-5p	chek1
+hsa-mir-26a-5p	dnmt3b
+hsa-mir-26a-5p	atm
+hsa-mir-26a-5p	acvr1
+hsa-mir-26a-5p	prkcd
+hsa-mir-26a-5p	il6
+hsa-mir-26a-5p	abca1
+hsa-mir-26a-5p	esr1
+hsa-mir-26a-5p	cdk6
+hsa-mir-26a-5p	myc
+hsa-mir-26a-5p	ccnd2
+hsa-mir-302d-3p	hsa_circ_0006147
+hsa-mir-302d-3p	hsa_circ_0071589
+hsa-mir-302d-3p	hsa_circ_0005912
+hsa-mir-302d-3p	hsa_circ_0001721
+hsa-mir-302d-3p	tgfbr2
+hsa-mir-302d-3p	cxcl8
+hsa-mir-302d-3p	akt1
+hsa-mir-302d-3p	ccnd2
+hsa-mir-302d-3p	cdk2
+hsa-mir-302d-3p	nr4a2
+hsa-mir-302d-3p	vegfa
+hsa-mir-302d-3p	klf13
+klf13	myocardial infarction
+hsa-mir-372-3p	hsa_circ_0005912
+hsa-mir-372-3p	hsa_circ_0071589
+hsa-mir-372-3p	hsa_circ_0001721
+hsa-mir-372-3p	hsa_circ_0006147
+hsa-mir-372-3p	vegfa
+hsa-mir-372-3p	nr4a2
+hsa-mir-372-3p	klf13
+ago2	leukemia
+hsa-mir-107	non-small cell lung cancer
+hsa-mir-107	hsa_circ_0024997
+hsa-mir-107	hsa_circ_0001175
+hsa-mir-107	hsa_circ_0001819
+hsa-mir-107	hsa_circ_0006801
+hsa-mir-107	hsa_circ_0000426
+hsa-mir-107	hsa_circ_0007031
+hsa-mir-107	hsa_circ_0000504
+hsa-mir-107	hsa_circ_0000638
+hsa-mir-107	hsa_circ_0001785
+hsa-mir-107	hsa_circ_0000677
+hsa-mir-107	hsa_circ_0002078
+hsa-mir-107	ago2
+bdnf	major depressive disorder
+bdnf	hypoxia
+hsa-mir-206	hsa_circ_0001423
+hsa-mir-206	hsa_circ_0008832
+hsa-mir-206	hsa_circ_0006801
+hsa-mir-206	hsa_circ_0005912
+hsa-mir-206	bdnf
+pten	cholangiocarcinoma
+pten	leukemia
+pten	glioma
+pten	glioblastoma
+irs1	coronary artery disease
+hsa-mir-217	hsa_circ_0003838
+hsa-mir-217	hsa_circ_0000594
+hsa-mir-217	pten
+hsa-mir-217	irs1
+etv6	papillary thyroid carcinoma
+etv6	acute myeloid leukemia
+hsa-mir-129-5p	hsa_circ_0001370
+hsa-mir-129-5p	hsa_circ_0000700
+hsa-mir-129-5p	hsa_circ_0002138
+hsa-mir-129-5p	etv6

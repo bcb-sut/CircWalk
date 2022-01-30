@@ -1,0 +1,1161 @@
+Method: xgboost
+Embedding Size: 10
+----------------------------------------------------------------------------------------------
+[18:27:07] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61969
+[1]	train-mlogloss:0.57261
+[2]	train-mlogloss:0.52917
+[3]	train-mlogloss:0.49479
+[4]	train-mlogloss:0.46486
+[5]	train-mlogloss:0.44496
+[6]	train-mlogloss:0.41530
+[7]	train-mlogloss:0.38626
+[8]	train-mlogloss:0.37357
+[9]	train-mlogloss:0.35017
+Fold Num: 1.0
+Accuracy: 82.609
+F1 score: 83.051
+Precision: 80.992
+Sensitivity: 85.217
+Specificity: 80.0
+AUC: 91.781
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:27:21] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61639
+[1]	train-mlogloss:0.55969
+[2]	train-mlogloss:0.52165
+[3]	train-mlogloss:0.49273
+[4]	train-mlogloss:0.45069
+[5]	train-mlogloss:0.43016
+[6]	train-mlogloss:0.41383
+[7]	train-mlogloss:0.39188
+[8]	train-mlogloss:0.36922
+[9]	train-mlogloss:0.34581
+Fold Num: 2.0
+Accuracy: 80.435
+F1 score: 81.781
+Precision: 76.515
+Sensitivity: 87.826
+Specificity: 73.043
+AUC: 89.501
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:27:32] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.62386
+[1]	train-mlogloss:0.58483
+[2]	train-mlogloss:0.54542
+[3]	train-mlogloss:0.52149
+[4]	train-mlogloss:0.50467
+[5]	train-mlogloss:0.48416
+[6]	train-mlogloss:0.46292
+[7]	train-mlogloss:0.44430
+[8]	train-mlogloss:0.43239
+[9]	train-mlogloss:0.40538
+Fold Num: 3.0
+Accuracy: 84.348
+F1 score: 85.246
+Precision: 80.62
+Sensitivity: 90.435
+Specificity: 78.261
+AUC: 92.699
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:27:46] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60932
+[1]	train-mlogloss:0.55522
+[2]	train-mlogloss:0.52270
+[3]	train-mlogloss:0.48823
+[4]	train-mlogloss:0.46069
+[5]	train-mlogloss:0.43926
+[6]	train-mlogloss:0.40714
+[7]	train-mlogloss:0.38293
+[8]	train-mlogloss:0.36925
+[9]	train-mlogloss:0.34854
+Fold Num: 4.0
+Accuracy: 83.043
+F1 score: 83.817
+Precision: 80.159
+Sensitivity: 87.826
+Specificity: 78.261
+AUC: 92.802
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:27:58] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61517
+[1]	train-mlogloss:0.56316
+[2]	train-mlogloss:0.52524
+[3]	train-mlogloss:0.50193
+[4]	train-mlogloss:0.46669
+[5]	train-mlogloss:0.43555
+[6]	train-mlogloss:0.40659
+[7]	train-mlogloss:0.38526
+[8]	train-mlogloss:0.36743
+[9]	train-mlogloss:0.35266
+Fold Num: 5.0
+Accuracy: 86.087
+F1 score: 85.586
+Precision: 88.785
+Sensitivity: 82.609
+Specificity: 89.565
+AUC: 93.94
+----------------------------------------------------------------------------------------------
+
+Overall:
+Accuracy: 83.3044
+Precision: 81.41420000000001
+F1 score: 83.8962
+Sensitivity: 86.78259999999999
+Specificity: 79.826
+AUC: 92.1446
+
+###############################################################################
+
+Embedding Size: 20
+----------------------------------------------------------------------------------------------
+[18:28:10] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60653
+[1]	train-mlogloss:0.55555
+[2]	train-mlogloss:0.50751
+[3]	train-mlogloss:0.47899
+[4]	train-mlogloss:0.45672
+[5]	train-mlogloss:0.43651
+[6]	train-mlogloss:0.40304
+[7]	train-mlogloss:0.38838
+[8]	train-mlogloss:0.37095
+[9]	train-mlogloss:0.35602
+Fold Num: 1.0
+Accuracy: 85.217
+F1 score: 85.714
+Precision: 82.927
+Sensitivity: 88.696
+Specificity: 81.739
+AUC: 92.095
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:28:21] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60641
+[1]	train-mlogloss:0.54917
+[2]	train-mlogloss:0.51663
+[3]	train-mlogloss:0.48013
+[4]	train-mlogloss:0.44797
+[5]	train-mlogloss:0.42330
+[6]	train-mlogloss:0.39575
+[7]	train-mlogloss:0.37757
+[8]	train-mlogloss:0.34909
+[9]	train-mlogloss:0.33273
+Fold Num: 2.0
+Accuracy: 81.304
+F1 score: 81.857
+Precision: 79.508
+Sensitivity: 84.348
+Specificity: 78.261
+AUC: 90.257
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:28:32] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60499
+[1]	train-mlogloss:0.55786
+[2]	train-mlogloss:0.51873
+[3]	train-mlogloss:0.48513
+[4]	train-mlogloss:0.46147
+[5]	train-mlogloss:0.42483
+[6]	train-mlogloss:0.39808
+[7]	train-mlogloss:0.37978
+[8]	train-mlogloss:0.35530
+[9]	train-mlogloss:0.33410
+Fold Num: 3.0
+Accuracy: 86.957
+F1 score: 87.705
+Precision: 82.946
+Sensitivity: 93.043
+Specificity: 80.87
+AUC: 93.947
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:28:43] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60502
+[1]	train-mlogloss:0.54595
+[2]	train-mlogloss:0.50097
+[3]	train-mlogloss:0.47358
+[4]	train-mlogloss:0.44887
+[5]	train-mlogloss:0.42715
+[6]	train-mlogloss:0.39657
+[7]	train-mlogloss:0.36731
+[8]	train-mlogloss:0.34885
+[9]	train-mlogloss:0.32152
+Fold Num: 4.0
+Accuracy: 85.217
+F1 score: 85.217
+Precision: 85.217
+Sensitivity: 85.217
+Specificity: 85.217
+AUC: 91.319
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:28:56] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61141
+[1]	train-mlogloss:0.55982
+[2]	train-mlogloss:0.51069
+[3]	train-mlogloss:0.48025
+[4]	train-mlogloss:0.44218
+[5]	train-mlogloss:0.42425
+[6]	train-mlogloss:0.40488
+[7]	train-mlogloss:0.38967
+[8]	train-mlogloss:0.36819
+[9]	train-mlogloss:0.33938
+Fold Num: 5.0
+Accuracy: 83.478
+F1 score: 84.034
+Precision: 81.301
+Sensitivity: 86.957
+Specificity: 80.0
+AUC: 92.945
+----------------------------------------------------------------------------------------------
+
+Overall:
+Accuracy: 84.4346
+Precision: 82.3798
+F1 score: 84.9054
+Sensitivity: 87.6522
+Specificity: 81.2174
+AUC: 92.1126
+
+###############################################################################
+
+Embedding Size: 30
+----------------------------------------------------------------------------------------------
+[18:29:06] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61597
+[1]	train-mlogloss:0.56227
+[2]	train-mlogloss:0.51248
+[3]	train-mlogloss:0.47098
+[4]	train-mlogloss:0.44072
+[5]	train-mlogloss:0.40847
+[6]	train-mlogloss:0.38695
+[7]	train-mlogloss:0.36336
+[8]	train-mlogloss:0.34656
+[9]	train-mlogloss:0.33002
+Fold Num: 1.0
+Accuracy: 86.957
+F1 score: 87.069
+Precision: 86.325
+Sensitivity: 87.826
+Specificity: 86.087
+AUC: 93.202
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:29:16] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61358
+[1]	train-mlogloss:0.56786
+[2]	train-mlogloss:0.51521
+[3]	train-mlogloss:0.47334
+[4]	train-mlogloss:0.44962
+[5]	train-mlogloss:0.41399
+[6]	train-mlogloss:0.40019
+[7]	train-mlogloss:0.37486
+[8]	train-mlogloss:0.35505
+[9]	train-mlogloss:0.33504
+Fold Num: 2.0
+Accuracy: 81.304
+F1 score: 81.385
+Precision: 81.034
+Sensitivity: 81.739
+Specificity: 80.87
+AUC: 89.403
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:29:27] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61717
+[1]	train-mlogloss:0.56656
+[2]	train-mlogloss:0.52049
+[3]	train-mlogloss:0.47709
+[4]	train-mlogloss:0.45273
+[5]	train-mlogloss:0.42201
+[6]	train-mlogloss:0.40219
+[7]	train-mlogloss:0.37263
+[8]	train-mlogloss:0.34909
+[9]	train-mlogloss:0.32612
+Fold Num: 3.0
+Accuracy: 86.087
+F1 score: 86.325
+Precision: 84.874
+Sensitivity: 87.826
+Specificity: 84.348
+AUC: 93.081
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:29:41] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61859
+[1]	train-mlogloss:0.56809
+[2]	train-mlogloss:0.51205
+[3]	train-mlogloss:0.46925
+[4]	train-mlogloss:0.43542
+[5]	train-mlogloss:0.40377
+[6]	train-mlogloss:0.37862
+[7]	train-mlogloss:0.36006
+[8]	train-mlogloss:0.33638
+[9]	train-mlogloss:0.32317
+Fold Num: 4.0
+Accuracy: 83.913
+F1 score: 83.843
+Precision: 84.211
+Sensitivity: 83.478
+Specificity: 84.348
+AUC: 91.236
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:29:51] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61022
+[1]	train-mlogloss:0.56198
+[2]	train-mlogloss:0.51355
+[3]	train-mlogloss:0.47689
+[4]	train-mlogloss:0.44721
+[5]	train-mlogloss:0.42458
+[6]	train-mlogloss:0.39696
+[7]	train-mlogloss:0.38124
+[8]	train-mlogloss:0.35644
+[9]	train-mlogloss:0.33725
+Fold Num: 5.0
+Accuracy: 83.913
+F1 score: 84.255
+Precision: 82.5
+Sensitivity: 86.087
+Specificity: 81.739
+AUC: 90.586
+----------------------------------------------------------------------------------------------
+
+Overall:
+Accuracy: 84.43480000000001
+Precision: 83.78880000000001
+F1 score: 84.5754
+Sensitivity: 85.3912
+Specificity: 83.47840000000001
+AUC: 91.50160000000001
+
+###############################################################################
+
+Embedding Size: 40
+----------------------------------------------------------------------------------------------
+[18:30:02] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61463
+[1]	train-mlogloss:0.56215
+[2]	train-mlogloss:0.52134
+[3]	train-mlogloss:0.49689
+[4]	train-mlogloss:0.45043
+[5]	train-mlogloss:0.43004
+[6]	train-mlogloss:0.40844
+[7]	train-mlogloss:0.39066
+[8]	train-mlogloss:0.36991
+[9]	train-mlogloss:0.35651
+Fold Num: 1.0
+Accuracy: 83.478
+F1 score: 84.298
+Precision: 80.315
+Sensitivity: 88.696
+Specificity: 78.261
+AUC: 92.008
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:30:15] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61204
+[1]	train-mlogloss:0.55233
+[2]	train-mlogloss:0.49944
+[3]	train-mlogloss:0.45512
+[4]	train-mlogloss:0.42661
+[5]	train-mlogloss:0.40219
+[6]	train-mlogloss:0.37772
+[7]	train-mlogloss:0.35877
+[8]	train-mlogloss:0.34984
+[9]	train-mlogloss:0.33375
+Fold Num: 2.0
+Accuracy: 86.522
+F1 score: 87.029
+Precision: 83.871
+Sensitivity: 90.435
+Specificity: 82.609
+AUC: 94.692
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:30:26] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61500
+[1]	train-mlogloss:0.55291
+[2]	train-mlogloss:0.50909
+[3]	train-mlogloss:0.47682
+[4]	train-mlogloss:0.44736
+[5]	train-mlogloss:0.42388
+[6]	train-mlogloss:0.40012
+[7]	train-mlogloss:0.37087
+[8]	train-mlogloss:0.34190
+[9]	train-mlogloss:0.32036
+Fold Num: 3.0
+Accuracy: 88.696
+F1 score: 89.076
+Precision: 86.179
+Sensitivity: 92.174
+Specificity: 85.217
+AUC: 94.896
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:30:35] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61132
+[1]	train-mlogloss:0.54492
+[2]	train-mlogloss:0.50524
+[3]	train-mlogloss:0.46850
+[4]	train-mlogloss:0.42980
+[5]	train-mlogloss:0.40109
+[6]	train-mlogloss:0.37733
+[7]	train-mlogloss:0.35720
+[8]	train-mlogloss:0.32928
+[9]	train-mlogloss:0.30876
+Fold Num: 4.0
+Accuracy: 87.391
+F1 score: 86.996
+Precision: 89.815
+Sensitivity: 84.348
+Specificity: 90.435
+AUC: 93.319
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:30:42] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61508
+[1]	train-mlogloss:0.55264
+[2]	train-mlogloss:0.51367
+[3]	train-mlogloss:0.47063
+[4]	train-mlogloss:0.44044
+[5]	train-mlogloss:0.41739
+[6]	train-mlogloss:0.39237
+[7]	train-mlogloss:0.36689
+[8]	train-mlogloss:0.34826
+[9]	train-mlogloss:0.33454
+Fold Num: 5.0
+Accuracy: 81.304
+F1 score: 81.857
+Precision: 79.508
+Sensitivity: 84.348
+Specificity: 78.261
+AUC: 90.854
+----------------------------------------------------------------------------------------------
+
+Overall:
+Accuracy: 85.47820000000002
+Precision: 83.93759999999999
+F1 score: 85.85119999999999
+Sensitivity: 88.0002
+Specificity: 82.95660000000001
+AUC: 93.1538
+
+###############################################################################
+
+Embedding Size: 50
+----------------------------------------------------------------------------------------------
+[18:30:52] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60481
+[1]	train-mlogloss:0.54927
+[2]	train-mlogloss:0.49992
+[3]	train-mlogloss:0.47081
+[4]	train-mlogloss:0.42966
+[5]	train-mlogloss:0.39298
+[6]	train-mlogloss:0.37500
+[7]	train-mlogloss:0.35662
+[8]	train-mlogloss:0.34115
+[9]	train-mlogloss:0.32966
+Fold Num: 1.0
+Accuracy: 80.0
+F1 score: 79.825
+Precision: 80.531
+Sensitivity: 79.13
+Specificity: 80.87
+AUC: 91.059
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:31:00] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61183
+[1]	train-mlogloss:0.55720
+[2]	train-mlogloss:0.51535
+[3]	train-mlogloss:0.46587
+[4]	train-mlogloss:0.43557
+[5]	train-mlogloss:0.41888
+[6]	train-mlogloss:0.39267
+[7]	train-mlogloss:0.37282
+[8]	train-mlogloss:0.35867
+[9]	train-mlogloss:0.33986
+Fold Num: 2.0
+Accuracy: 85.652
+F1 score: 85.714
+Precision: 85.345
+Sensitivity: 86.087
+Specificity: 85.217
+AUC: 92.389
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:31:09] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60758
+[1]	train-mlogloss:0.54892
+[2]	train-mlogloss:0.50722
+[3]	train-mlogloss:0.47433
+[4]	train-mlogloss:0.44682
+[5]	train-mlogloss:0.42201
+[6]	train-mlogloss:0.39655
+[7]	train-mlogloss:0.37756
+[8]	train-mlogloss:0.35714
+[9]	train-mlogloss:0.33953
+Fold Num: 3.0
+Accuracy: 84.783
+F1 score: 85.232
+Precision: 82.787
+Sensitivity: 87.826
+Specificity: 81.739
+AUC: 93.282
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:31:16] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.59841
+[1]	train-mlogloss:0.54225
+[2]	train-mlogloss:0.49816
+[3]	train-mlogloss:0.45240
+[4]	train-mlogloss:0.41572
+[5]	train-mlogloss:0.39493
+[6]	train-mlogloss:0.36893
+[7]	train-mlogloss:0.34455
+[8]	train-mlogloss:0.32590
+[9]	train-mlogloss:0.31151
+Fold Num: 4.0
+Accuracy: 83.478
+F1 score: 83.333
+Precision: 84.071
+Sensitivity: 82.609
+Specificity: 84.348
+AUC: 90.949
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:31:22] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.59903
+[1]	train-mlogloss:0.54600
+[2]	train-mlogloss:0.51300
+[3]	train-mlogloss:0.46824
+[4]	train-mlogloss:0.43829
+[5]	train-mlogloss:0.41283
+[6]	train-mlogloss:0.39179
+[7]	train-mlogloss:0.37133
+[8]	train-mlogloss:0.35196
+[9]	train-mlogloss:0.33761
+Fold Num: 5.0
+Accuracy: 80.435
+F1 score: 80.176
+Precision: 81.25
+Sensitivity: 79.13
+Specificity: 81.739
+AUC: 87.713
+----------------------------------------------------------------------------------------------
+
+Overall:
+Accuracy: 82.8696
+Precision: 82.7968
+F1 score: 82.856
+Sensitivity: 82.9564
+Specificity: 82.7826
+AUC: 91.07839999999999
+
+###############################################################################
+
+Embedding Size: 60
+----------------------------------------------------------------------------------------------
+[18:31:32] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61275
+[1]	train-mlogloss:0.55341
+[2]	train-mlogloss:0.51098
+[3]	train-mlogloss:0.47824
+[4]	train-mlogloss:0.45153
+[5]	train-mlogloss:0.42378
+[6]	train-mlogloss:0.39936
+[7]	train-mlogloss:0.37629
+[8]	train-mlogloss:0.35113
+[9]	train-mlogloss:0.32465
+Fold Num: 1.0
+Accuracy: 84.348
+F1 score: 84.874
+Precision: 82.114
+Sensitivity: 87.826
+Specificity: 80.87
+AUC: 92.457
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:31:37] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61792
+[1]	train-mlogloss:0.55224
+[2]	train-mlogloss:0.50396
+[3]	train-mlogloss:0.47219
+[4]	train-mlogloss:0.42669
+[5]	train-mlogloss:0.40486
+[6]	train-mlogloss:0.37573
+[7]	train-mlogloss:0.36050
+[8]	train-mlogloss:0.33212
+[9]	train-mlogloss:0.31468
+Fold Num: 2.0
+Accuracy: 80.87
+F1 score: 82.258
+Precision: 76.692
+Sensitivity: 88.696
+Specificity: 73.043
+AUC: 92.023
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:31:43] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61491
+[1]	train-mlogloss:0.55686
+[2]	train-mlogloss:0.52180
+[3]	train-mlogloss:0.48841
+[4]	train-mlogloss:0.45322
+[5]	train-mlogloss:0.42362
+[6]	train-mlogloss:0.40367
+[7]	train-mlogloss:0.37492
+[8]	train-mlogloss:0.35167
+[9]	train-mlogloss:0.33250
+Fold Num: 3.0
+Accuracy: 83.913
+F1 score: 84.388
+Precision: 81.967
+Sensitivity: 86.957
+Specificity: 80.87
+AUC: 94.193
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:31:50] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60242
+[1]	train-mlogloss:0.54620
+[2]	train-mlogloss:0.50289
+[3]	train-mlogloss:0.47547
+[4]	train-mlogloss:0.43909
+[5]	train-mlogloss:0.41197
+[6]	train-mlogloss:0.38604
+[7]	train-mlogloss:0.36711
+[8]	train-mlogloss:0.34928
+[9]	train-mlogloss:0.33291
+Fold Num: 4.0
+Accuracy: 83.478
+F1 score: 83.761
+Precision: 82.353
+Sensitivity: 85.217
+Specificity: 81.739
+AUC: 89.94
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:31:54] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.59965
+[1]	train-mlogloss:0.53995
+[2]	train-mlogloss:0.50109
+[3]	train-mlogloss:0.47101
+[4]	train-mlogloss:0.43284
+[5]	train-mlogloss:0.40897
+[6]	train-mlogloss:0.38327
+[7]	train-mlogloss:0.36149
+[8]	train-mlogloss:0.34511
+[9]	train-mlogloss:0.31966
+Fold Num: 5.0
+Accuracy: 83.478
+F1 score: 84.167
+Precision: 80.8
+Sensitivity: 87.826
+Specificity: 79.13
+AUC: 91.047
+----------------------------------------------------------------------------------------------
+
+Overall:
+Accuracy: 83.21740000000001
+Precision: 80.7852
+F1 score: 83.8896
+Sensitivity: 87.30439999999999
+Specificity: 79.13040000000001
+AUC: 91.93199999999999
+
+###############################################################################
+
+Embedding Size: 70
+----------------------------------------------------------------------------------------------
+[18:32:02] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61766
+[1]	train-mlogloss:0.54720
+[2]	train-mlogloss:0.49527
+[3]	train-mlogloss:0.45852
+[4]	train-mlogloss:0.42677
+[5]	train-mlogloss:0.39943
+[6]	train-mlogloss:0.38056
+[7]	train-mlogloss:0.35847
+[8]	train-mlogloss:0.33714
+[9]	train-mlogloss:0.31500
+Fold Num: 1.0
+Accuracy: 82.174
+F1 score: 82.403
+Precision: 81.356
+Sensitivity: 83.478
+Specificity: 80.87
+AUC: 89.713
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:32:08] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60078
+[1]	train-mlogloss:0.53744
+[2]	train-mlogloss:0.48815
+[3]	train-mlogloss:0.45415
+[4]	train-mlogloss:0.42149
+[5]	train-mlogloss:0.39323
+[6]	train-mlogloss:0.37197
+[7]	train-mlogloss:0.34746
+[8]	train-mlogloss:0.32765
+[9]	train-mlogloss:0.31312
+Fold Num: 2.0
+Accuracy: 82.174
+F1 score: 82.553
+Precision: 80.833
+Sensitivity: 84.348
+Specificity: 80.0
+AUC: 89.195
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:32:11] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60829
+[1]	train-mlogloss:0.55338
+[2]	train-mlogloss:0.50772
+[3]	train-mlogloss:0.47530
+[4]	train-mlogloss:0.45144
+[5]	train-mlogloss:0.42381
+[6]	train-mlogloss:0.39880
+[7]	train-mlogloss:0.36970
+[8]	train-mlogloss:0.34813
+[9]	train-mlogloss:0.33560
+Fold Num: 3.0
+Accuracy: 85.652
+F1 score: 85.837
+Precision: 84.746
+Sensitivity: 86.957
+Specificity: 84.348
+AUC: 93.958
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:32:20] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.59876
+[1]	train-mlogloss:0.53768
+[2]	train-mlogloss:0.49451
+[3]	train-mlogloss:0.45530
+[4]	train-mlogloss:0.42290
+[5]	train-mlogloss:0.39761
+[6]	train-mlogloss:0.37215
+[7]	train-mlogloss:0.34882
+[8]	train-mlogloss:0.33577
+[9]	train-mlogloss:0.32208
+Fold Num: 4.0
+Accuracy: 80.87
+F1 score: 81.197
+Precision: 79.832
+Sensitivity: 82.609
+Specificity: 79.13
+AUC: 88.643
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:32:30] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60399
+[1]	train-mlogloss:0.54260
+[2]	train-mlogloss:0.50084
+[3]	train-mlogloss:0.46054
+[4]	train-mlogloss:0.43016
+[5]	train-mlogloss:0.40789
+[6]	train-mlogloss:0.39073
+[7]	train-mlogloss:0.36625
+[8]	train-mlogloss:0.34654
+[9]	train-mlogloss:0.33243
+Fold Num: 5.0
+Accuracy: 84.348
+F1 score: 84.211
+Precision: 84.956
+Sensitivity: 83.478
+Specificity: 85.217
+AUC: 88.707
+----------------------------------------------------------------------------------------------
+
+Overall:
+Accuracy: 83.0436
+Precision: 82.3446
+F1 score: 83.2402
+Sensitivity: 84.174
+Specificity: 81.913
+AUC: 90.0432
+
+###############################################################################
+
+Embedding Size: 80
+----------------------------------------------------------------------------------------------
+[18:32:39] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60984
+[1]	train-mlogloss:0.55314
+[2]	train-mlogloss:0.51794
+[3]	train-mlogloss:0.48633
+[4]	train-mlogloss:0.45897
+[5]	train-mlogloss:0.43780
+[6]	train-mlogloss:0.40900
+[7]	train-mlogloss:0.39475
+[8]	train-mlogloss:0.37375
+[9]	train-mlogloss:0.36340
+Fold Num: 1.0
+Accuracy: 81.739
+F1 score: 81.739
+Precision: 81.739
+Sensitivity: 81.739
+Specificity: 81.739
+AUC: 88.446
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:32:46] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60006
+[1]	train-mlogloss:0.53825
+[2]	train-mlogloss:0.49893
+[3]	train-mlogloss:0.46337
+[4]	train-mlogloss:0.43301
+[5]	train-mlogloss:0.40956
+[6]	train-mlogloss:0.38110
+[7]	train-mlogloss:0.36767
+[8]	train-mlogloss:0.34954
+[9]	train-mlogloss:0.33214
+Fold Num: 2.0
+Accuracy: 80.87
+F1 score: 81.034
+Precision: 80.342
+Sensitivity: 81.739
+Specificity: 80.0
+AUC: 91.304
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:32:51] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60901
+[1]	train-mlogloss:0.54867
+[2]	train-mlogloss:0.50013
+[3]	train-mlogloss:0.46310
+[4]	train-mlogloss:0.42988
+[5]	train-mlogloss:0.41604
+[6]	train-mlogloss:0.39619
+[7]	train-mlogloss:0.37544
+[8]	train-mlogloss:0.35678
+[9]	train-mlogloss:0.34514
+Fold Num: 3.0
+Accuracy: 80.87
+F1 score: 81.667
+Precision: 78.4
+Sensitivity: 85.217
+Specificity: 76.522
+AUC: 90.665
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:32:58] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60109
+[1]	train-mlogloss:0.54234
+[2]	train-mlogloss:0.50226
+[3]	train-mlogloss:0.46172
+[4]	train-mlogloss:0.43152
+[5]	train-mlogloss:0.40909
+[6]	train-mlogloss:0.39005
+[7]	train-mlogloss:0.36928
+[8]	train-mlogloss:0.34745
+[9]	train-mlogloss:0.32830
+Fold Num: 4.0
+Accuracy: 80.87
+F1 score: 80.357
+Precision: 82.569
+Sensitivity: 78.261
+Specificity: 83.478
+AUC: 89.554
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:33:05] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60068
+[1]	train-mlogloss:0.53677
+[2]	train-mlogloss:0.48901
+[3]	train-mlogloss:0.45761
+[4]	train-mlogloss:0.42734
+[5]	train-mlogloss:0.40548
+[6]	train-mlogloss:0.38357
+[7]	train-mlogloss:0.36268
+[8]	train-mlogloss:0.33735
+[9]	train-mlogloss:0.32185
+Fold Num: 5.0
+Accuracy: 81.304
+F1 score: 81.223
+Precision: 81.579
+Sensitivity: 80.87
+Specificity: 81.739
+AUC: 89.928
+----------------------------------------------------------------------------------------------
+
+Overall:
+Accuracy: 81.1306
+Precision: 80.92580000000001
+F1 score: 81.20400000000001
+Sensitivity: 81.5652
+Specificity: 80.69560000000001
+AUC: 89.97940000000001
+
+###############################################################################
+
+Embedding Size: 90
+----------------------------------------------------------------------------------------------
+[18:33:13] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61605
+[1]	train-mlogloss:0.55650
+[2]	train-mlogloss:0.51038
+[3]	train-mlogloss:0.47442
+[4]	train-mlogloss:0.43306
+[5]	train-mlogloss:0.40726
+[6]	train-mlogloss:0.37971
+[7]	train-mlogloss:0.35467
+[8]	train-mlogloss:0.33714
+[9]	train-mlogloss:0.32074
+Fold Num: 1.0
+Accuracy: 81.739
+F1 score: 81.897
+Precision: 81.197
+Sensitivity: 82.609
+Specificity: 80.87
+AUC: 90.382
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:33:18] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61207
+[1]	train-mlogloss:0.55554
+[2]	train-mlogloss:0.51099
+[3]	train-mlogloss:0.47475
+[4]	train-mlogloss:0.43889
+[5]	train-mlogloss:0.41108
+[6]	train-mlogloss:0.38198
+[7]	train-mlogloss:0.36129
+[8]	train-mlogloss:0.34370
+[9]	train-mlogloss:0.33058
+Fold Num: 2.0
+Accuracy: 83.478
+F1 score: 83.186
+Precision: 84.685
+Sensitivity: 81.739
+Specificity: 85.217
+AUC: 89.138
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:33:23] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61578
+[1]	train-mlogloss:0.55501
+[2]	train-mlogloss:0.50060
+[3]	train-mlogloss:0.46096
+[4]	train-mlogloss:0.43015
+[5]	train-mlogloss:0.39570
+[6]	train-mlogloss:0.37716
+[7]	train-mlogloss:0.35651
+[8]	train-mlogloss:0.34394
+[9]	train-mlogloss:0.32316
+Fold Num: 3.0
+Accuracy: 83.043
+F1 score: 83.262
+Precision: 82.203
+Sensitivity: 84.348
+Specificity: 81.739
+AUC: 93.868
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:33:32] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60310
+[1]	train-mlogloss:0.53893
+[2]	train-mlogloss:0.49416
+[3]	train-mlogloss:0.45640
+[4]	train-mlogloss:0.43126
+[5]	train-mlogloss:0.40990
+[6]	train-mlogloss:0.38381
+[7]	train-mlogloss:0.36229
+[8]	train-mlogloss:0.33576
+[9]	train-mlogloss:0.32162
+Fold Num: 4.0
+Accuracy: 79.565
+F1 score: 79.295
+Precision: 80.357
+Sensitivity: 78.261
+Specificity: 80.87
+AUC: 88.469
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:33:39] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60719
+[1]	train-mlogloss:0.55741
+[2]	train-mlogloss:0.50624
+[3]	train-mlogloss:0.47205
+[4]	train-mlogloss:0.44413
+[5]	train-mlogloss:0.41791
+[6]	train-mlogloss:0.39485
+[7]	train-mlogloss:0.37085
+[8]	train-mlogloss:0.34343
+[9]	train-mlogloss:0.32906
+Fold Num: 5.0
+Accuracy: 83.043
+F1 score: 82.511
+Precision: 85.185
+Sensitivity: 80.0
+Specificity: 86.087
+AUC: 88.907
+----------------------------------------------------------------------------------------------
+
+Overall:
+Accuracy: 82.1736
+Precision: 82.72540000000001
+F1 score: 82.03020000000001
+Sensitivity: 81.3914
+Specificity: 82.95660000000001
+AUC: 90.1528
+
+###############################################################################
+
+Embedding Size: 100
+----------------------------------------------------------------------------------------------
+[18:33:47] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61578
+[1]	train-mlogloss:0.56417
+[2]	train-mlogloss:0.51909
+[3]	train-mlogloss:0.47850
+[4]	train-mlogloss:0.44687
+[5]	train-mlogloss:0.41279
+[6]	train-mlogloss:0.38782
+[7]	train-mlogloss:0.37407
+[8]	train-mlogloss:0.35135
+[9]	train-mlogloss:0.33145
+Fold Num: 1.0
+Accuracy: 83.478
+F1 score: 83.036
+Precision: 85.321
+Sensitivity: 80.87
+Specificity: 86.087
+AUC: 89.505
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:33:53] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61302
+[1]	train-mlogloss:0.56375
+[2]	train-mlogloss:0.51767
+[3]	train-mlogloss:0.47536
+[4]	train-mlogloss:0.43599
+[5]	train-mlogloss:0.41399
+[6]	train-mlogloss:0.39090
+[7]	train-mlogloss:0.36379
+[8]	train-mlogloss:0.35209
+[9]	train-mlogloss:0.32957
+Fold Num: 2.0
+Accuracy: 83.043
+F1 score: 83.404
+Precision: 81.667
+Sensitivity: 85.217
+Specificity: 80.87
+AUC: 91.561
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:33:59] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61924
+[1]	train-mlogloss:0.57501
+[2]	train-mlogloss:0.52264
+[3]	train-mlogloss:0.49138
+[4]	train-mlogloss:0.46020
+[5]	train-mlogloss:0.43007
+[6]	train-mlogloss:0.40135
+[7]	train-mlogloss:0.38110
+[8]	train-mlogloss:0.36366
+[9]	train-mlogloss:0.33684
+Fold Num: 3.0
+Accuracy: 84.348
+F1 score: 84.483
+Precision: 83.761
+Sensitivity: 85.217
+Specificity: 83.478
+AUC: 91.399
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:34:05] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.61141
+[1]	train-mlogloss:0.56100
+[2]	train-mlogloss:0.51542
+[3]	train-mlogloss:0.47432
+[4]	train-mlogloss:0.43754
+[5]	train-mlogloss:0.41156
+[6]	train-mlogloss:0.38106
+[7]	train-mlogloss:0.35892
+[8]	train-mlogloss:0.33864
+[9]	train-mlogloss:0.32120
+Fold Num: 4.0
+Accuracy: 80.87
+F1 score: 81.034
+Precision: 80.342
+Sensitivity: 81.739
+Specificity: 80.0
+AUC: 90.318
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+[18:34:11] WARNING: ../src/learner.cc:1095: Starting in XGBoost 1.3.0, the default evaluation metric used with the objective 'multi:softprob' was changed from 'merror' to 'mlogloss'. Explicitly set eval_metric if you'd like to restore the old behavior.
+[0]	train-mlogloss:0.60642
+[1]	train-mlogloss:0.55591
+[2]	train-mlogloss:0.50270
+[3]	train-mlogloss:0.46304
+[4]	train-mlogloss:0.42924
+[5]	train-mlogloss:0.40163
+[6]	train-mlogloss:0.37408
+[7]	train-mlogloss:0.35226
+[8]	train-mlogloss:0.33252
+[9]	train-mlogloss:0.31177
+Fold Num: 5.0
+Accuracy: 80.435
+F1 score: 80.851
+Precision: 79.167
+Sensitivity: 82.609
+Specificity: 78.261
+AUC: 87.565
+----------------------------------------------------------------------------------------------
+
+Overall:
+Accuracy: 82.43480000000001
+Precision: 82.05160000000001
+F1 score: 82.5616
+Sensitivity: 83.1304
+Specificity: 81.73920000000001
+AUC: 90.06960000000001
+
+###############################################################################
+
