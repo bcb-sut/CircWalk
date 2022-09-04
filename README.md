@@ -1,7 +1,5 @@
 Kouhsar, M., Kashaninia, E., Mardani, B. et al. CircWalk: a novel approach to predict CircRNA-disease association based on heterogeneous network representation learning. BMC Bioinformatics 23, 331 (2022). https://doi.org/10.1186/s12859-022-04883-9
 
-Article available at https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04883-9
-
 Background
 Several types of RNA in the cell are usually involved in biological processes with multiple functions. Coding RNAs code for proteins while non-coding RNAs regulate gene expression. Some single-strand RNAs can create a circular shape via the back splicing process and convert into a new type called circular RNA (circRNA). circRNAs are among the essential non-coding RNAs in the cell that involve multiple disorders. One of the critical functions of circRNAs is to regulate the expression of other genes through sponging micro RNAs (miRNAs) in diseases. This mechanism, known as the competing endogenous RNA (ceRNA) hypothesis, and additional information obtained from biological datasets can be used by computational approaches to predict novel associations between disease and circRNAs.
 
