@@ -23,7 +23,7 @@ Before you run the code, either:
 
 Or,
 
-  - install [deepwalk]() and do the following:
+  - install [deepwalk](https://github.com/phanein/deepwalk) and do the following:
     1. Go to the RawData directory on the clone of the CircWalk repo that you have downloaded on your machine. Then, run this command for every feature space size you need:
 
     ``` 
