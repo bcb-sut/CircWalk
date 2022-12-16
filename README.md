@@ -20,7 +20,9 @@ Kouhsar, M., Kashaninia, E., Mardani, B. et al. CircWalk: a novel approach to pr
 ### Notes ###
 Before you run the code, either:
   - download the files listed [here](https://www.dropbox.com/scl/fo/tcodexrgvnx81ext0x8uf/h?dl=0&rlkey=f0l9hlzyhg2cy8sfwzgnkde2s) and paste them into the `Data` directory in the clone of the CircWalk repo that you have downloaded on your machine.
+
 Or,
+
   - install [deepwalk]() and do the following:
     1. Go to the RawData directory on the clone of the CircWalk repo that you have downloaded on your machine. Then, run this command for every feature space size you need:
 
@@ -34,8 +36,9 @@ Or,
     deepwalk --format edgelist --input intMergedNetwork.edgelist --representation-size 100 --workers 2 --output entity_representations100.embeddings
     ```
     (That `--workers` parameter is optional but it obviously increases performance)
+    
     As you can observe in the code, the current code needs feature sizes from 10 to 200 (only the multiples of ten)
     
     2. Then remove the first row of the output file named entity_representations<FEATURE_SIZE>.embeddings. The first row consists of only two integers and is not a feature vector and hence has to be removed becuase in the Python code it is assumed that embedding files are `.csv` files consisting of fixed-length rows of features.
 
-    3. Then you can cut and paste the output files to the Data directory where embeddings of size 10 to 50 already reside and run `boosting_training.py` for the XGBoost classifier, or any other file in `/Data` ending with "_training.py" for other classifiers. The results will be written to `/Results/xgboost/xgboostReport.docx`.
+    3. Then you can cut and paste the output files to the Data directory where embeddings of size 10 to 50 already reside and run `boosting_training.py` for the XGBoost classifier, or any other file in `/Data` ending with `_training.py` for other classifiers. The results will be written to `/Results/xgboost/xgboostReport.docx`.
