@@ -15,3 +15,23 @@ The twelve datasets we used can be found at the following web addresses, respect
 
 To cite the article, you can use the citation below:
 Kouhsar, M., Kashaninia, E., Mardani, B. et al. CircWalk: a novel approach to predict CircRNA-disease association based on heterogeneous network representation learning. BMC Bioinformatics 23, 331 (2022). https://doi.org/10.1186/s12859-022-04883-9
+
+
+### Notes ###
+Before you run the code, either:
+  - download the files listed [here](https://www.dropbox.com/scl/fo/tcodexrgvnx81ext0x8uf/h?dl=0&rlkey=f0l9hlzyhg2cy8sfwzgnkde2s) and paste them into the `Data` directory of our project.
+Or,
+  - install [deepwalk]() and do the following:
+    1. Go to the RawData directory on the clone of the CircWalk repo that you have downloaded on your machine. Then, run this command for every feature space size you need:
+
+``` deepwalk --format edgelist --input intMergedNetwork.edgelist --representation-size <FEATURE_SIZE> --workers 2 --output entity_representations<FEATURE_SIZE>.embeddings ```
+
+E.g. to make embeddings (=feature vectors) of size 100 this is what the command would look like:
+
+``` deepwalk --format edgelist --input intMergedNetwork.edgelist --representation-size 100 --workers 2 --output entity_representations100.embeddings
+(That --workers parameter is optional but it obviously increases performance) ```
+
+  2. Then remove the first row of the output file named entity_representations<FEATURE_SIZE>.embeddings. The first row consists of only two integers and is not a feature vector and hence has to be removed becuase in the Python code it is assumed that embedding files are .csv files consisting of fixed-length rows of features.
+  As you can observe in the code, the current code needs feature sizes from 10 to 200 (only the multiples of ten)
+
+  3. Then you can cut and paste the output files to the Data directory where embeddings of size 10 to 50 already reside and run boosting_training.py for the XGBoost classifier, or any other file in /Data ending with "_training.py" for other classifiers. The results will be written to /Results/xgboost/xgboostReport.docx.
